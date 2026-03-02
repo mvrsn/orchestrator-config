@@ -83,6 +83,6 @@
     "requestTimeoutSeconds" : 30,
     "saveFailedTranscriptions" : true,
     "syncTranscriptions" : false,
-    "whisperMethod" : "local"
+    "whisperMethod" : "none"
   }
 }
