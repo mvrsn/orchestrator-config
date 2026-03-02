@@ -1,0 +1,27 @@
+{
+  "autoRestart" : false,
+  "color" : "FFD3B6",
+  "command" : "yarn local",
+  "createdAt" : 792961004.021796,
+  "environment" : {
+
+  },
+  "icon" : "message",
+  "id" : "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA",
+  "links" : [
+    {
+      "id" : "5FA08E23-6473-4DFC-A499-C9A8FFA818E5",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3011"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Partners",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 792961004.021796,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/partners"
+}

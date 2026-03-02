@@ -1,0 +1,12 @@
+{
+  "appVersion" : "1.0.0",
+  "buildNumber" : "5",
+  "endedAt" : "2026-02-23T15:53:00Z",
+  "osVersion" : "Version 15.3.1 (Build 24D70)",
+  "runId" : "20260223-155130-30e201a2",
+  "scenario" : "auto_session",
+  "schemaVersion" : 1,
+  "startedAt" : "2026-02-23T15:51:30Z",
+  "stopReason" : "superseded",
+  "triggeredBy" : "app_launch"
+}

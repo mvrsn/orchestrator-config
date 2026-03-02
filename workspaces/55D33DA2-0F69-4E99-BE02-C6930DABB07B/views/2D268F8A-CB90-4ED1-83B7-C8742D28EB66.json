@@ -1,0 +1,38 @@
+{
+  "color" : "667eea",
+  "createdAt" : 789930530.972082,
+  "icon" : "envelope",
+  "id" : "2D268F8A-CB90-4ED1-83B7-C8742D28EB66",
+  "name" : "Mail",
+  "order" : 5,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "F227EAB5-79BC-48EB-9702-B133220696F3",
+            "type" : "project"
+          },
+          "id" : "87186373-5E10-4EFA-97CD-FCB715AC4517"
+        },
+        "type" : "panel"
+      },
+      "id" : "ADB19467-A6C3-42FF-88FF-AFD4885A7B20",
+      "ratio" : 0.4994678669880323,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "752CA654-60F1-491E-837D-47766A70D476",
+            "type" : "project"
+          },
+          "id" : "84D5B77F-2DC9-4558-A882-E1D47015573D"
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 792524711.92999,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

@@ -1,0 +1,88 @@
+{
+  "agentIdleBadgesEnabled" : true,
+  "agentNotificationsEnabled" : true,
+  "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
+  "chromiumUseGlobalInputMonitor" : false,
+  "configFolderPath" : "~\/.orchestrator",
+  "confirmBeforeStopAll" : true,
+  "focusLayoutIds" : [
+    "B762A2E6-380C-4146-9D78-6BD95DD0CD53",
+    "095364F9-EDF4-4327-867F-BA9C9C4D17FE",
+    "C748FDE1-5EB0-4D40-A849-20FDCD5CF84E",
+    "27D39A75-6C49-417B-A592-736216BC0CC9",
+    "ED03D855-FC6E-4FC9-980B-32A192A307C1"
+  ],
+  "gitSync" : {
+    "commitCount" : 0,
+    "enabled" : true,
+    "lastSyncDate" : 794102408.137272,
+    "lastSyncError" : "Git command failed: git pull --rebase --autostash origin main\nFrom github.com:mvrsn\/orchestrator-config\n * branch            main       -> FETCH_HEAD\nRebasing (1\/2)\rerror: could not apply df67b4f... Initial configuration\nhint: Resolve all conflicts manually, mark them as resolved with\nhint: \"git add\/rm <conflicted_files>\", then run \"git rebase --continue\".\nhint: You can instead skip this commit: run \"git rebase --skip\".\nhint: To abort and get back to the state before \"git rebase\", run \"git rebase --abort\".\nhint: Disable this message with \"git config set advice.mergeConflict false\"\nCould not apply df67b4f... # Initial configuration\n",
+    "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
+  },
+  "keyBindings" : {
+    "overrides" : {
+
+    }
+  },
+  "lastSelectedLayoutId" : "688BD6EA-EB42-4B8D-849D-89A785133C29",
+  "lastSelectedWorkspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B",
+  "linkOpenPreference" : "panel",
+  "mailingList" : {
+    "bannerDismissed" : true,
+    "subscribed" : false
+  },
+  "maxLogsPerProject" : 5000,
+  "mcp" : {
+    "bannerDismissed" : true,
+    "enabled" : true,
+    "port" : 9847
+  },
+  "menuBarIconMode" : "processCount",
+  "notifications" : {
+    "enabled" : true,
+    "logPatterns" : [
+
+    ],
+    "notifyOnInputRequired" : true,
+    "notifyOnQuickActionFailure" : true,
+    "notifyOnQuickActionSuccess" : true,
+    "playSounds" : true
+  },
+  "onboarding" : {
+    "completedSteps" : [
+      "projectStarted",
+      "agentSeen"
+    ]
+  },
+  "pomodoro" : {
+    "enabled" : true,
+    "focusMinutes" : 25,
+    "longBreakMinutes" : 15,
+    "roundsBeforeLongBreak" : 4,
+    "shortBreakMinutes" : 5,
+    "showBreakTakeover" : true,
+    "state" : {
+      "awaitingManualContinuation" : true,
+      "breakTakeoverVisible" : false,
+      "focusRoundsCompletedInCycle" : 0,
+      "isRunning" : false,
+      "lastUpdatedAt" : 794074879.79883,
+      "phase" : "focus",
+      "remainingSeconds" : 0
+    },
+    "visualStyle" : "etherealDrift"
+  },
+  "resumeStartupConcurrency" : 3,
+  "sessionResumePreference" : "alwaysResume",
+  "shellPath" : "\/bin\/zsh",
+  "showNotificationsOnCrash" : true,
+  "systemMetricsDisplayMode" : "text",
+  "voice" : {
+    "localWhisperPath" : "\/opt\/homebrew\/bin\/whisper-cli",
+    "maxRetries" : 2,
+    "requestTimeoutSeconds" : 30,
+    "saveFailedTranscriptions" : true,
+    "syncTranscriptions" : false,
+    "whisperMethod" : "api"
+  }
+}

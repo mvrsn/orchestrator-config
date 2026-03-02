@@ -1,0 +1,70 @@
+{
+  "baselineDurationSec" : 34,
+  "baselineMemorySlopeMBPerHour" : 27168.75,
+  "baselineOrphanMCPMean" : 2,
+  "baselineProfile" : "auto_benchmark[preset]",
+  "baselineRunIDs" : [
+    "20260222-212509-c8147bed"
+  ],
+  "candidateDurationSec" : 604,
+  "candidateMemorySlopeMBPerHour" : 912.3861754966888,
+  "candidateOrphanMCPMean" : 2,
+  "candidateProfile" : "auto_benchmark[decision_grade_10m]",
+  "candidateRunIDs" : [
+    "20260222-222134-c2866fc1"
+  ],
+  "comparableEventGatePass" : true,
+  "comparableLatencyEventCount" : 2,
+  "dataQuality" : "LOW",
+  "decisionGradeProfilePair" : false,
+  "durationGatePass" : false,
+  "generatedAt" : "2026-02-22T22:31:38Z",
+  "ignoredLatencyEventCount" : 2,
+  "latencyDeltas" : [
+    {
+      "baselineCount" : 53,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 123,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_load"
+    },
+    {
+      "baselineCount" : 51,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 121,
+      "candidateP95Ms" : 1,
+      "deltaPercent" : 0,
+      "eventType" : "kanban_save"
+    },
+    {
+      "baselineCount" : 12,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 223,
+      "candidateP95Ms" : 0,
+      "eventType" : "layout_switch"
+    },
+    {
+      "baselineCount" : 12,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 223,
+      "candidateP95Ms" : 6,
+      "deltaPercent" : 500,
+      "eventType" : "workspace_switch"
+    }
+  ],
+  "latencyPass" : false,
+  "latencyThresholdPercent" : 15,
+  "memoryPass" : false,
+  "memorySlopeThresholdPercent" : 20,
+  "minimumComparableLatencyEvents" : 2,
+  "minimumDurationSec" : 120,
+  "orphanPass" : true,
+  "qualityWarnings" : [
+    "Run duration under minimum 120s. Memory slope and leak trends are not reliable yet.",
+    "Run duration under recommended 300s for this profile pair.",
+    "Profile pair is not decision_grade_10m; use decision-grade runs for release-level refactor decisions."
+  ],
+  "recommendedDurationPass" : false,
+  "recommendedDurationSec" : 300,
+  "schemaVersion" : 3
+}

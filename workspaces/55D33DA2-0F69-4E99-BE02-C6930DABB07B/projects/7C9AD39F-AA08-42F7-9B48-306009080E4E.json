@@ -1,0 +1,29 @@
+{
+  "autoRestart" : false,
+  "color" : "AA96DA",
+  "command" : "yarn serve",
+  "createdAt" : 792961004.02156,
+  "environment" : {
+
+  },
+  "icon" : "cylinder.split.1x2",
+  "id" : "7C9AD39F-AA08-42F7-9B48-306009080E4E",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "CRM Backend",
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy",
+      "icon" : "play.circle",
+      "id" : "5AE62C42-624C-40C2-887E-1D4BFA6F199C",
+      "name" : "deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
+    }
+  ],
+  "updatedAt" : 792961004.02156,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
+}

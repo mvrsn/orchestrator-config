@@ -1,0 +1,52 @@
+{
+  "autoRestart" : false,
+  "color" : "F38181",
+  "command" : "yarn web",
+  "createdAt" : 792961004.021998,
+  "environment" : {
+
+  },
+  "icon" : "photo",
+  "id" : "2B591D89-3FAB-4369-86A6-7235FCC05C0D",
+  "links" : [
+    {
+      "id" : "DAB8C803-7183-4564-8EFC-5E9C07866293",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3051"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "YT Frontend",
+  "notificationOverride" : {
+    "enabled" : false,
+    "logPatterns" : [
+      {
+        "id" : "986D0513-275A-4676-8D8D-A3D9BD30BF5D",
+        "isEnabled" : true,
+        "name" : "[ERR]",
+        "pattern" : "[ERR]",
+        "patternType" : "text",
+        "severity" : "error"
+      },
+      {
+        "id" : "4EC79169-2BBD-4CAD-8386-D93044385679",
+        "isEnabled" : true,
+        "name" : "ERROR",
+        "pattern" : "ERROR",
+        "patternType" : "text",
+        "severity" : "error"
+      }
+    ],
+    "notifyOnInputRequired" : true,
+    "notifyOnQuickActionFailure" : true,
+    "notifyOnQuickActionSuccess" : true,
+    "playSounds" : true
+  },
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 792961004.021998,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/youtube"
+}

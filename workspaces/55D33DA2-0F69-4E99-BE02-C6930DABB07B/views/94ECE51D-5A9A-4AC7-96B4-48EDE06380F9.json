@@ -1,0 +1,38 @@
+{
+  "color" : "667eea",
+  "createdAt" : 790038138.971593,
+  "icon" : "network",
+  "id" : "94ECE51D-5A9A-4AC7-96B4-48EDE06380F9",
+  "name" : "Website + CRM",
+  "order" : 4,
+  "root" : {
+    "split" : {
+      "axis" : "vertical",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
+            "type" : "project"
+          },
+          "id" : "AD796C62-6370-4647-822E-A55FE2A59F18"
+        },
+        "type" : "panel"
+      },
+      "id" : "3ACA6F1A-4C41-4E1E-A946-02ED701EB623",
+      "ratio" : 0.67,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "7C9AD39F-AA08-42F7-9B48-306009080E4E",
+            "type" : "project"
+          },
+          "id" : "48A825EE-4D6E-492E-949A-B55E517195AA"
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 792524697.749893,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

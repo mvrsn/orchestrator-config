@@ -1,0 +1,47 @@
+{
+  "autoRestart" : false,
+  "color" : "AA96DA",
+  "command" : "yarn serve",
+  "createdAt" : 792961004.022071,
+  "environment" : {
+
+  },
+  "icon" : "externaldrive",
+  "id" : "752CA654-60F1-491E-837D-47766A70D476",
+  "links" : [
+    {
+      "id" : "D1BB7933-4025-442C-8903-34404A018F02",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3001"
+    }
+  ],
+  "logPatterns" : [
+    {
+      "id" : "9529960E-FA2A-4093-8A76-CDF8BDC99A1A",
+      "isEnabled" : true,
+      "name" : "API Error",
+      "pattern" : "ERROR Critical alert:",
+      "patternType" : "text",
+      "severity" : "error"
+    }
+  ],
+  "name" : "API",
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy --prof",
+      "icon" : "play.circle",
+      "id" : "11BEBCF7-B1E5-4415-997E-BF8258D822DB",
+      "name" : "deploy:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
+    },
+    {
+      "command" : "npm run deploy:notifications:prod",
+      "icon" : "play.circle",
+      "id" : "295F0128-81AC-41B4-A7FD-B4B64DEBF45A",
+      "name" : "deploy:notifications:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
+    }
+  ],
+  "updatedAt" : 792961004.022071,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
+}

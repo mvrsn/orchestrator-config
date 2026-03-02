@@ -1,0 +1,33 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "yarn dev",
+  "createdAt" : 793041369.79468,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "51256D55-8371-4690-BD11-46711408CE57",
+  "links" : [
+    {
+      "id" : "70F562B4-56C1-400C-A2E0-330CC508E48A",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3000"
+    },
+    {
+      "id" : "78F0E269-5302-4B0D-A9DB-DF46D256D24B",
+      "label" : "supabase",
+      "url" : "https:\/\/supabase.com\/dashboard\/project\/wihctppubhjajojoddfm"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "VibeQuiz",
+  "port" : 3000,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 793066427.813111,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/vibequiz"
+}

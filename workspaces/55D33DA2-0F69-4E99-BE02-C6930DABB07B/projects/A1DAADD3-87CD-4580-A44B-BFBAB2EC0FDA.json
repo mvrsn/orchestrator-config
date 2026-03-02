@@ -1,0 +1,45 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "yarn serve",
+  "createdAt" : 792961004.021648,
+  "environment" : {
+
+  },
+  "icon" : "network",
+  "id" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
+  "links" : [
+    {
+      "id" : "B9540473-F9D6-4FF2-AC00-D00984F17199",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:1313"
+    },
+    {
+      "id" : "50704543-660B-4285-B277-1208C23E98A3",
+      "label" : "fb debugger",
+      "url" : "https:\/\/developers.facebook.com\/tools\/debug\/?q=www.simplyfluent.com+"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Website",
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy",
+      "icon" : "play.circle",
+      "id" : "C4E4F156-4DAF-4304-9438-BFFF24317153",
+      "name" : "deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
+    },
+    {
+      "command" : "yarn og-image",
+      "icon" : "photo",
+      "id" : "A1FA4E35-34BE-4643-9BF1-7109582B802A",
+      "name" : "og-image",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
+    }
+  ],
+  "updatedAt" : 792961066.161824,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
+}

@@ -1,0 +1,62 @@
+{
+  "color" : "38BDF8",
+  "createdAt" : 792505426.307647,
+  "icon" : "server.rack",
+  "id" : "095364F9-EDF4-4327-867F-BA9C9C4D17FE",
+  "name" : "Publisher",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "8BE142F6-A889-4AD8-862C-0CC410DF17C4",
+                "type" : "browser"
+              },
+              "id" : "77A85967-D438-44B4-911A-6DE9810BF4E8",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "E4829BCC-B69B-4952-9545-B230636DE027",
+          "previousRatio" : 0.7614138299338474,
+          "ratio" : 1,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
+                "type" : "project"
+              },
+              "id" : "7CB5D85D-1F47-406A-86BD-AA5809C1AB8F",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "0BBC5268-4AFB-43BD-ADA9-313B58629463",
+      "ratio" : 0.7022695865271231,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "34E272F1-9CD1-43D2-8D4F-F42C40DEB89C",
+            "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
+            "type" : "agent"
+          },
+          "id" : "BBFA9D58-9555-4802-B8E2-6024AE3DACAD",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 794069961.744267,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

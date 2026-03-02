@@ -1,0 +1,39 @@
+{
+  "autoRestart" : false,
+  "color" : "FFD3B6",
+  "command" : "yarn dev",
+  "createdAt" : 793042911.856878,
+  "environment" : {
+
+  },
+  "icon" : "globe",
+  "id" : "12D29467-00D6-4B82-8805-940D0AFC9A3D",
+  "links" : [
+    {
+      "id" : "7C027DC5-4B73-4E8B-B22A-89ED9356CBAC",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3810"
+    },
+    {
+      "id" : "9E67CDCF-3533-46A8-A837-F8CA03C1FBD3",
+      "label" : "production",
+      "url" : "https:\/\/mvrsn.dev"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Landing Page",
+  "port" : 3810,
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy",
+      "icon" : "paperplane",
+      "id" : "4CAF6F3A-7DA2-4BDE-8141-10C5E3211DCD",
+      "name" : "Deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/website"
+    }
+  ],
+  "updatedAt" : 793072629.257054,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/website"
+}

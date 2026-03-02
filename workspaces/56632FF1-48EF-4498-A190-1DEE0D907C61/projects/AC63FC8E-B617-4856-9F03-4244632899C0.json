@@ -1,0 +1,27 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "npm run dev",
+  "createdAt" : 794090706.126329,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "AC63FC8E-B617-4856-9F03-4244632899C0",
+  "links" : [
+    {
+      "id" : "09978145-00C9-461B-80D1-6F19F5AF598B",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5199\/"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "redesign",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794092998.390005,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/redesign"
+}

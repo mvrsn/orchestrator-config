@@ -1,0 +1,18 @@
+# Orchestrator profile gitignore (v2)
+# Auto-managed — updated on launch. Do not edit manually.
+
+# Transient state
+state.json
+dev-profile-state.plist
+
+# Metrics event log (write-ahead log, truncated on launch — rollups.json has the real data)
+metrics/events.jsonl
+
+# Screenshots (binary blobs)
+screenshots/
+
+# Voice input data (audio files, API keys, transcriptions)
+voice/
+
+# macOS
+.DS_Store

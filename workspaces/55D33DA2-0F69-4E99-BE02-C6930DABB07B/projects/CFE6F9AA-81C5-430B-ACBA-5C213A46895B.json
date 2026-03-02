@@ -1,0 +1,45 @@
+{
+  "autoRestart" : false,
+  "color" : "AA96DA",
+  "command" : "yarn dev",
+  "createdAt" : 792961004.02193,
+  "environment" : {
+
+  },
+  "icon" : "network",
+  "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+  "links" : [
+    {
+      "id" : "0E7C685A-757A-4A01-9ED7-979A20F7C87E",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3100\/"
+    },
+    {
+      "id" : "BADC8758-2B87-4CD4-8669-38DBC0EEB6CC",
+      "label" : "prod",
+      "url" : "https:\/\/www.simplyfluent.com\/orchestrator"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Orchestrator",
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy",
+      "icon" : "play.circle",
+      "id" : "12684FF1-78A9-4328-947A-C1BB77F9851E",
+      "name" : "deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run release:beta",
+      "icon" : "play.circle",
+      "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
+      "name" : "release:beta",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    }
+  ],
+  "updatedAt" : 793152010.411734,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+}

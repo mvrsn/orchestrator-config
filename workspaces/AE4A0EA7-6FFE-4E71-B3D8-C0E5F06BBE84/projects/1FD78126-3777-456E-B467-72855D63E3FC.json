@@ -1,0 +1,24 @@
+{
+  "autoRestart" : false,
+  "color" : "C9E4DE",
+  "command" : "node server.js",
+  "createdAt" : 794049574.207102,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "1FD78126-3777-456E-B467-72855D63E3FC",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "API",
+  "port" : 3001,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794049574.207102,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/demo\/api"
+}

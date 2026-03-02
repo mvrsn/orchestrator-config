@@ -1,0 +1,48 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "npm run dev",
+  "createdAt" : 792961004.021026,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
+  "links" : [
+    {
+      "id" : "F2D76506-0676-4262-B070-FFBA41BB559E",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3013"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Publisher",
+  "port" : 3000,
+  "quickCommands" : [
+    {
+      "command" : "npm run build:index",
+      "icon" : "terminal",
+      "id" : "5EBA4AA5-0B70-4167-9679-2FAE5B1C523D",
+      "name" : "Build Index",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
+    },
+    {
+      "command" : "npm run translate:stories",
+      "icon" : "text.book.closed",
+      "id" : "A6C79758-BC6E-4677-A6A9-5F778C5B2A2A",
+      "name" : "Translate Stories",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
+    },
+    {
+      "command" : "npm run translate:classics:10",
+      "icon" : "book.pages",
+      "id" : "D3B004C7-3CB8-421F-8989-77D7DB20CDC6",
+      "name" : "Translate Classics",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
+    }
+  ],
+  "updatedAt" : 793674907.463072,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
+}

@@ -1,0 +1,80 @@
+{
+  "color" : "667eea",
+  "createdAt" : 789943170.066789,
+  "icon" : "message",
+  "id" : "A5984429-8ABA-418D-ABE1-A33502E45C0A",
+  "name" : "Partners",
+  "order" : 2,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "C78D8DE6-F17B-4FF7-AF1A-E7A09698B894",
+                "type" : "browser"
+              },
+              "id" : "DAA9846F-E76C-4F21-A2C3-C6B15C76080C",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "ACBA5209-FB6A-4A80-95EE-0EB5EB8B212D",
+          "ratio" : 0.7381305126791619,
+          "second" : {
+            "split" : {
+              "axis" : "horizontal",
+              "first" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA",
+                    "type" : "project"
+                  },
+                  "id" : "CFDBA096-9B1E-401B-AA1F-2B53A6838831",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              },
+              "id" : "5870B81E-F264-4E62-A801-96DD8A266ABB",
+              "ratio" : 0.5,
+              "second" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "752CA654-60F1-491E-837D-47766A70D476",
+                    "type" : "project"
+                  },
+                  "id" : "2F8A3ED7-9FF8-4DF4-8689-479D74ADC220",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              }
+            },
+            "type" : "split"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "47731BF7-4E87-4D1C-9010-F31FDC69DB7D",
+      "ratio" : 0.6103469589408019,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "7F9732D5-0D48-4F05-8B83-5A5F4CD62A6D",
+            "projectId" : "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA",
+            "type" : "agent"
+          },
+          "id" : "0E37067C-845F-44D9-B960-EEBCFDD0AB01",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 792545927.390761,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

@@ -1,0 +1,75 @@
+{
+  "archivedCards" : [
+
+  ],
+  "cards" : [
+
+  ],
+  "columns" : [
+    {
+      "cardIds" : [
+
+      ],
+      "color" : "6B7280",
+      "icon" : "tray.fill",
+      "id" : "C10FE6CC-38BE-4410-8029-31D8A6D93E27",
+      "name" : "Backlog",
+      "order" : 0
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "color" : "3B82F6",
+      "icon" : "checklist",
+      "id" : "B4B06AD7-3996-4E44-990B-CC8F94EDB7A4",
+      "name" : "To-Do",
+      "order" : 1
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "color" : "F59E0B",
+      "icon" : "flame.fill",
+      "id" : "F2A81E87-80B9-472C-A860-A5510232ADC6",
+      "name" : "In Progress",
+      "order" : 2
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "color" : "10B981",
+      "icon" : "checkmark.circle.fill",
+      "id" : "D184A103-67D2-4935-849B-3CDEA4CB6B77",
+      "name" : "Done",
+      "order" : 3
+    }
+  ],
+  "didMigrateDefaultColumnColors" : true,
+  "didMigrateDefaultColumnIcons" : true,
+  "labels" : [
+    {
+      "color" : "EF4444",
+      "id" : "5FFACDFB-AA85-49C7-8EDD-9559978131C9",
+      "name" : "Bug"
+    },
+    {
+      "color" : "10B981",
+      "id" : "C2A913C5-F988-4465-9F73-7EDD5F1BE7B2",
+      "name" : "Feature"
+    },
+    {
+      "color" : "3B82F6",
+      "id" : "6120DAA9-4EC9-4370-BBB7-C77E3EAD778B",
+      "name" : "Improvement"
+    },
+    {
+      "color" : "F59E0B",
+      "id" : "B5544141-9F29-42BC-AB50-9FF67D0B9A9A",
+      "name" : "Urgent"
+    }
+  ],
+  "updatedAt" : 794016333.987154
+}

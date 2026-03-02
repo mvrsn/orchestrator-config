@@ -1,0 +1,33 @@
+{
+  "autoRestart" : false,
+  "color" : "EAFFD0",
+  "command" : "yarn dev",
+  "createdAt" : 792961004.02186,
+  "environment" : {
+
+  },
+  "icon" : "book",
+  "id" : "74867419-6E03-4B3D-B4B8-B3B7252B2D56",
+  "links" : [
+    {
+      "id" : "A73C7267-AE28-4B7C-8EF2-B7E306214752",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:8080"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Webview",
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy",
+      "icon" : "play.circle",
+      "id" : "23FA4190-7B76-4850-8067-01E6E849EC5E",
+      "name" : "deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/webview"
+    }
+  ],
+  "updatedAt" : 792961004.02186,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/webview"
+}

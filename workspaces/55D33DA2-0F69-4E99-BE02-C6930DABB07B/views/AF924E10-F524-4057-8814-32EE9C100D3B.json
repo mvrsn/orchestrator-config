@@ -1,0 +1,56 @@
+{
+  "color" : "667eea",
+  "createdAt" : 791155099.19264,
+  "icon" : "photo",
+  "id" : "AF924E10-F524-4057-8814-32EE9C100D3B",
+  "name" : "YouTube",
+  "order" : 8,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "5F461213-5B14-4701-831A-6642C3D9758E",
+                "type" : "browser"
+              },
+              "id" : "BBB1E9B0-F608-464D-9D30-A96F14E839E6"
+            },
+            "type" : "panel"
+          },
+          "id" : "DD6F4415-7659-44BD-960B-BCEA0E2298BC",
+          "ratio" : 0.8394690600882028,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "2B591D89-3FAB-4369-86A6-7235FCC05C0D",
+                "type" : "project"
+              },
+              "id" : "4518EAB2-401C-4D15-A582-FFE2C365A16B"
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "36F0CEE2-DB69-42E2-B898-51377E69D799",
+      "ratio" : 0.7594685104658021,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "D7575FC9-9187-4326-8A71-5070A2DA7FDA",
+            "type" : "project"
+          },
+          "id" : "9049115B-0AB7-470C-92EA-D6FCC697E47D"
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 792524757.39098,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

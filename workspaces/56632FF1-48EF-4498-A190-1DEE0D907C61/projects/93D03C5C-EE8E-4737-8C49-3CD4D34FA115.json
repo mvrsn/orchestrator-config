@@ -1,0 +1,23 @@
+{
+  "autoRestart" : false,
+  "color" : "FFD3B6",
+  "command" : "",
+  "createdAt" : 794078209.132362,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "93D03C5C-EE8E-4737-8C49-3CD4D34FA115",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "redesign",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794078209.132362,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/redesign"
+}

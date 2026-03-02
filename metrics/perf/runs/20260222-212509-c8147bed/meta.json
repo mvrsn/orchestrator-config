@@ -1,0 +1,13 @@
+{
+  "appVersion" : "1.0.0",
+  "buildNumber" : "5",
+  "endedAt" : "2026-02-22T21:25:43Z",
+  "label" : "preset",
+  "osVersion" : "Version 15.3.1 (Build 24D70)",
+  "runId" : "20260222-212509-c8147bed",
+  "scenario" : "auto_benchmark",
+  "schemaVersion" : 1,
+  "startedAt" : "2026-02-22T21:25:09Z",
+  "stopReason" : "auto_benchmark_completed",
+  "triggeredBy" : "developer_menu_auto"
+}

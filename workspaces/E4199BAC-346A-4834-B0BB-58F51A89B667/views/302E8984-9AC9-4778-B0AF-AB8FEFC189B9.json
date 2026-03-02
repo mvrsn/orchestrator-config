@@ -1,0 +1,40 @@
+{
+  "color" : "667eea",
+  "createdAt" : 793186542.712232,
+  "icon" : "square.grid.2x2",
+  "id" : "302E8984-9AC9-4778-B0AF-AB8FEFC189B9",
+  "name" : "Two",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "vertical",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "FF4A3FAB-7351-4BEA-AA4E-B65C8BBCC2E9",
+            "type" : "project"
+          },
+          "id" : "3FBD1373-3F4E-4B63-9E6B-C63CA4F891AA",
+          "isMinimized" : true
+        },
+        "type" : "panel"
+      },
+      "id" : "61A21A52-0668-4CDC-92DE-0F1758D14B45",
+      "ratio" : 0,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "E451EB9B-9804-4040-909E-500990258790",
+            "type" : "project"
+          },
+          "id" : "79A1A19F-37F1-4FE6-AC3C-3D20AF5C46CE",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 793186542.712297,
+  "workspaceId" : "E4199BAC-346A-4834-B0BB-58F51A89B667"
+}

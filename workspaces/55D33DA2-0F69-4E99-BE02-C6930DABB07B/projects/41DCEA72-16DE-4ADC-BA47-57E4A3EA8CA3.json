@@ -1,0 +1,27 @@
+{
+  "autoRestart" : false,
+  "color" : "FFD3B6",
+  "command" : "yarn local",
+  "createdAt" : 792961004.022145,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3",
+  "links" : [
+    {
+      "id" : "E15CF3BF-B6B4-4D22-A18C-96B29B1A485C",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3012"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Subscribe",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 792961004.022145,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/subscribe"
+}

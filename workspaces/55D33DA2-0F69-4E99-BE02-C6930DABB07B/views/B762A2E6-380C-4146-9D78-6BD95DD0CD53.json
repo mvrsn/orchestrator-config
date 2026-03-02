@@ -1,0 +1,62 @@
+{
+  "color" : "667eea",
+  "createdAt" : 793357714.520582,
+  "icon" : "square.grid.2x2",
+  "id" : "B762A2E6-380C-4146-9D78-6BD95DD0CD53",
+  "name" : "Redesign",
+  "order" : 9,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "BB1E7CCC-3D82-4A8A-B394-707672284AC1",
+                "type" : "browser"
+              },
+              "id" : "8C382F30-77C5-487F-B85C-8B6B6FB370F0",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "FAF2C698-29C0-4A95-8FF4-1DBEB4C59CE6",
+          "previousRatio" : 0.6472708682885908,
+          "ratio" : 1,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
+                "type" : "project"
+              },
+              "id" : "A8BAC9DF-18D3-4476-929E-0E1B7CB45343",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "4B76F3B4-49C2-48B1-B0F1-359AE705582C",
+      "ratio" : 0.65,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "C7AF887B-D21C-4220-B10C-51EDAD7F64C3",
+            "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
+            "type" : "agent"
+          },
+          "id" : "C4EB7796-97DB-4D8B-B450-9EFB82668B56",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 794093863.615581,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}

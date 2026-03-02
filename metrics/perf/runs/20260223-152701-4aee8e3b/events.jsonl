@@ -1,0 +1,2 @@
+{"eventType":"layout_switch","durationMs":0,"metadata":{"targetLayoutId":"27D39A75-6C49-417B-A592-736216BC0CC9","focusedAgent":"false","source":"system"},"timestamp":"2026-02-23T15:27:01Z","success":true,"runId":"20260223-152701-4aee8e3b"}
+{"timestamp":"2026-02-23T15:27:01Z","runId":"20260223-152701-4aee8e3b","eventType":"workspace_switch","durationMs":4,"success":true,"metadata":{"fromWorkspaceId":"none","toWorkspaceId":"00000000-0000-0000-0000-000000000001"}}

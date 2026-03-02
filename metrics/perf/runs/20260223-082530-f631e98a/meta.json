@@ -1,0 +1,13 @@
+{
+  "appVersion" : "1.0.0",
+  "buildNumber" : "5",
+  "endedAt" : "2026-02-23T08:35:34Z",
+  "label" : "decision_grade_10m",
+  "osVersion" : "Version 15.3.1 (Build 24D70)",
+  "runId" : "20260223-082530-f631e98a",
+  "scenario" : "auto_benchmark",
+  "schemaVersion" : 1,
+  "startedAt" : "2026-02-23T08:25:30Z",
+  "stopReason" : "auto_benchmark_completed",
+  "triggeredBy" : "developer_menu_auto"
+}

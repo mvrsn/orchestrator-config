@@ -1,0 +1,50 @@
+{
+  "baselineMemorySlopeMBPerHour" : 2047.03125,
+  "baselineOrphanMCPMean" : 2,
+  "baselineRunIDs" : [
+    "20260222-201148-52610375"
+  ],
+  "candidateMemorySlopeMBPerHour" : 28186.21323529412,
+  "candidateOrphanMCPMean" : 2,
+  "candidateRunIDs" : [
+    "20260222-201428-8c547fd2"
+  ],
+  "generatedAt" : "2026-02-22T20:17:50Z",
+  "latencyDeltas" : [
+    {
+      "baselineCount" : 0,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 53,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_load"
+    },
+    {
+      "baselineCount" : 0,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 51,
+      "candidateP95Ms" : 1,
+      "eventType" : "kanban_save"
+    },
+    {
+      "baselineCount" : 1,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 12,
+      "candidateP95Ms" : 0,
+      "eventType" : "layout_switch"
+    },
+    {
+      "baselineCount" : 1,
+      "baselineP95Ms" : 206,
+      "candidateCount" : 12,
+      "candidateP95Ms" : 7,
+      "deltaPercent" : -96.60194174757282,
+      "eventType" : "workspace_switch"
+    }
+  ],
+  "latencyPass" : false,
+  "latencyThresholdPercent" : 15,
+  "memoryPass" : false,
+  "memorySlopeThresholdPercent" : 20,
+  "orphanPass" : true,
+  "schemaVersion" : 1
+}

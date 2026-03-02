@@ -1,0 +1,68 @@
+{
+  "baselineDurationSec" : 604,
+  "baselineMemorySlopeMBPerHour" : 912.3861754966888,
+  "baselineOrphanMCPMean" : 2,
+  "baselineProfile" : "auto_benchmark[decision_grade_10m]",
+  "baselineRunIDs" : [
+    "20260222-222134-c2866fc1"
+  ],
+  "candidateDurationSec" : 606,
+  "candidateMemorySlopeMBPerHour" : 1461.200495049505,
+  "candidateOrphanMCPMean" : 2,
+  "candidateProfile" : "auto_benchmark[decision_grade_10m]",
+  "candidateRunIDs" : [
+    "20260222-223813-c2cac7b6"
+  ],
+  "comparableEventGatePass" : true,
+  "comparableLatencyEventCount" : 2,
+  "dataQuality" : "HIGH",
+  "decisionGradeProfilePair" : true,
+  "durationGatePass" : true,
+  "generatedAt" : "2026-02-22T22:49:33Z",
+  "ignoredLatencyEventCount" : 2,
+  "latencyDeltas" : [
+    {
+      "baselineCount" : 123,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 123,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_load"
+    },
+    {
+      "baselineCount" : 121,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 121,
+      "candidateP95Ms" : 1,
+      "deltaPercent" : 0,
+      "eventType" : "kanban_save"
+    },
+    {
+      "baselineCount" : 223,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 223,
+      "candidateP95Ms" : 0,
+      "eventType" : "layout_switch"
+    },
+    {
+      "baselineCount" : 223,
+      "baselineP95Ms" : 6,
+      "candidateCount" : 222,
+      "candidateP95Ms" : 5,
+      "deltaPercent" : -16.666666666666664,
+      "eventType" : "workspace_switch"
+    }
+  ],
+  "latencyPass" : false,
+  "latencyThresholdPercent" : 15,
+  "memoryPass" : false,
+  "memorySlopeThresholdPercent" : 20,
+  "minimumComparableLatencyEvents" : 2,
+  "minimumDurationSec" : 120,
+  "orphanPass" : true,
+  "qualityWarnings" : [
+
+  ],
+  "recommendedDurationPass" : true,
+  "recommendedDurationSec" : 600,
+  "schemaVersion" : 3
+}

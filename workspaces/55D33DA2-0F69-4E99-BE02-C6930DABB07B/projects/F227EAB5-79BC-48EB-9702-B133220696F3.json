@@ -1,0 +1,45 @@
+{
+  "autoRestart" : false,
+  "color" : "95E1D3",
+  "command" : "yarn local",
+  "createdAt" : 792961004.021327,
+  "environment" : {
+
+  },
+  "icon" : "envelope",
+  "id" : "F227EAB5-79BC-48EB-9702-B133220696F3",
+  "links" : [
+    {
+      "id" : "C30FA8A5-9040-4C29-BB05-D11290E4A6FC",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5173\/"
+    },
+    {
+      "id" : "EBC971DC-C6F9-4478-B7AC-CCED72FA8F4D",
+      "label" : "prod",
+      "url" : "https:\/\/mail.simplyfluent.com"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Mail",
+  "quickCommands" : [
+    {
+      "command" : "npm run deploy:prod",
+      "icon" : "play.circle",
+      "id" : "44E27AB3-7630-4A8A-A699-6C11EEF1F870",
+      "name" : "deploy:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/campaigns"
+    },
+    {
+      "command" : "npm run deploy:api:prod",
+      "icon" : "play.circle",
+      "id" : "96654A49-3A71-465D-8796-4070D00746A7",
+      "name" : "deploy:api:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/campaigns"
+    }
+  ],
+  "updatedAt" : 792961004.021327,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/campaigns"
+}

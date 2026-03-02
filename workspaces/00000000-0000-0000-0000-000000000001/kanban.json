@@ -1,0 +1,65 @@
+{
+  "archivedCards" : [
+
+  ],
+  "cards" : [
+
+  ],
+  "columns" : [
+    {
+      "cardIds" : [
+
+      ],
+      "id" : "DC3D4C60-6896-4C54-AC55-35D71E0EE000",
+      "name" : "Backlog",
+      "order" : 0
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "id" : "0E9DFFCF-C0CF-4DEA-8A92-C2F43EF4A7DD",
+      "name" : "To-Do",
+      "order" : 1
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "id" : "871F9645-0E8C-4175-8150-F6E726E4715B",
+      "name" : "In Progress",
+      "order" : 2
+    },
+    {
+      "cardIds" : [
+
+      ],
+      "id" : "E48AA729-AFAA-4461-8AA1-00E106258C2F",
+      "name" : "Done",
+      "order" : 3
+    }
+  ],
+  "labels" : [
+    {
+      "color" : "EF4444",
+      "id" : "8F1557D9-B62E-4CB3-90A9-6BAD5BF6B7E4",
+      "name" : "Bug"
+    },
+    {
+      "color" : "10B981",
+      "id" : "AD22EC77-9101-4884-96A1-0A46A2BC1BD6",
+      "name" : "Feature"
+    },
+    {
+      "color" : "3B82F6",
+      "id" : "62E4F145-1EEA-4981-A244-B3CA4A526290",
+      "name" : "Improvement"
+    },
+    {
+      "color" : "F59E0B",
+      "id" : "FE26D274-47E8-4F52-8A90-C311546E990B",
+      "name" : "Urgent"
+    }
+  ],
+  "updatedAt" : 793296002.926494
+}

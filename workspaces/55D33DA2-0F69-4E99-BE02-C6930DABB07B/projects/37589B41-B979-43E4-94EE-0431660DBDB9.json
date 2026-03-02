@@ -1,0 +1,27 @@
+{
+  "autoRestart" : false,
+  "color" : "FCE38A",
+  "command" : "yarn dev",
+  "createdAt" : 793357686.179676,
+  "environment" : {
+
+  },
+  "icon" : "bolt",
+  "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
+  "links" : [
+    {
+      "id" : "CB4F1D78-774B-4E3D-9943-7B908DEBB70B",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5200\/"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Redesign",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794093642.839126,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/redesign"
+}

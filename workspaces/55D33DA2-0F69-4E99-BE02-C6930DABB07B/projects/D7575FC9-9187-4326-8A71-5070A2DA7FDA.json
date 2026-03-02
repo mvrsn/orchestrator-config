@@ -1,0 +1,23 @@
+{
+  "autoRestart" : true,
+  "color" : "F38181",
+  "command" : "yarn server",
+  "createdAt" : 792961004.021257,
+  "environment" : {
+
+  },
+  "icon" : "externaldrive",
+  "id" : "D7575FC9-9187-4326-8A71-5070A2DA7FDA",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "YT Backend",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 792961004.021257,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/youtube"
+}

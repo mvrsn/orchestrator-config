@@ -1,0 +1,68 @@
+{
+  "baselineDurationSec" : 604,
+  "baselineMemorySlopeMBPerHour" : 912.3861754966888,
+  "baselineOrphanMCPMean" : 2,
+  "baselineProfile" : "auto_benchmark[decision_grade_10m]",
+  "baselineRunIDs" : [
+    "20260222-222134-c2866fc1"
+  ],
+  "candidateDurationSec" : 601,
+  "candidateMemorySlopeMBPerHour" : 50.7279534109817,
+  "candidateOrphanMCPMean" : 2,
+  "candidateProfile" : "auto_benchmark[switch_only_10m]",
+  "candidateRunIDs" : [
+    "20260223-074540-6881f441"
+  ],
+  "comparableEventGatePass" : false,
+  "comparableLatencyEventCount" : 1,
+  "dataQuality" : "LOW",
+  "decisionGradeProfilePair" : false,
+  "durationGatePass" : true,
+  "generatedAt" : "2026-02-23T07:56:30Z",
+  "ignoredLatencyEventCount" : 3,
+  "latencyDeltas" : [
+    {
+      "baselineCount" : 123,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 0,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_load"
+    },
+    {
+      "baselineCount" : 121,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 0,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_save"
+    },
+    {
+      "baselineCount" : 223,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 223,
+      "candidateP95Ms" : 0,
+      "eventType" : "layout_switch"
+    },
+    {
+      "baselineCount" : 223,
+      "baselineP95Ms" : 6,
+      "candidateCount" : 222,
+      "candidateP95Ms" : 4,
+      "deltaPercent" : -33.33333333333333,
+      "eventType" : "workspace_switch"
+    }
+  ],
+  "latencyPass" : true,
+  "latencyThresholdPercent" : 15,
+  "memoryPass" : true,
+  "memorySlopeThresholdPercent" : 20,
+  "minimumComparableLatencyEvents" : 2,
+  "minimumDurationSec" : 120,
+  "orphanPass" : true,
+  "qualityWarnings" : [
+    "Only 1 comparable latency event types; need at least 2.",
+    "Profile pair is not decision_grade_10m; use decision-grade runs for release-level refactor decisions."
+  ],
+  "recommendedDurationPass" : true,
+  "recommendedDurationSec" : 300,
+  "schemaVersion" : 3
+}

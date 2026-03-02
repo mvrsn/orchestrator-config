@@ -1,0 +1,28 @@
+{
+  "autoRestart" : false,
+  "color" : "3b82f6",
+  "command" : "npm run dev",
+  "createdAt" : 793036380.039313,
+  "environment" : {
+
+  },
+  "icon" : "text.bubble",
+  "id" : "2B4CEB62-B2F2-4E3D-A246-58A96E416D00",
+  "links" : [
+    {
+      "id" : "A88E1AAB-E33A-44A0-AD23-8F3B06A77C76",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3800"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Second Brain",
+  "port" : 3000,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 793037930.971361,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/second-brain\/app"
+}

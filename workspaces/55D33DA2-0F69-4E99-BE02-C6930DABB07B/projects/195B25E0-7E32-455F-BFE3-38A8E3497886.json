@@ -1,0 +1,77 @@
+{
+  "autoRestart" : false,
+  "color" : "F38181",
+  "command" : "yarn local",
+  "createdAt" : 792961004.021733,
+  "environment" : {
+
+  },
+  "icon" : "hammer",
+  "id" : "195B25E0-7E32-455F-BFE3-38A8E3497886",
+  "links" : [
+    {
+      "id" : "69FA46E8-CC2C-49DC-90CB-AF60CB73D122",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3002"
+    },
+    {
+      "id" : "3D18A172-45EE-4713-92BA-B6646FFA36CA",
+      "label" : "prod",
+      "url" : "https:\/\/simplyfluent-admin.pages.dev\/"
+    }
+  ],
+  "logPatterns" : [
+    {
+      "id" : "E0EF166E-9FE4-450D-8319-9263346781FA",
+      "isEnabled" : true,
+      "name" : "ERROR",
+      "pattern" : "ERROR",
+      "patternType" : "text",
+      "severity" : "error"
+    }
+  ],
+  "name" : "Admin Web",
+  "notificationOverride" : {
+    "enabled" : false,
+    "logPatterns" : [
+      {
+        "id" : "986D0513-275A-4676-8D8D-A3D9BD30BF5D",
+        "isEnabled" : true,
+        "name" : "[ERR]",
+        "pattern" : "[ERR]",
+        "patternType" : "text",
+        "severity" : "error"
+      },
+      {
+        "id" : "4EC79169-2BBD-4CAD-8386-D93044385679",
+        "isEnabled" : true,
+        "name" : "ERROR",
+        "pattern" : "ERROR",
+        "patternType" : "text",
+        "severity" : "error"
+      }
+    ],
+    "notifyOnInputRequired" : true,
+    "notifyOnQuickActionFailure" : true,
+    "notifyOnQuickActionSuccess" : true,
+    "playSounds" : true
+  },
+  "quickCommands" : [
+    {
+      "command" : "yarn deploy:prod",
+      "icon" : "play.circle",
+      "id" : "1DDF68DD-588A-418A-9F57-460D8E9B228A",
+      "name" : "deploy:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/admin-web"
+    },
+    {
+      "command" : "yarn deploy:api:prod",
+      "icon" : "play.circle",
+      "id" : "FFA1FC7F-8EA3-4304-979E-92B2AF8EE4EB",
+      "name" : "deploy:api:prod",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/admin-web"
+    }
+  ],
+  "updatedAt" : 792961004.021733,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/admin-web"
+}

@@ -1,0 +1,57 @@
+{
+  "baselineDurationSec" : 34,
+  "baselineMemorySlopeMBPerHour" : 27168.75,
+  "baselineOrphanMCPMean" : 2,
+  "baselineProfile" : "auto_benchmark[preset]",
+  "baselineRunIDs" : [
+    "20260222-212509-c8147bed"
+  ],
+  "candidateDurationSec" : 33,
+  "candidateMemorySlopeMBPerHour" : 25442.045454545456,
+  "candidateOrphanMCPMean" : 2,
+  "candidateProfile" : "auto_benchmark[preset]",
+  "candidateRunIDs" : [
+    "20260222-212640-be4670a7"
+  ],
+  "comparableLatencyEventCount" : 2,
+  "generatedAt" : "2026-02-22T21:27:36Z",
+  "ignoredLatencyEventCount" : 2,
+  "latencyDeltas" : [
+    {
+      "baselineCount" : 53,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 53,
+      "candidateP95Ms" : 0,
+      "eventType" : "kanban_load"
+    },
+    {
+      "baselineCount" : 51,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 51,
+      "candidateP95Ms" : 1,
+      "deltaPercent" : 0,
+      "eventType" : "kanban_save"
+    },
+    {
+      "baselineCount" : 12,
+      "baselineP95Ms" : 0,
+      "candidateCount" : 12,
+      "candidateP95Ms" : 0,
+      "eventType" : "layout_switch"
+    },
+    {
+      "baselineCount" : 12,
+      "baselineP95Ms" : 1,
+      "candidateCount" : 12,
+      "candidateP95Ms" : 1,
+      "deltaPercent" : 0,
+      "eventType" : "workspace_switch"
+    }
+  ],
+  "latencyPass" : false,
+  "latencyThresholdPercent" : 15,
+  "memoryPass" : false,
+  "memorySlopeThresholdPercent" : 20,
+  "orphanPass" : true,
+  "schemaVersion" : 2
+}

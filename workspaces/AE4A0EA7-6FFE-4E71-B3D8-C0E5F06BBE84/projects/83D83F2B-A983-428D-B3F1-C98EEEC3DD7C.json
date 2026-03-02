@@ -1,0 +1,28 @@
+{
+  "autoRestart" : false,
+  "color" : "95E1D3",
+  "command" : "yarn dev",
+  "createdAt" : 794061887.146009,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C",
+  "links" : [
+    {
+      "id" : "DDCD35D6-95D6-4BFD-BE83-9DD6CA1EF5C5",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:4102\/"
+    }
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Admin",
+  "port" : 4102,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794061899.132897,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/demo\/admin"
+}

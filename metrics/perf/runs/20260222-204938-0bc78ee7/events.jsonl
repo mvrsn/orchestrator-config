@@ -1,0 +1,2 @@
+{"runId":"20260222-204938-0bc78ee7","metadata":{"targetLayoutId":"C748FDE1-5EB0-4D40-A849-20FDCD5CF84E","source":"system","focusedAgent":"false"},"durationMs":0,"eventType":"layout_switch","timestamp":"2026-02-22T20:49:38Z","success":true}
+{"metadata":{"fromWorkspaceId":"none","toWorkspaceId":"56632FF1-48EF-4498-A190-1DEE0D907C61"},"success":true,"eventType":"workspace_switch","durationMs":198,"runId":"20260222-204938-0bc78ee7","timestamp":"2026-02-22T20:49:38Z"}
