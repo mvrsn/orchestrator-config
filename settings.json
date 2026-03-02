@@ -15,8 +15,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 794102408.137272,
-    "lastSyncError" : "Git command failed: git pull --rebase --autostash origin main\nFrom github.com:mvrsn\/orchestrator-config\n * branch            main       -> FETCH_HEAD\nRebasing (1\/2)\rerror: could not apply df67b4f... Initial configuration\nhint: Resolve all conflicts manually, mark them as resolved with\nhint: \"git add\/rm <conflicted_files>\", then run \"git rebase --continue\".\nhint: You can instead skip this commit: run \"git rebase --skip\".\nhint: To abort and get back to the state before \"git rebase\", run \"git rebase --abort\".\nhint: Disable this message with \"git config set advice.mergeConflict false\"\nCould not apply df67b4f... # Initial configuration\n",
+    "lastSyncDate" : 794141220.795657,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
