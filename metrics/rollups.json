@@ -1149,7 +1149,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-03" : {
-      "activeSeconds" : 2077,
+      "activeSeconds" : 2188,
       "agentSessionsResumed" : 45,
       "agentSessionsStarted" : 1,
       "agentTypeEventBreakdown" : {
@@ -1157,13 +1157,13 @@
         "Terminal" : 1
       },
       "appLaunches" : 9,
-      "backgroundSeconds" : 2845,
+      "backgroundSeconds" : 2949,
       "dayKey" : "2026-03-03",
-      "eventCount" : 260,
+      "eventCount" : 268,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "10" : 150,
-        "11" : 18,
+        "11" : 26,
         "8" : 70,
         "9" : 22
       },
@@ -1193,7 +1193,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 2845
+        "00000000-0000-0000-0000-000000000001" : 2949
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 110,
@@ -1207,7 +1207,7 @@
     "0" : 729,
     "1" : 359,
     "10" : 1073,
-    "11" : 1070,
+    "11" : 1078,
     "12" : 867,
     "13" : 894,
     "14" : 704,
@@ -1227,7 +1227,7 @@
     "8" : 566,
     "9" : 549
   },
-  "lastEventAt" : "2026-03-03T11:20:30Z",
+  "lastEventAt" : "2026-03-03T11:22:36Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 571,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1160,
@@ -1252,11 +1252,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 228693,
+    "activeSeconds" : 228804,
     "agentSessionsResumed" : 3638,
     "agentSessionsStarted" : 33,
     "appLaunches" : 513,
-    "backgroundSeconds" : 630575,
+    "backgroundSeconds" : 630679,
     "focusAdds" : 13,
     "linkOpensExternal" : 7,
     "linkOpensInternal" : 40,
@@ -1269,12 +1269,12 @@
     "projectStarts" : 4019,
     "projectStops" : 23,
     "quickActions" : 20,
-    "totalEvents" : 13919,
+    "totalEvents" : 13927,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-03T11:20:30Z",
+  "updatedAt" : "2026-03-03T11:22:36Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 156486,
+    "00000000-0000-0000-0000-000000000001" : 156597,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 38888,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 28930,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
