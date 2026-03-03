@@ -49,8 +49,10 @@
   },
   "onboarding" : {
     "completedSteps" : [
+      "projectStarted",
+      "projectCreated",
       "agentSeen",
-      "projectStarted"
+      "workspaceCreated"
     ]
   },
   "pomodoro" : {
