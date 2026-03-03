@@ -1149,19 +1149,19 @@
       "workspaceStarts" : 0
     },
     "2026-03-03" : {
-      "activeSeconds" : 345,
+      "activeSeconds" : 404,
       "agentSessionsResumed" : 30,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 30
       },
       "appLaunches" : 6,
-      "backgroundSeconds" : 1360,
+      "backgroundSeconds" : 1620,
       "dayKey" : "2026-03-03",
-      "eventCount" : 139,
+      "eventCount" : 153,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "10" : 47,
+        "10" : 61,
         "8" : 70,
         "9" : 22
       },
@@ -1191,7 +1191,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 1360
+        "00000000-0000-0000-0000-000000000001" : 1620
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 71,
@@ -1204,7 +1204,7 @@
   "hourlyActivity" : {
     "0" : 729,
     "1" : 359,
-    "10" : 970,
+    "10" : 984,
     "11" : 1052,
     "12" : 867,
     "13" : 894,
@@ -1225,7 +1225,7 @@
     "8" : 566,
     "9" : 549
   },
-  "lastEventAt" : "2026-03-03T10:22:34Z",
+  "lastEventAt" : "2026-03-03T10:28:01Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 571,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1157,
@@ -1250,11 +1250,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 226961,
+    "activeSeconds" : 227020,
     "agentSessionsResumed" : 3623,
     "agentSessionsStarted" : 32,
     "appLaunches" : 510,
-    "backgroundSeconds" : 629090,
+    "backgroundSeconds" : 629350,
     "focusAdds" : 13,
     "linkOpensExternal" : 7,
     "linkOpensInternal" : 40,
@@ -1267,12 +1267,12 @@
     "projectStarts" : 3994,
     "projectStops" : 23,
     "quickActions" : 17,
-    "totalEvents" : 13798,
+    "totalEvents" : 13812,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-03T10:22:34Z",
+  "updatedAt" : "2026-03-03T10:28:01Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 154754,
+    "00000000-0000-0000-0000-000000000001" : 154813,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 38888,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 28930,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
