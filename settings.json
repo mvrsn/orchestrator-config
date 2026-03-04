@@ -15,7 +15,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 794232007.106473,
+    "lastSyncDate" : 794275207.083209,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
@@ -49,10 +49,10 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectStarted",
       "projectCreated",
-      "agentSeen",
-      "workspaceCreated"
+      "workspaceCreated",
+      "projectStarted",
+      "agentSeen"
     ]
   },
   "pomodoro" : {
