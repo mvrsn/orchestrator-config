@@ -10,9 +10,9 @@
   "id" : "752CA654-60F1-491E-837D-47766A70D476",
   "links" : [
     {
-      "id" : "D1BB7933-4025-442C-8903-34404A018F02",
+      "id" : "6CAB47AD-75DA-43B4-8F8D-9B0B185F744C",
       "label" : "dev",
-      "url" : "http:\/\/localhost:3001"
+      "url" : "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/generateChallenge"
     }
   ],
   "logPatterns" : [
@@ -42,6 +42,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
     }
   ],
-  "updatedAt" : 792961004.022071,
+  "updatedAt" : 794311677.888016,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
 }

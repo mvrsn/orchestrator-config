@@ -49,10 +49,15 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectCreated",
-      "workspaceCreated",
+      "pomodoroSeen",
+      "browserOpened",
+      "agentSeen",
+      "focusSeen",
+      "tasksSeen",
+      "linkAdded",
       "projectStarted",
-      "agentSeen"
+      "projectCreated",
+      "workspaceCreated"
     ]
   },
   "pomodoro" : {
