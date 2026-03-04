@@ -63,7 +63,7 @@
             "panel" : {
               "content" : {
                 "agentType" : "gemini",
-                "id" : "A6ABA5C6-7E2C-4573-BB1C-7D7A54406D1A",
+                "id" : "600A88B8-4EB0-47B6-988C-C2AF2F01051C",
                 "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
                 "type" : "agent"
               },
