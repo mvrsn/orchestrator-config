@@ -40,17 +40,17 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
-      "command" : "npm run release:beta",
-      "icon" : "play.circle",
-      "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
-      "name" : "release:beta",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
-    },
-    {
       "command" : "npm run upload:release",
       "icon" : "play.circle",
       "id" : "8EA51B4F-098C-4E09-86E5-6913DD795E05",
       "name" : "upload:release",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run release:beta",
+      "icon" : "play.circle",
+      "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
+      "name" : "release:beta",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
@@ -68,6 +68,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794430470.280102,
+  "updatedAt" : 794436277.633997,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
