@@ -9,7 +9,11 @@
   "icon" : "terminal",
   "id" : "1FD78126-3777-456E-B467-72855D63E3FC",
   "links" : [
-
+    {
+      "id" : "0BC8D187-9E5A-4530-A2F9-16E9052E4AF3",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:4101"
+    }
   ],
   "logPatterns" : [
 
@@ -19,6 +23,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794049574.207102,
+  "updatedAt" : 794438813.755756,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/demo\/api"
 }
