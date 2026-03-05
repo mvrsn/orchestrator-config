@@ -59,8 +59,15 @@
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
       "name" : "db:migrate:remote",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run upload:release",
+      "icon" : "play.circle",
+      "id" : "8EA51B4F-098C-4E09-86E5-6913DD795E05",
+      "name" : "upload:release",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794420848.316211,
+  "updatedAt" : 794430463.690454,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
