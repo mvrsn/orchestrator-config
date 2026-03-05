@@ -52,8 +52,15 @@
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
       "name" : "db:migrate:remote",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "cd ..\/app && .\/scripts\/build.sh",
+      "icon" : "hammer",
+      "id" : "75DB37DB-B66A-4FC1-91E0-EAF7AD040FA6",
+      "name" : "build:app",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794329246.029443,
+  "updatedAt" : 794420833.920222,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
