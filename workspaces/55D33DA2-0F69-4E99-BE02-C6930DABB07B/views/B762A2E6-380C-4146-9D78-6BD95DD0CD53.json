@@ -17,12 +17,12 @@
                 "id" : "BB1E7CCC-3D82-4A8A-B394-707672284AC1",
                 "type" : "browser"
               },
-              "id" : "101D3955-9D67-4749-A80E-06A6C07936A0",
+              "id" : "C4DB3FDC-259A-4244-AAD2-13B2C98AD7F8",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "2BC9D6E3-C79E-47F3-BA30-C32C374294CF",
+          "id" : "56D3E392-C080-4CC9-825C-7202FEE05951",
           "previousRatio" : 0.65,
           "ratio" : 1,
           "second" : {
@@ -31,7 +31,7 @@
                 "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
                 "type" : "project"
               },
-              "id" : "891AC315-CB45-4E18-A030-EFBBE9F0C55D",
+              "id" : "B79B4460-B8A2-4288-A561-090FF1146B49",
               "isMinimized" : true
             },
             "type" : "panel"
@@ -39,7 +39,7 @@
         },
         "type" : "split"
       },
-      "id" : "C62FFA4E-BF30-4412-9453-E31CCC663823",
+      "id" : "E5C8A013-6B6F-41E0-8436-DC87148DADB7",
       "ratio" : 0.65,
       "second" : {
         "split" : {
@@ -52,12 +52,12 @@
                 "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
                 "type" : "agent"
               },
-              "id" : "6AD51B6A-F3F1-456E-8366-6E5E4CC59CC0",
+              "id" : "2027F3CC-BBE5-4AD3-9B56-B82D10862BB4",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "0112376F-D366-4A4C-87C5-1B85D2FC4E07",
+          "id" : "B576E2C2-1440-47E9-8E7A-BE484642A3C8",
           "ratio" : 0.5,
           "second" : {
             "panel" : {
@@ -67,7 +67,7 @@
                 "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
                 "type" : "agent"
               },
-              "id" : "A3298A05-56E9-48DE-A870-0B314A2B4BE6",
+              "id" : "28E9E52C-A449-4B35-A9DE-C6DD1C264A02",
               "isMinimized" : false
             },
             "type" : "panel"
@@ -78,6 +78,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794389542.315728,
+  "updatedAt" : 794389637.140931,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
