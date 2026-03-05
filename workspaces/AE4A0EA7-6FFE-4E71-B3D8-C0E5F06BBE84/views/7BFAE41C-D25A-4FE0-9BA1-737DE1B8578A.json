@@ -10,49 +10,30 @@
       "axis" : "horizontal",
       "first" : {
         "split" : {
-          "axis" : "vertical",
+          "axis" : "horizontal",
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "29D7546C-9F71-42E8-86AD-40630E9904D9",
-                "type" : "browser"
+                "id" : "2D9D140A-5FB1-4C32-BF58-AA1915E06DE7",
+                "type" : "project"
               },
-              "id" : "C861A5CD-A2B7-4046-81B8-510C4BCDD096",
+              "id" : "D70AB528-8590-42E6-94AC-189F80CAFF86",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "ADF0EB99-9A00-4F90-A576-7080822AF5E4",
-          "ratio" : 0.7571553411633111,
+          "id" : "1E370958-9D22-42C2-99AF-F5C68AA742FE",
+          "ratio" : 0.5,
           "second" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "2D9D140A-5FB1-4C32-BF58-AA1915E06DE7",
-                    "type" : "project"
-                  },
-                  "id" : "D70AB528-8590-42E6-94AC-189F80CAFF86",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "id" : "1FD78126-3777-456E-B467-72855D63E3FC",
+                "type" : "project"
               },
-              "id" : "1E370958-9D22-42C2-99AF-F5C68AA742FE",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "1FD78126-3777-456E-B467-72855D63E3FC",
-                    "type" : "project"
-                  },
-                  "id" : "9DB0D532-9732-478D-A70B-342B889AC966",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "9DB0D532-9732-478D-A70B-342B889AC966",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
@@ -96,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794060627.005787,
+  "updatedAt" : 794436929.384856,
   "workspaceId" : "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84"
 }
