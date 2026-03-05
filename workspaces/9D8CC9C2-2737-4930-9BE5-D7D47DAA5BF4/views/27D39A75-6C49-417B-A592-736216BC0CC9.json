@@ -4,7 +4,7 @@
   "icon" : "terminal.fill",
   "id" : "27D39A75-6C49-417B-A592-736216BC0CC9",
   "name" : "Orchestrator",
-  "order" : 7,
+  "order" : 0,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -100,6 +100,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794436761.553289,
-  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+  "updatedAt" : 794440570.224497,
+  "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
