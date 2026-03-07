@@ -7,11 +7,12 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "workspace_switch",
       "browser_inspector",
+      "workspace_switch",
+      "zen_mode",
       "agent_screenshot",
       "voice_input",
-      "zen_mode",
+      "focus_drag",
       "browser_fullscreen"
     ],
     "dismissed" : false
