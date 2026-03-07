@@ -7,7 +7,8 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "voice_input"
+      "voice_input",
+      "zen_mode"
     ],
     "dismissed" : false
   },
