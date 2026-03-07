@@ -8,6 +8,7 @@
   "discovery" : {
     "completedTips" : [
       "workspace_switch",
+      "browser_inspector",
       "agent_screenshot",
       "voice_input",
       "zen_mode",
