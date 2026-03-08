@@ -101,11 +101,26 @@
       "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
       "title" : "Test",
       "updatedAt" : 794142306.235376
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 794695535.408962,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "1AA7140F-DDCD-446C-A3F4-C31489C12CF1",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "74867419-6E03-4B3D-B4B8-B3B7252B2D56",
+      "title" : "test",
+      "updatedAt" : 794695535.408963
     }
   ],
   "columns" : [
     {
       "cardIds" : [
+        "1AA7140F-DDCD-446C-A3F4-C31489C12CF1",
         "246B6988-D092-4261-BE3C-7D5CEB99494D",
         "DB570C88-D4E8-412E-888E-3739E5D8A461",
         "BA4E49E6-3E58-43B1-B8A6-5EE9DD33218D"
@@ -173,5 +188,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 794614160.935725
+  "updatedAt" : 794695535.40898
 }
