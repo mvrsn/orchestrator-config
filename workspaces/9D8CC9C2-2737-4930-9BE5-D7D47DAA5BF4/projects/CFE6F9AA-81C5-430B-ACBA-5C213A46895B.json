@@ -50,7 +50,7 @@
       "command" : "npm run release:beta",
       "icon" : "play.circle",
       "id" : "8268EC10-D090-4D54-AC07-327E8BA3B82C",
-      "name" : "release:beta",
+      "name" : "build+upload",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
@@ -68,6 +68,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794660301.306584,
+  "updatedAt" : 794660311.506871,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
