@@ -12,7 +12,7 @@
       ],
       "color" : "6B7280",
       "icon" : "tray.fill",
-      "id" : "ED1CD455-D2AA-4AAA-9971-ADD872214AA6",
+      "id" : "2C2281BA-B6B1-45E0-B9B0-242FC080FD83",
       "name" : "Backlog",
       "order" : 0
     },
@@ -22,7 +22,7 @@
       ],
       "color" : "3B82F6",
       "icon" : "checklist",
-      "id" : "D81545F8-C3E1-4AFD-AE7B-1CE578D9DA3F",
+      "id" : "C852F6EA-8328-49A5-B9A8-1E92A587CA9A",
       "name" : "To-Do",
       "order" : 1
     },
@@ -32,7 +32,7 @@
       ],
       "color" : "F59E0B",
       "icon" : "flame.fill",
-      "id" : "B0AF0254-93DF-4CF2-B9D7-AE8C02E4C7F6",
+      "id" : "E433E1E2-CEE8-4E1F-A3C6-F682CA273C1A",
       "name" : "In Progress",
       "order" : 2
     },
@@ -42,7 +42,7 @@
       ],
       "color" : "10B981",
       "icon" : "checkmark.circle.fill",
-      "id" : "82756FF2-BAA2-49AC-8BA3-301D2096492B",
+      "id" : "07CEBFB8-0E84-466F-9D11-3D2976665490",
       "name" : "Done",
       "order" : 3
     }
@@ -52,24 +52,24 @@
   "labels" : [
     {
       "color" : "EF4444",
-      "id" : "408ED3B2-43F8-434D-AC20-8EE187369DC2",
+      "id" : "B5B83D10-F58B-4479-9E10-EE10BA25ED65",
       "name" : "Bug"
     },
     {
       "color" : "10B981",
-      "id" : "D5E55E7D-D486-4A1E-B6EA-27B46FEC7D36",
+      "id" : "009EA178-0F9F-4AFD-9D9A-C171FBCDC2BF",
       "name" : "Feature"
     },
     {
       "color" : "3B82F6",
-      "id" : "62E2FD4F-D351-4BA4-84C8-CEB37E20F09E",
+      "id" : "ECFAC10D-36E6-45BD-BD7C-C7502497A6A1",
       "name" : "Improvement"
     },
     {
       "color" : "F59E0B",
-      "id" : "66D923E9-7142-4AD9-9D33-E7A71178C006",
+      "id" : "C48F86E7-0DEF-4DDF-A0DD-F74FDCD900FB",
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 794062237.404097
+  "updatedAt" : 794698780.99206
 }

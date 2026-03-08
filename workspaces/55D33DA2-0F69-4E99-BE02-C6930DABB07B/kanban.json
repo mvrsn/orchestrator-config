@@ -58,7 +58,7 @@
       ],
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Fix icon in the footer",
-      "updatedAt" : 793580002.399084
+      "updatedAt" : 794698311.047784
     },
     {
       "columnId" : "E26C4422-3CDB-4649-BFA9-008FD4A7D389",
@@ -86,7 +86,7 @@
       ],
       "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
       "title" : "Try adding a gradient to the buttons and make text white",
-      "updatedAt" : 793753636.458061
+      "updatedAt" : 794698316.144577
     },
     {
       "columnId" : "E26C4422-3CDB-4649-BFA9-008FD4A7D389",
@@ -114,7 +114,7 @@
       ],
       "projectId" : "74867419-6E03-4B3D-B4B8-B3B7252B2D56",
       "title" : "test",
-      "updatedAt" : 794698198.894092
+      "updatedAt" : 794698769.45828
     }
   ],
   "columns" : [
@@ -188,5 +188,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 794698198.894114
+  "updatedAt" : 794698785.320058
 }
