@@ -1,0 +1,61 @@
+{
+  "color" : "667eea",
+  "createdAt" : 794658948.52368,
+  "icon" : "square.grid.2x2",
+  "id" : "2336A831-1819-4239-AD2D-126C594F1E47",
+  "name" : "Admin",
+  "order" : 1,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "BF6D9D74-AABE-4750-9677-77FA31F48836",
+                "type" : "browser"
+              },
+              "id" : "E94BB15C-616E-44C6-9A0F-F2689E11615E",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "8A849B57-63B3-4532-9BEA-27678D7AA10C",
+          "ratio" : 0.7916006905691965,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+                "type" : "project"
+              },
+              "id" : "B891FD5D-AF5D-45B4-ADE6-63975D6369D1",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "1B2F01D7-0996-48C4-B943-AAA61581091D",
+      "ratio" : 0.7,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "F0DC4C5E-F00C-444A-89EE-ADA516075001",
+            "projectId" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+            "type" : "agent"
+          },
+          "id" : "51450434-FB3C-41CA-9633-989981A349E3",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 794658955.581088,
+  "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
+}
