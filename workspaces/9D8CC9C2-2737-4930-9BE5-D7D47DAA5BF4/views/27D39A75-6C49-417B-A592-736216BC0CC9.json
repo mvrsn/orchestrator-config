@@ -3,7 +3,7 @@
   "createdAt" : 790270724.376653,
   "icon" : "terminal.fill",
   "id" : "27D39A75-6C49-417B-A592-736216BC0CC9",
-  "name" : "web",
+  "name" : "Web",
   "order" : 0,
   "root" : {
     "split" : {
@@ -77,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794659066.927832,
+  "updatedAt" : 794669042.957542,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
