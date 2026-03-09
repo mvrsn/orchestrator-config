@@ -23,7 +23,8 @@
             "type" : "panel"
           },
           "id" : "8C90BD27-A53D-49A0-B766-9449659FF906",
-          "ratio" : 0.7,
+          "previousRatio" : 0.7,
+          "ratio" : 1,
           "second" : {
             "panel" : {
               "content" : {
@@ -31,7 +32,7 @@
                 "type" : "project"
               },
               "id" : "E8CFEF41-0CBC-4ECD-8AA5-EAF98E1E2951",
-              "isMinimized" : false
+              "isMinimized" : true
             },
             "type" : "panel"
           }
@@ -56,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794739677.089001,
+  "updatedAt" : 794739818.369018,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
