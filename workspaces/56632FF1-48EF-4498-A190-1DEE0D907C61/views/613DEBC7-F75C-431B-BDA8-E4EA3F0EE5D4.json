@@ -1,0 +1,42 @@
+{
+  "color" : "667eea",
+  "createdAt" : 794747014.395926,
+  "icon" : "square.grid.2x2",
+  "id" : "613DEBC7-F75C-431B-BDA8-E4EA3F0EE5D4",
+  "name" : "marketing",
+  "order" : 4,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F",
+            "type" : "project"
+          },
+          "id" : "106326D0-D4E7-4C09-9F47-8151F896E3C1",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "6AA70197-30E0-4DCE-ADE2-E9DAE15D7A08",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "E9D0723A-7ECD-49F9-966D-8B5D8C6242A9",
+            "projectId" : "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F",
+            "type" : "agent"
+          },
+          "id" : "0E67D2A3-02A2-4DE9-95C2-E85A0E770D80",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 794747014.396,
+  "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
+}
