@@ -29,7 +29,7 @@
       "command" : "yarn deploy",
       "icon" : "play.circle",
       "id" : "12684FF1-78A9-4328-947A-C1BB77F9851E",
-      "name" : "deploy",
+      "name" : "web:deploy",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
@@ -61,6 +61,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794738782.640223,
+  "updatedAt" : 794738788.906934,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
