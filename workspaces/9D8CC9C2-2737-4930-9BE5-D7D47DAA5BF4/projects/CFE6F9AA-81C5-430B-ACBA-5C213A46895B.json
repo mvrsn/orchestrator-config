@@ -36,7 +36,7 @@
       "command" : "npm run db:migrate:remote",
       "icon" : "play.circle",
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
-      "name" : "migrate",
+      "name" : "api:migrate",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     },
     {
@@ -61,6 +61,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794738770.687578,
+  "updatedAt" : 794738782.640223,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
