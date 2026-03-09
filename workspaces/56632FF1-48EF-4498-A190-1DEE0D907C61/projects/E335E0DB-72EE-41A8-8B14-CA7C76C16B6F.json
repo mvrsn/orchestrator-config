@@ -9,7 +9,11 @@
   "icon" : "checkmark.seal",
   "id" : "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F",
   "links" : [
-
+    {
+      "id" : "CC740961-F782-47BE-94CA-EF2DCDA8B9F7",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3820"
+    }
   ],
   "logPatterns" : [
 
@@ -18,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794750024.798076,
+  "updatedAt" : 794750289.678944,
   "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/marketing"
 }
