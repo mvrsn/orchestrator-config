@@ -3,7 +3,7 @@
   "createdAt" : 794824729.763215,
   "icon" : "terminal",
   "id" : "EB6122F3-573B-4F53-9410-106F78A7897C",
-  "name" : "New View",
+  "name" : "Remotion",
   "order" : 10,
   "root" : {
     "panel" : {
@@ -16,6 +16,6 @@
     },
     "type" : "panel"
   },
-  "updatedAt" : 794824729.763243,
+  "updatedAt" : 794824746.571277,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
