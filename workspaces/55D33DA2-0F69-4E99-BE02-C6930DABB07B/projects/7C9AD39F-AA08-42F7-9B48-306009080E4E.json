@@ -4,7 +4,8 @@
   "command" : "yarn serve",
   "createdAt" : 792961004.02156,
   "dismissedLocalhostURLs" : [
-    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/processFormSubmission"
+    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/processFormSubmission",
+    "http:\/\/127.0.0.1:4001\/simply-fluent-crm\/europe-west2\/sendMessage"
   ],
   "environment" : {
 
@@ -27,6 +28,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
     }
   ],
-  "updatedAt" : 794872430.830279,
+  "updatedAt" : 794872749.972947,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/crm\/functions"
 }
