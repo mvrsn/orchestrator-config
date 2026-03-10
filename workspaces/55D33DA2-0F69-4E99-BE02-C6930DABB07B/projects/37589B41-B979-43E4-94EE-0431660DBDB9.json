@@ -12,7 +12,7 @@
     {
       "id" : "98042973-84D0-47D4-ABE6-3B1B6B170A5C",
       "label" : "dev",
-      "url" : "http:\/\/localhost:5199\/#dictionary"
+      "url" : "http:\/\/localhost:5199\/"
     }
   ],
   "logPatterns" : [
@@ -22,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794835878.096093,
+  "updatedAt" : 794835964.98819,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/redesign"
 }
