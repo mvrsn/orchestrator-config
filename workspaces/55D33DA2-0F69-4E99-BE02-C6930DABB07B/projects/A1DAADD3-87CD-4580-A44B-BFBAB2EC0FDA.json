@@ -3,6 +3,9 @@
   "color" : "4ECDC4",
   "command" : "yarn dev",
   "createdAt" : 792961004.021648,
+  "dismissedLocalhostURLs" : [
+    "http:\/\/localhost:3100"
+  ],
   "environment" : {
 
   },
@@ -40,6 +43,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 794872567.716694,
+  "updatedAt" : 794872609.071003,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
