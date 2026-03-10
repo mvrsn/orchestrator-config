@@ -1592,15 +1592,15 @@
         "Gemini" : 4
       },
       "appLaunches" : 2,
-      "backgroundSeconds" : 6104,
+      "backgroundSeconds" : 6825,
       "dayKey" : "2026-03-10",
-      "eventCount" : 102,
+      "eventCount" : 103,
       "focusAdds" : 2,
       "hourlyActivity" : {
         "0" : 27,
         "1" : 9,
         "10" : 24,
-        "11" : 6,
+        "11" : 7,
         "7" : 2,
         "8" : 26,
         "9" : 8
@@ -1633,7 +1633,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 5959,
+        "00000000-0000-0000-0000-000000000001" : 6680,
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 102,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 43
       },
@@ -1651,7 +1651,7 @@
     "0" : 855,
     "1" : 432,
     "10" : 1474,
-    "11" : 1258,
+    "11" : 1259,
     "12" : 1047,
     "13" : 937,
     "14" : 799,
@@ -1672,7 +1672,7 @@
     "8" : 634,
     "9" : 622
   },
-  "lastEventAt" : "2026-03-10T11:37:28Z",
+  "lastEventAt" : "2026-03-10T11:49:29Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 571,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1195,
@@ -1705,7 +1705,7 @@
     "agentSessionsResumed" : 4065,
     "agentSessionsStarted" : 61,
     "appLaunches" : 586,
-    "backgroundSeconds" : 800481,
+    "backgroundSeconds" : 801202,
     "focusAdds" : 20,
     "linkOpensExternal" : 10,
     "linkOpensInternal" : 55,
@@ -1718,10 +1718,10 @@
     "projectStarts" : 4595,
     "projectStops" : 37,
     "quickActions" : 57,
-    "totalEvents" : 16520,
+    "totalEvents" : 16521,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-10T11:37:28Z",
+  "updatedAt" : "2026-03-10T11:49:29Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 276071,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 39328,
