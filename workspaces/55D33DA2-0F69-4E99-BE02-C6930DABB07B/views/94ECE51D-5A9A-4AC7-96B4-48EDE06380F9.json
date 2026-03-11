@@ -23,7 +23,8 @@
             "type" : "panel"
           },
           "id" : "1E9ECF9E-69E2-483B-970A-717DB57795F2",
-          "ratio" : 0.7453927176339287,
+          "previousRatio" : 0.7453927176339287,
+          "ratio" : 1,
           "second" : {
             "split" : {
               "axis" : "horizontal",
@@ -39,6 +40,7 @@
                 "type" : "panel"
               },
               "id" : "C8BEE306-CC92-41F6-93AD-987AFC571F6B",
+              "isCollapsed" : true,
               "ratio" : 0.5,
               "second" : {
                 "panel" : {
@@ -75,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794956208.794682,
+  "updatedAt" : 794956223.807479,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
