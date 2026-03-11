@@ -12,7 +12,11 @@
   "icon" : "globe",
   "id" : "9553F516-2211-46D7-B7F1-9151EEBC86B9",
   "links" : [
-
+    {
+      "id" : "47448A36-7F3B-430E-84B4-86D941189DD2",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3847"
+    }
   ],
   "logPatterns" : [
 
@@ -22,6 +26,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 794927438.075737,
+  "updatedAt" : 794927451.625828,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/translator-web"
 }
