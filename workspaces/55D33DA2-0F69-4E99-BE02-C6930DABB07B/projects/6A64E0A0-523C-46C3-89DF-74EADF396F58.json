@@ -18,7 +18,7 @@
   "logPatterns" : [
 
   ],
-  "name" : "Publisher",
+  "name" : "Content",
   "port" : 3000,
   "quickCommands" : [
     {
@@ -43,6 +43,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
     }
   ],
-  "updatedAt" : 793674907.463072,
+  "updatedAt" : 794931956.876041,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
 }
