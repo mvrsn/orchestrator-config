@@ -1,0 +1,42 @@
+{
+  "color" : "667eea",
+  "createdAt" : 794927380.9916,
+  "icon" : "square.grid.2x2",
+  "id" : "59FE2EC9-A364-44E3-B9EF-5C92B9054DC3",
+  "name" : "Translator Web",
+  "order" : 12,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "9553F516-2211-46D7-B7F1-9151EEBC86B9",
+            "type" : "project"
+          },
+          "id" : "54FAFED9-24F8-492C-8044-B88FC96D4B61",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "729258F7-0F0A-4BAB-845D-2C6D721E3C25",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "E319EE89-67EA-408D-BED5-164507C8F38A",
+            "projectId" : "9553F516-2211-46D7-B7F1-9151EEBC86B9",
+            "type" : "agent"
+          },
+          "id" : "38989CEE-14B9-4BCD-B912-5E7EC3ECB80A",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 794927380.991673,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}
