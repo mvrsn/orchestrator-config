@@ -1,0 +1,24 @@
+{
+  "autoRestart" : false,
+  "color" : "#AB6400",
+  "command" : "yarn dev",
+  "createdAt" : 794927355.925769,
+  "environment" : {
+
+  },
+  "icon" : "globe",
+  "id" : "9553F516-2211-46D7-B7F1-9151EEBC86B9",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Translator Web",
+  "port" : 3000,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 794927355.925769,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/translator-web"
+}
