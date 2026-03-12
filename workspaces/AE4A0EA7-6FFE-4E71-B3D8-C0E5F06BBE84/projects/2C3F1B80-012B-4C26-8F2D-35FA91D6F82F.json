@@ -3,6 +3,9 @@
   "color" : "4ECDC4",
   "command" : "python3 serve.py",
   "createdAt" : 795011187.361986,
+  "dismissedLocalhostURLs" : [
+    "http:\/\/localhost:51740"
+  ],
   "environment" : {
 
   },
@@ -22,6 +25,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 795011221.81998,
+  "updatedAt" : 795011224.066022,
   "workingDirectory" : "\/Users\/mvrsn\/.orchestrator\/demo"
 }
