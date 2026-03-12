@@ -1,0 +1,23 @@
+{
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "yarn dev",
+  "createdAt" : 795011187.361986,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "2C3F1B80-012B-4C26-8F2D-35FA91D6F82F",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "demo",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 795011187.361986,
+  "workingDirectory" : "\/Users\/mvrsn\/.orchestrator\/demo"
+}
