@@ -3,20 +3,20 @@
   "agentNotificationsEnabled" : true,
   "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
-  "configFolderPath" : "~\/.orchestrator",
+  "configFolderPath" : "\/Users\/mvrsn\/.orchestrator\/profiles\/default",
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
       "session_restore",
-      "browser_inspector",
       "focus_drag",
-      "voice_input",
-      "zen_mode",
-      "menu_bar_quick_access",
-      "quick_add_task",
       "agent_screenshot",
-      "browser_fullscreen",
-      "workspace_switch"
+      "zen_mode",
+      "browser_inspector",
+      "voice_input",
+      "workspace_switch",
+      "quick_add_task",
+      "menu_bar_quick_access",
+      "browser_fullscreen"
     ],
     "dismissed" : false
   },
@@ -34,7 +34,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 794966407.066064,
+    "lastSyncDate" : 795009607.60741,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
@@ -68,18 +68,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "focusSeen",
-      "projectCreated",
-      "sidebarSeen",
       "tasksSeen",
-      "projectStarted",
       "browserOpened",
-      "linkAdded",
-      "viewsSeen",
       "workspaceCreated",
       "pomodoroSeen",
+      "viewsSeen",
       "metricsSeen",
-      "agentSeen"
+      "projectCreated",
+      "focusSeen",
+      "sidebarSeen",
+      "linkAdded",
+      "agentSeen",
+      "projectStarted"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
