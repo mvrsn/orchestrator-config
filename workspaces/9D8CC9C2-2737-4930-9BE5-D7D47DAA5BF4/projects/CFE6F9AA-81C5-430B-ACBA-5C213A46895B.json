@@ -23,7 +23,7 @@
   "logPatterns" : [
 
   ],
-  "name" : "Orchestrator",
+  "name" : "Web",
   "quickCommands" : [
     {
       "command" : "yarn deploy",
@@ -61,6 +61,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
     }
   ],
-  "updatedAt" : 794738788.906934,
+  "updatedAt" : 795111896.854301,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
