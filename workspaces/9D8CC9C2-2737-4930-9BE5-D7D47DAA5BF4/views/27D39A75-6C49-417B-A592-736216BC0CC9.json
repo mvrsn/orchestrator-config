@@ -20,7 +20,7 @@
         "type" : "panel"
       },
       "id" : "78A6AF95-E828-455B-A952-EAD0A2052215",
-      "ratio" : 0.7577254385318397,
+      "ratio" : 0.46844873968160416,
       "second" : {
         "split" : {
           "axis" : "vertical",
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795096198.819637,
+  "updatedAt" : 795096402.11129,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
