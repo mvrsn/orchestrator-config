@@ -10,11 +10,6 @@
   "id" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
   "links" : [
     {
-      "id" : "BACAAB68-013B-48A2-800D-311AF1CE4281",
-      "label" : "dev",
-      "url" : "http:\/\/localhost:3000"
-    },
-    {
       "id" : "EF4C547E-554E-4176-8F36-5E771A0BF6F8",
       "label" : "dev",
       "url" : "http:\/\/localhost:4172"
@@ -27,6 +22,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 795122589.081621,
+  "updatedAt" : 795122709.453325,
   "workingDirectory" : "\/Users\/mvrsn\/code\/remotion"
 }
