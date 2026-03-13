@@ -4,7 +4,7 @@
   "icon" : "square.grid.2x2",
   "id" : "E7A8EA89-0AEA-4B81-8032-F91121D4414D",
   "name" : "Landing Page",
-  "order" : 1,
+  "order" : 0,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794950276.14472,
+  "updatedAt" : 795111257.701493,
   "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
