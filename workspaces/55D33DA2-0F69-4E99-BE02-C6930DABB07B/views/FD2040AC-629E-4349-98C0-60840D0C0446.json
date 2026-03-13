@@ -11,10 +11,10 @@
       "first" : {
         "panel" : {
           "content" : {
-            "id" : "D29D06C1-E952-43A2-A417-F6D31AB9FC00",
+            "id" : "17BF6FE9-D773-4964-B616-89F9C98BF2B1",
             "type" : "browser"
           },
-          "id" : "6815A856-628B-4BDD-9628-404B09966BB0",
+          "id" : "EA2C26B4-79FA-4FDC-8151-A531F4C6B2FD",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -35,6 +35,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795111240.190833,
+  "updatedAt" : 795120068.080282,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
