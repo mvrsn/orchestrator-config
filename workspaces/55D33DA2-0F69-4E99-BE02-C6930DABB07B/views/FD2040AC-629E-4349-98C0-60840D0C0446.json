@@ -7,35 +7,55 @@
   "order" : 11,
   "root" : {
     "split" : {
-      "axis" : "vertical",
+      "axis" : "horizontal",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "17BF6FE9-D773-4964-B616-89F9C98BF2B1",
-            "type" : "browser"
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "17BF6FE9-D773-4964-B616-89F9C98BF2B1",
+                "type" : "browser"
+              },
+              "id" : "236A00FF-CEE9-4743-B375-5D14E8AC0907",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "EA2C26B4-79FA-4FDC-8151-A531F4C6B2FD",
-          "isMinimized" : false
+          "id" : "39F6A395-78BE-4FC4-8045-BD6A14100611",
+          "ratio" : 1,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
+                "type" : "project"
+              },
+              "id" : "BFB32D9F-1EA2-4B29-8317-5861673BD89E",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "C9503CFD-20A8-4E1D-92E7-E2AE1BDD0348",
-      "previousRatio" : 0.5,
-      "ratio" : 1,
+      "id" : "3E718390-2BE5-4DE3-BC40-00C400B4CACC",
+      "ratio" : 0.7,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
-            "type" : "project"
+            "agentType" : "claude",
+            "id" : "847CD8FB-BB43-41CB-B83C-6DBB49A711B5",
+            "projectId" : "5E36E421-0614-40A2-A3F9-D79733F10B69",
+            "type" : "agent"
           },
-          "id" : "F5D86B5E-1E6B-4533-9368-486D9AA3ACA9",
-          "isMinimized" : true
+          "id" : "FB3B57CC-0F4D-4E88-AE8B-BC3F28680F2F",
+          "isMinimized" : false
         },
         "type" : "panel"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 795120075.863311,
+  "updatedAt" : 795121184.092662,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
