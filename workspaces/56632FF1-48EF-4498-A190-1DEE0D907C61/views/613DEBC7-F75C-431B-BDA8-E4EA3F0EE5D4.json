@@ -3,7 +3,7 @@
   "createdAt" : 794747014.395926,
   "icon" : "square.grid.2x2",
   "id" : "613DEBC7-F75C-431B-BDA8-E4EA3F0EE5D4",
-  "name" : "Marketing",
+  "name" : "MCC",
   "order" : 4,
   "root" : {
     "split" : {
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794868234.323656,
+  "updatedAt" : 795096602.500861,
   "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
