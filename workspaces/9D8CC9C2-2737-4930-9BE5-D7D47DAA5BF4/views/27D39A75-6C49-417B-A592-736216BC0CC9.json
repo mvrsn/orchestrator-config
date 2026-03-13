@@ -44,7 +44,7 @@
         "panel" : {
           "content" : {
             "agentType" : "claude",
-            "id" : "2B97F2F9-1E55-42D8-BF67-38FA9B3108CC",
+            "id" : "DE258EF6-50A2-4C22-B0C9-0BDEA745C241",
             "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
             "type" : "agent"
           },
