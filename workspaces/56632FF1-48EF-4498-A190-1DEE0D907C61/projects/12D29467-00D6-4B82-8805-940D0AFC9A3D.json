@@ -23,7 +23,7 @@
   "logPatterns" : [
 
   ],
-  "name" : "Landing Page",
+  "name" : "mvrsn.dev",
   "port" : 3810,
   "quickCommands" : [
     {
@@ -34,6 +34,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/website"
     }
   ],
-  "updatedAt" : 793072629.257054,
+  "updatedAt" : 795111349.183841,
   "workingDirectory" : "\/Users\/mvrsn\/code\/mvrsn.dev\/website"
 }
