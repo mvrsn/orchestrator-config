@@ -16,26 +16,12 @@
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Launch Public Beta",
       "updatedAt" : 795130856.86354
-    },
-    {
-      "columnId" : "A14FC2EF-8195-4DB4-A961-64E723ED3303",
-      "createdAt" : 795132374.561404,
-      "description" : "",
-      "hasScreenshot" : true,
-      "id" : "F2B6BF94-AC66-45E0-B112-29AB06D31E64",
-      "isArchived" : false,
-      "labelIds" : [
-        "4CEF5D80-55FF-480B-8EDF-BA1F8E4B63D8"
-      ],
-      "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-      "title" : "Add demo video",
-      "updatedAt" : 795132374.561404
     }
   ],
   "columns" : [
     {
       "cardIds" : [
-        "F2B6BF94-AC66-45E0-B112-29AB06D31E64"
+
       ],
       "color" : "6B7280",
       "icon" : "tray.fill",
@@ -98,5 +84,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795132374.561408
+  "updatedAt" : 795134474.915588
 }
