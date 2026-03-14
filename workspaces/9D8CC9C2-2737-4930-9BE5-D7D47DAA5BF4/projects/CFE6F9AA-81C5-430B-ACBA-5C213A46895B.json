@@ -59,8 +59,15 @@
       "id" : "5BB732C2-3040-4640-AE52-377DDB46F3EE",
       "name" : "app:release",
       "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+    },
+    {
+      "command" : "npm run resize:16x9",
+      "icon" : "arrow.up.left.and.arrow.down.right",
+      "id" : "6892BCC4-A866-45C9-AB4C-13CDC521C0FD",
+      "name" : "Resize to 16:9",
+      "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795111896.854301,
+  "updatedAt" : 795152520.025697,
   "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
 }
