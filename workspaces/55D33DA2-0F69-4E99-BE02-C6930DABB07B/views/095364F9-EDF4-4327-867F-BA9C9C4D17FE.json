@@ -1,6 +1,7 @@
 {
   "color" : "38BDF8",
   "createdAt" : 792505426.307647,
+  "hasUserArrangement" : false,
   "icon" : "server.rack",
   "id" : "095364F9-EDF4-4327-867F-BA9C9C4D17FE",
   "name" : "Content",
@@ -52,13 +53,12 @@
                 "type" : "agent"
               },
               "id" : "7671707B-EC06-41D7-9F90-AD46C7DD4F14",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           },
           "id" : "693B8BDC-823A-49D4-AD7D-BCC59FE8B329",
-          "previousRatio" : 0.5,
-          "ratio" : 0,
+          "ratio" : 0.5,
           "second" : {
             "split" : {
               "axis" : "vertical",
@@ -76,7 +76,6 @@
                 "type" : "panel"
               },
               "id" : "9570B817-2D4A-4717-A8B0-5510B39A5A33",
-              "previousRatio" : 0,
               "ratio" : 0,
               "second" : {
                 "panel" : {
@@ -100,6 +99,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 794967677.137541,
+  "updatedAt" : 795224831.668079,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
