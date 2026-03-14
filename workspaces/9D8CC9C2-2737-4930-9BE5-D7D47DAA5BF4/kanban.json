@@ -16,6 +16,20 @@
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Launch Public Beta",
       "updatedAt" : 795130856.86354
+    },
+    {
+      "columnId" : "1D07C76C-81F2-4A04-BA0A-F5A0721D9B30",
+      "createdAt" : 795142453.570238,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "A0C4823B-5DC7-4463-B48C-B17ADF51DE0F",
+      "isArchived" : false,
+      "labelIds" : [
+        "ECFC8264-E3B7-4EF5-9B30-757FEFD38D53"
+      ],
+      "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+      "title" : "Add FAQ section",
+      "updatedAt" : 795142472.396677
     }
   ],
   "columns" : [
@@ -31,7 +45,8 @@
     },
     {
       "cardIds" : [
-        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA"
+        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA",
+        "A0C4823B-5DC7-4463-B48C-B17ADF51DE0F"
       ],
       "color" : "3B82F6",
       "icon" : "checklist",
@@ -84,5 +99,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795134474.915588
+  "updatedAt" : 795142474.531369
 }
