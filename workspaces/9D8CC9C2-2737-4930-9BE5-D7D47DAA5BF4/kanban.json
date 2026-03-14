@@ -30,6 +30,20 @@
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Write launch blog article",
       "updatedAt" : 795145760.774092
+    },
+    {
+      "columnId" : "1D07C76C-81F2-4A04-BA0A-F5A0721D9B30",
+      "createdAt" : 795175641.415935,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "8E423F7B-7DD7-4FFC-9EC3-32ABC38DFFE9",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+      "title" : "Add FAQ Section",
+      "updatedAt" : 795175653.664959
     }
   ],
   "columns" : [
@@ -46,7 +60,8 @@
     {
       "cardIds" : [
         "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA",
-        "F9E37317-9458-4321-8305-A304B38A302B"
+        "F9E37317-9458-4321-8305-A304B38A302B",
+        "8E423F7B-7DD7-4FFC-9EC3-32ABC38DFFE9"
       ],
       "color" : "3B82F6",
       "icon" : "checklist",
@@ -99,5 +114,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795174496.600563
+  "updatedAt" : 795175656.123069
 }
