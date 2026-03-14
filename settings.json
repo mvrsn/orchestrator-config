@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "browser_fullscreen",
-      "agent_screenshot",
-      "menu_bar_quick_access",
-      "focus_drag",
-      "voice_input",
       "workspace_switch",
+      "browser_fullscreen",
       "zen_mode",
-      "session_restore",
+      "focus_drag",
       "quick_add_task",
-      "browser_inspector"
+      "menu_bar_quick_access",
+      "agent_screenshot",
+      "browser_inspector",
+      "voice_input",
+      "session_restore"
     ],
     "dismissed" : false
   },
@@ -33,7 +33,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 795096006.869627,
+    "lastSyncDate" : 795139207.406639,
     "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
   },
   "keyBindings" : {
@@ -67,18 +67,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "browserOpened",
-      "projectStarted",
-      "focusSeen",
       "pomodoroSeen",
-      "viewsSeen",
-      "agentSeen",
-      "metricsSeen",
-      "sidebarSeen",
-      "tasksSeen",
-      "projectCreated",
+      "focusSeen",
       "linkAdded",
-      "workspaceCreated"
+      "workspaceCreated",
+      "metricsSeen",
+      "projectStarted",
+      "viewsSeen",
+      "sidebarSeen",
+      "browserOpened",
+      "agentSeen",
+      "tasksSeen",
+      "projectCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
