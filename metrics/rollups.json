@@ -1893,7 +1893,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-14" : {
-      "activeSeconds" : 1436,
+      "activeSeconds" : 1444,
       "agentSessionsResumed" : 69,
       "agentSessionsStarted" : 4,
       "agentTypeEventBreakdown" : {
@@ -1902,15 +1902,15 @@
         "Gemini" : 5
       },
       "appLaunches" : 5,
-      "backgroundSeconds" : 449,
+      "backgroundSeconds" : 457,
       "dayKey" : "2026-03-14",
-      "eventCount" : 185,
+      "eventCount" : 188,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "0" : 185
+        "0" : 188
       },
       "linkOpensExternal" : 0,
-      "linkOpensInternal" : 3,
+      "linkOpensInternal" : 4,
       "pomodoroBreakMinutes" : 0,
       "pomodoroBreaksSkipped" : 0,
       "pomodoroBreaksTaken" : 0,
@@ -1929,7 +1929,7 @@
         "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 10,
         "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 10,
         "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 10,
-        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 22,
+        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 23,
         "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 10,
         "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 5
       },
@@ -1941,12 +1941,12 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 449
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 457
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 85,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 20,
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 27,
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 28,
         "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 10
       },
       "workspaceStarts" : 0
@@ -1954,7 +1954,7 @@
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
-    "0" : 1097,
+    "0" : 1100,
     "1" : 506,
     "10" : 1596,
     "11" : 1283,
@@ -1978,7 +1978,7 @@
     "8" : 640,
     "9" : 631
   },
-  "lastEventAt" : "2026-03-14T00:37:47Z",
+  "lastEventAt" : "2026-03-14T00:38:15Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 615,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2003,21 +2003,21 @@
     "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 102,
     "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 173,
     "AC63FC8E-B617-4856-9F03-4244632899C0" : 84,
-    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1324,
+    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1325,
     "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 131,
     "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 247,
     "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 55
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 476060,
+    "activeSeconds" : 476068,
     "agentSessionsResumed" : 4814,
     "agentSessionsStarted" : 89,
     "appLaunches" : 637,
-    "backgroundSeconds" : 956001,
+    "backgroundSeconds" : 956009,
     "focusAdds" : 23,
     "linkOpensExternal" : 15,
-    "linkOpensInternal" : 82,
+    "linkOpensInternal" : 83,
     "pomodoroBreakMinutes" : 0,
     "pomodoroBreaksSkipped" : 0,
     "pomodoroBreaksTaken" : 0,
@@ -2027,23 +2027,23 @@
     "projectStarts" : 5097,
     "projectStops" : 67,
     "quickActions" : 71,
-    "totalEvents" : 19196,
+    "totalEvents" : 19199,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-14T00:37:47Z",
+  "updatedAt" : "2026-03-14T00:38:15Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 387233,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 40536,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 29970,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 13497,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 13505,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3136
   },
   "workspaceBreakdown" : {
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 6779,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2229,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 363,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 364,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1013
   }
 }
