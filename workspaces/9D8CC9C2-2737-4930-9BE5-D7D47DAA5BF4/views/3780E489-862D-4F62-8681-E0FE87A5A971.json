@@ -1,0 +1,41 @@
+{
+  "color" : "667eea",
+  "createdAt" : 795261936.236561,
+  "hasUserArrangement" : false,
+  "icon" : "square.grid.2x2",
+  "id" : "3780E489-862D-4F62-8681-E0FE87A5A971",
+  "name" : "Admin",
+  "order" : 2,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "4A0FCA87-D48B-454C-A330-2BE2255C5727",
+            "type" : "browser"
+          },
+          "id" : "C5780A7F-1D12-408A-A88D-80BD520C5332",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "55781AD1-9E70-44E6-8E49-0251994B63B6",
+      "ratio" : 0.7,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+            "type" : "project"
+          },
+          "id" : "638950F1-5FDD-4B46-9DA5-CCEFCCD13265",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 795261936.236585,
+  "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
+}
