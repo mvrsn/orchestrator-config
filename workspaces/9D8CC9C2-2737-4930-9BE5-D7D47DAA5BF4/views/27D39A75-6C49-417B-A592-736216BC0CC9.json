@@ -10,67 +10,67 @@
     "split" : {
       "axis" : "vertical",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "108FC14F-1A93-485D-B16C-ECF50DC85898",
-            "type" : "browser"
+        "split" : {
+          "axis" : "horizontal",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "108FC14F-1A93-485D-B16C-ECF50DC85898",
+                "type" : "browser"
+              },
+              "id" : "8375A83D-D8AB-4A0E-8B58-140265241AF4",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "6AF8503E-0853-4BE6-8D46-69CA599C6A10",
-          "isMinimized" : false
+          "id" : "24489F33-A721-4B8D-9059-AD729DBC632D",
+          "ratio" : 0.5,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "project"
+              },
+              "id" : "4ACD3B69-E46F-4D74-AC36-9A5B80D3CBF6",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "4472CADF-B214-45A1-9909-D76CACE51DAA",
-      "ratio" : 0,
+      "id" : "6BD337A0-43F0-469F-85AC-C2136AD9ACB6",
+      "ratio" : 0.5,
       "second" : {
         "split" : {
           "axis" : "horizontal",
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                "type" : "project"
+                "agentType" : "claude",
+                "id" : "1F2E57E7-E4C0-49FA-9C48-59D6B1AB9653",
+                "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "agent"
               },
-              "id" : "92944E44-C0C5-46EC-BBE6-249FE7C53341",
+              "id" : "15CB9205-C918-471A-AD9B-5E1CEB0AAB88",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "8568A607-4B25-4001-AB7B-E9550CBD4704",
-          "ratio" : 0.3333333333333333,
+          "id" : "EDD0B072-FA5D-4881-A258-10A7E2ED8746",
+          "ratio" : 0.5,
           "second" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "claude",
-                    "id" : "1F2E57E7-E4C0-49FA-9C48-59D6B1AB9653",
-                    "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                    "type" : "agent"
-                  },
-                  "id" : "0FBA17A5-CD83-4CB9-A7E2-89971D099AD7",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "agentType" : "codex",
+                "id" : "E34396EE-274B-4F8B-9ED5-B05D90322FD1",
+                "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "agent"
               },
-              "id" : "B6C08FAC-6120-4EA5-B84E-D7008177026F",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "codex",
-                    "id" : "E34396EE-274B-4F8B-9ED5-B05D90322FD1",
-                    "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                    "type" : "agent"
-                  },
-                  "id" : "B074A5F4-C9A4-4A18-ABB7-2B0B79A65B4F",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "9C1DCF98-CCD6-4AF5-AE67-1EAB634A2D82",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
@@ -78,6 +78,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795265993.206726,
+  "updatedAt" : 795266035.263232,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
