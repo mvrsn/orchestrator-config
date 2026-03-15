@@ -10,67 +10,67 @@
     "split" : {
       "axis" : "vertical",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "108FC14F-1A93-485D-B16C-ECF50DC85898",
-            "type" : "browser"
+        "split" : {
+          "axis" : "horizontal",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "108FC14F-1A93-485D-B16C-ECF50DC85898",
+                "type" : "browser"
+              },
+              "id" : "4F55673C-B007-4C0A-9217-3C3C748095C1",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "ED31ECBC-87A0-4897-9114-81344CC294C9",
-          "isMinimized" : false
+          "id" : "1950B65D-3B8C-4E6C-9ADB-799B00DCB012",
+          "ratio" : 0.5,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "project"
+              },
+              "id" : "25777BAB-AC5D-4383-8BF2-FCCB7C6555D5",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "506CE744-9E7E-4E6D-9532-7C28C9B72296",
-      "ratio" : 0.7,
+      "id" : "C0BAC46C-AFFD-4B4A-9117-D277222DCA04",
+      "ratio" : 0.5,
       "second" : {
         "split" : {
           "axis" : "horizontal",
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                "type" : "project"
+                "agentType" : "claude",
+                "id" : "1F2E57E7-E4C0-49FA-9C48-59D6B1AB9653",
+                "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "agent"
               },
-              "id" : "C8486E06-019C-4386-BBD4-F9BBFDCEB44C",
+              "id" : "70ED3AA1-863A-4089-B7AB-5447318FBF6B",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "843E5DFA-712F-44F1-A57B-BD48CF2D94DC",
-          "ratio" : 0.3333333333333333,
+          "id" : "E622B643-3235-4BFA-85EB-74F42B7DA195",
+          "ratio" : 0.5,
           "second" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "claude",
-                    "id" : "1F2E57E7-E4C0-49FA-9C48-59D6B1AB9653",
-                    "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                    "type" : "agent"
-                  },
-                  "id" : "0400A403-9D9F-44C5-9855-44054EF6257D",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "agentType" : "codex",
+                "id" : "E34396EE-274B-4F8B-9ED5-B05D90322FD1",
+                "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "agent"
               },
-              "id" : "20A118C6-0DDE-4862-BB66-AFA9E745A59B",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "codex",
-                    "id" : "E34396EE-274B-4F8B-9ED5-B05D90322FD1",
-                    "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                    "type" : "agent"
-                  },
-                  "id" : "4CD2FF0D-0F86-418B-89B8-CC4E93825A8C",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "9D6B1E0B-54D1-436F-AF08-48FB6C6D28BD",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
@@ -78,6 +78,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795266045.806661,
+  "updatedAt" : 795266059.754931,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
