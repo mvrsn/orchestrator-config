@@ -1,7 +1,6 @@
 {
   "color" : "667eea",
   "createdAt" : 794658948.52368,
-  "hasUserArrangement" : false,
   "icon" : "square.grid.2x2",
   "id" : "2336A831-1819-4239-AD2D-126C594F1E47",
   "name" : "Admin",
@@ -24,8 +23,7 @@
             "type" : "panel"
           },
           "id" : "1E9829FC-76C0-4321-97DA-A760FC50BB00",
-          "previousRatio" : 0.7376063755580354,
-          "ratio" : 1,
+          "ratio" : 0.7376063755580354,
           "second" : {
             "panel" : {
               "content" : {
@@ -33,7 +31,7 @@
                 "type" : "project"
               },
               "id" : "68B61426-AF48-4B46-B3E4-91AB9CC3C6C7",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           }
@@ -58,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795262351.875892,
+  "updatedAt" : 795303403.856003,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
