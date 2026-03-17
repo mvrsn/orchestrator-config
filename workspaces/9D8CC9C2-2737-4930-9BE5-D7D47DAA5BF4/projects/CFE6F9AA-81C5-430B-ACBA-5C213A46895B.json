@@ -17,7 +17,7 @@
     {
       "id" : "148C0292-F156-4FE9-BA13-E237CEE08D02",
       "label" : "prod",
-      "url" : "https:\/\/getorchestrator.dev"
+      "url" : "https:\/\/getcoda.dev"
     }
   ],
   "logPatterns" : [
@@ -30,35 +30,35 @@
       "icon" : "play.circle",
       "id" : "12684FF1-78A9-4328-947A-C1BB77F9851E",
       "name" : "web:deploy",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     },
     {
       "command" : "npm run db:migrate:remote",
       "icon" : "play.circle",
       "id" : "44DFBDB3-D8D4-4E3D-A513-09AA29CB73BA",
       "name" : "api:migrate",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     },
     {
       "command" : "npm run app:build",
       "icon" : "play.circle",
       "id" : "D07EE160-7A2A-4B9C-B207-50349DD82ADE",
       "name" : "app:build",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     },
     {
       "command" : "npm run app:upload",
       "icon" : "play.circle",
       "id" : "3659F6DF-7190-4E4B-9789-8D3FC33307DF",
       "name" : "app:upload",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     },
     {
       "command" : "npm run app:release",
       "icon" : "play.circle",
       "id" : "5BB732C2-3040-4640-AE52-377DDB46F3EE",
       "name" : "app:release",
-      "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+      "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     },
     {
       "command" : "npm run resize:16x9",
@@ -69,5 +69,5 @@
     }
   ],
   "updatedAt" : 795174808.271953,
-  "workingDirectory" : "\/Users\/mvrsn\/code\/orchestrator\/web"
+  "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
 }

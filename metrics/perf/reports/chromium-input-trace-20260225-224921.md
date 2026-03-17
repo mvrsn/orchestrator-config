@@ -386,7 +386,7 @@ _No trace entries._
 
 ## Session 97E5B4FE-D0AF-4EF2-9C35-E195A4015FA9
 
-- Project: Orchestrator
+- Project: Coda
 - Workspace: Simply Fluent
 - URL: http://localhost:3100/#demo
 
@@ -410,7 +410,7 @@ _No trace entries._
 
 ## Session E7D8E551-2F2E-4071-B57E-1CC074426E37
 
-- Project: Orchestrator
+- Project: Coda
 - Workspace: Simply Fluent
 - URL: http://localhost:3100/
 

@@ -34,7 +34,7 @@
     "commitCount" : 0,
     "enabled" : true,
     "lastSyncDate" : 795441607.285358,
-    "remoteUrl" : "git@github.com:mvrsn\/orchestrator-config.git"
+    "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
     "overrides" : {
