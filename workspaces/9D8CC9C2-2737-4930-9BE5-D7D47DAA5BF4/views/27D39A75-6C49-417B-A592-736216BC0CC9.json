@@ -57,7 +57,7 @@
             "type" : "panel"
           },
           "id" : "7DC20D76-E2D3-4697-8CD5-AE39E16DB09E",
-          "ratio" : 1,
+          "ratio" : 0.4907444545200895,
           "second" : {
             "panel" : {
               "content" : {
@@ -67,7 +67,7 @@
                 "type" : "agent"
               },
               "id" : "45D51E21-4D05-4188-91B9-7B25FA548D81",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           }
@@ -77,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795548022.646226,
+  "updatedAt" : 795555138.830065,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
