@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "menu_bar_quick_access",
+      "focus_drag",
+      "browser_inspector",
+      "browser_fullscreen",
       "quick_add_task",
       "zen_mode",
+      "session_restore",
+      "menu_bar_quick_access",
       "voice_input",
       "agent_screenshot",
-      "workspace_switch",
-      "focus_drag",
-      "session_restore",
-      "browser_fullscreen",
-      "browser_inspector"
+      "workspace_switch"
     ],
     "dismissed" : false
   },
@@ -34,6 +34,7 @@
     "commitCount" : 0,
     "enabled" : true,
     "lastSyncDate" : 795441607.285358,
+    "lastSyncError" : "Git command failed: git fetch origin\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
@@ -67,18 +68,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "browserOpened",
-      "pomodoroSeen",
-      "agentSeen",
-      "linkAdded",
+      "sidebarSeen",
       "tasksSeen",
       "viewsSeen",
-      "sidebarSeen",
       "workspaceCreated",
       "projectStarted",
+      "pomodoroSeen",
+      "linkAdded",
+      "projectCreated",
       "metricsSeen",
       "focusSeen",
-      "projectCreated"
+      "browserOpened",
+      "agentSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
