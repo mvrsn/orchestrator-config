@@ -9,46 +9,27 @@
     "split" : {
       "axis" : "vertical",
       "first" : {
-        "split" : {
-          "axis" : "vertical",
-          "first" : {
-            "panel" : {
-              "content" : {
-                "agentType" : "claude",
-                "id" : "377B4104-F32C-4B57-AB1A-B2EF1245F570",
-                "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                "type" : "agent"
-              },
-              "id" : "F9A88065-C8BF-4C16-B8A5-FF4DD1B65575",
-              "isMinimized" : false
-            },
-            "type" : "panel"
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "377B4104-F32C-4B57-AB1A-B2EF1245F570",
+            "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+            "type" : "agent"
           },
-          "id" : "050073AA-D0AB-4F55-BDED-5D0FE3786C3E",
-          "ratio" : 0.67,
-          "second" : {
-            "panel" : {
-              "content" : {
-                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                "type" : "project"
-              },
-              "id" : "2A2A17C4-8B59-49FB-AD27-BD746E8158B2",
-              "isMinimized" : false
-            },
-            "type" : "panel"
-          }
+          "id" : "F9A88065-C8BF-4C16-B8A5-FF4DD1B65575",
+          "isMinimized" : false
         },
-        "type" : "split"
+        "type" : "panel"
       },
-      "id" : "D69FDED9-737D-40B2-8F39-6026D4D7D2C6",
+      "id" : "050073AA-D0AB-4F55-BDED-5D0FE3786C3E",
       "ratio" : 0.5,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+            "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
             "type" : "project"
           },
-          "id" : "66581828-28B6-494E-87AA-55FC4E5C92BC",
+          "id" : "2A2A17C4-8B59-49FB-AD27-BD746E8158B2",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -56,6 +37,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795634061.802927,
+  "updatedAt" : 795639041.285615,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
