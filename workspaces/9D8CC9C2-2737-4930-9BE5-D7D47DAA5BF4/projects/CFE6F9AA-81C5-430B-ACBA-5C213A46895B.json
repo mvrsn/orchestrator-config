@@ -59,15 +59,8 @@
       "id" : "5BB732C2-3040-4640-AE52-377DDB46F3EE",
       "name" : "app:release",
       "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
-    },
-    {
-      "command" : "npm run resize:16x9",
-      "icon" : "arrow.up.left.and.arrow.down.right",
-      "id" : "6892BCC4-A866-45C9-AB4C-13CDC521C0FD",
-      "name" : "Resize to 16:9",
-      "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795516357.44272,
+  "updatedAt" : 795632360.420013,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
 }
