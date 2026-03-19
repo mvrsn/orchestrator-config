@@ -7,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "browser_inspector",
-      "menu_bar_quick_access",
-      "workspace_switch",
-      "session_restore",
-      "zen_mode",
       "quick_add_task",
+      "zen_mode",
       "focus_drag",
+      "session_restore",
+      "browser_inspector",
+      "workspace_switch",
       "voice_input",
       "browser_fullscreen",
-      "agent_screenshot"
+      "agent_screenshot",
+      "menu_bar_quick_access"
     ],
     "dismissed" : false
   },
@@ -76,18 +76,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "tasksSeen",
-      "projectStarted",
-      "browserOpened",
       "projectCreated",
+      "pomodoroSeen",
+      "projectStarted",
       "linkAdded",
+      "workspaceCreated",
+      "metricsSeen",
       "agentSeen",
+      "tasksSeen",
+      "browserOpened",
       "viewsSeen",
       "focusSeen",
-      "sidebarSeen",
-      "metricsSeen",
-      "workspaceCreated",
-      "pomodoroSeen"
+      "sidebarSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
@@ -112,6 +112,7 @@
     "visualStyle" : "etherealDrift"
   },
   "resumeStartupConcurrency" : 3,
+  "screenshotFlashEnabled" : true,
   "sessionResumePreference" : "alwaysResume",
   "shellPath" : "\/bin\/zsh",
   "showNotificationsOnCrash" : true,
