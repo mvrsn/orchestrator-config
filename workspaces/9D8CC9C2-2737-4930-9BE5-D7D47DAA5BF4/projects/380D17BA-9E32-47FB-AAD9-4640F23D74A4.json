@@ -27,8 +27,15 @@
       "id" : "18CF3904-7525-4359-BE87-12D653857C50",
       "name" : "Resize to 16:9",
       "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
+    },
+    {
+      "command" : "osascript -e 'tell application \"System Events\" to tell (first process whose frontmost is true) to set size of front window to {1400, 700}'",
+      "icon" : "arrow.up.left.and.arrow.down.right",
+      "id" : "A0E9386C-E5B3-4FF1-91D1-43090FAC0E33",
+      "name" : "Resize to OG (2:1)",
+      "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795572319.176815,
+  "updatedAt" : 795648782.691086,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
