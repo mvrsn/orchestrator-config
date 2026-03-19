@@ -2240,7 +2240,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-19" : {
-      "activeSeconds" : 632,
+      "activeSeconds" : 928,
       "agentSessionsResumed" : 14,
       "agentSessionsStarted" : 6,
       "agentTypeEventBreakdown" : {
@@ -2249,12 +2249,14 @@
         "Gemini" : 1
       },
       "appLaunches" : 1,
-      "backgroundSeconds" : 2115,
+      "backgroundSeconds" : 32902,
       "dayKey" : "2026-03-19",
-      "eventCount" : 86,
+      "eventCount" : 95,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "0" : 86
+        "0" : 89,
+        "1" : 4,
+        "9" : 2
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 6,
@@ -2272,24 +2274,24 @@
         "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 3,
         "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 1,
         "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 1,
-        "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 1,
+        "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 2,
         "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 1,
         "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 20,
         "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 1,
         "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 1
       },
       "projectRestarts" : 0,
-      "projectStarts" : 5,
+      "projectStarts" : 6,
       "projectStops" : 2,
       "quickActions" : 3,
       "workspaceActiveSecondsBreakdown" : {
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 2115
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 32902
       },
       "workspaceEventBreakdown" : {
-        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 9,
+        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 10,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 4,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 22,
         "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1
@@ -2299,8 +2301,8 @@
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
-    "0" : 1449,
-    "1" : 632,
+    "0" : 1452,
+    "1" : 636,
     "10" : 1862,
     "11" : 1448,
     "12" : 1493,
@@ -2321,9 +2323,9 @@
     "6" : 23,
     "7" : 249,
     "8" : 693,
-    "9" : 1090
+    "9" : 1092
   },
-  "lastEventAt" : "2026-03-19T00:48:49Z",
+  "lastEventAt" : "2026-03-19T09:25:22Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2345,7 +2347,7 @@
     "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C" : 41,
     "93D03C5C-EE8E-4737-8C49-3CD4D34FA115" : 1,
     "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 224,
-    "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 234,
+    "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 235,
     "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 305,
     "AC63FC8E-B617-4856-9F03-4244632899C0" : 84,
     "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1578,
@@ -2355,11 +2357,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 559743,
+    "activeSeconds" : 560039,
     "agentSessionsResumed" : 6022,
     "agentSessionsStarted" : 118,
     "appLaunches" : 726,
-    "backgroundSeconds" : 1169369,
+    "backgroundSeconds" : 1200156,
     "focusAdds" : 23,
     "linkOpensExternal" : 18,
     "linkOpensInternal" : 106,
@@ -2369,23 +2371,23 @@
     "pomodoroFocusMinutes" : 0,
     "pomodoroFocusSessions" : 0,
     "projectRestarts" : 134,
-    "projectStarts" : 5655,
+    "projectStarts" : 5656,
     "projectStops" : 81,
     "quickActions" : 96,
-    "totalEvents" : 22576,
+    "totalEvents" : 22585,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-19T00:48:49Z",
+  "updatedAt" : "2026-03-19T09:25:22Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 439718,
+    "00000000-0000-0000-0000-000000000001" : 439726,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 41266,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 36924,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 37010,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 37298,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3136
   },
   "workspaceBreakdown" : {
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 7908,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 7909,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2518,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
     "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 672,
