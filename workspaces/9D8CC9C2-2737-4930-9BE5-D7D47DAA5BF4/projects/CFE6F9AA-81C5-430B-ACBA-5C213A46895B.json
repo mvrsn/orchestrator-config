@@ -12,7 +12,7 @@
     {
       "id" : "0E7C685A-757A-4A01-9ED7-979A20F7C87E",
       "label" : "dev",
-      "url" : "http:\/\/localhost:3100\/"
+      "url" : "http:\/\/localhost:3100\/og-preview"
     },
     {
       "id" : "148C0292-F156-4FE9-BA13-E237CEE08D02",
@@ -61,6 +61,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
     }
   ],
-  "updatedAt" : 795632360.420013,
+  "updatedAt" : 795664396.375045,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/web"
 }
