@@ -4,7 +4,7 @@
   ],
   "cards" : [
     {
-      "columnId" : "1D07C76C-81F2-4A04-BA0A-F5A0721D9B30",
+      "columnId" : "60DE6CEE-4AE1-4619-BDE3-55521E6BA481",
       "createdAt" : 795130850.043247,
       "description" : "",
       "hasScreenshot" : false,
@@ -15,7 +15,7 @@
       ],
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Launch Public Beta",
-      "updatedAt" : 795130856.86354
+      "updatedAt" : 795696081.720404
     },
     {
       "columnId" : "1D07C76C-81F2-4A04-BA0A-F5A0721D9B30",
@@ -59,7 +59,6 @@
     },
     {
       "cardIds" : [
-        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA",
         "F9E37317-9458-4321-8305-A304B38A302B",
         "8E423F7B-7DD7-4FFC-9EC3-32ABC38DFFE9"
       ],
@@ -71,7 +70,7 @@
     },
     {
       "cardIds" : [
-
+        "5ADC4D4B-0DDF-4017-A43C-A89A9098ABAA"
       ],
       "color" : "F59E0B",
       "icon" : "flame.fill",
@@ -114,5 +113,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795632336.907124
+  "updatedAt" : 795696084.686154
 }
