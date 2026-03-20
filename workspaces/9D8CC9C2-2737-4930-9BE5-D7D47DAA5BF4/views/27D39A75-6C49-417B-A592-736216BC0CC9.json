@@ -9,25 +9,46 @@
     "split" : {
       "axis" : "horizontal",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-            "type" : "project"
+        "split" : {
+          "axis" : "horizontal",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "project"
+              },
+              "id" : "7B7CD69F-6372-4D56-8901-8B90E618DAB1",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "7B7CD69F-6372-4D56-8901-8B90E618DAB1",
-          "isMinimized" : false
+          "id" : "BF59E153-1AB9-4F44-83D7-1E4CB448B458",
+          "ratio" : 0.5,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+                "type" : "project"
+              },
+              "id" : "DFBECEF4-3938-48C3-99A4-24AC3F8F975A",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "BF59E153-1AB9-4F44-83D7-1E4CB448B458",
-      "ratio" : 0.5,
+      "id" : "BC04043F-FED5-4D0A-BA54-447F18D20445",
+      "ratio" : 0.6666666666666666,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
-            "type" : "project"
+            "agentType" : "claude",
+            "id" : "82E014E7-CD84-4784-8A79-B1F517E0A1CC",
+            "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+            "type" : "agent"
           },
-          "id" : "DFBECEF4-3938-48C3-99A4-24AC3F8F975A",
+          "id" : "3743F945-1113-4107-800D-98FE98DDF9B5",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -35,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795721076.7923,
+  "updatedAt" : 795721090.083622,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
