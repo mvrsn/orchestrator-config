@@ -1,0 +1,42 @@
+{
+  "color" : "667eea",
+  "createdAt" : 795784859.986832,
+  "icon" : "square.grid.2x2",
+  "id" : "5F156370-3DE9-4157-AF00-4B2B22691EE8",
+  "name" : "API",
+  "order" : 3,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "752CA654-60F1-491E-837D-47766A70D476",
+            "type" : "project"
+          },
+          "id" : "30092CF8-B188-4C30-9AE7-5700960940E0",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "A8211F27-4498-4FB6-9136-AD20344BF388",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "33576C33-78C5-4EBC-AFD0-8F4A61ADF2FB",
+            "projectId" : "752CA654-60F1-491E-837D-47766A70D476",
+            "type" : "agent"
+          },
+          "id" : "971C8875-3F8F-406C-BE1D-93392C5318DD",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 795784870.561383,
+  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+}
