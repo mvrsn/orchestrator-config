@@ -31,7 +31,7 @@
       "command" : "npm run deploy",
       "icon" : "play.circle",
       "id" : "1302F17F-7609-4701-8092-F84231A4BE9C",
-      "name" : "deploy",
+      "name" : "deploy:dev",
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
     },
     {
@@ -56,6 +56,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
     }
   ],
-  "updatedAt" : 795787850.083542,
+  "updatedAt" : 795787855.948234,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
 }
