@@ -4,7 +4,7 @@
   "icon" : "network",
   "id" : "94ECE51D-5A9A-4AC7-96B4-48EDE06380F9",
   "name" : "Website",
-  "order" : 7,
+  "order" : 6,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -56,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795784875.575574,
+  "updatedAt" : 795784880.785977,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
