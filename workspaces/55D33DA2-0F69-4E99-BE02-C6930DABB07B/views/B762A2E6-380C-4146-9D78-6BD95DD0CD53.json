@@ -4,7 +4,7 @@
   "icon" : "square.grid.2x2",
   "id" : "B762A2E6-380C-4146-9D78-6BD95DD0CD53",
   "name" : "Redesign",
-  "order" : 10,
+  "order" : 4,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -56,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795784870.561386,
+  "updatedAt" : 795784875.575573,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }

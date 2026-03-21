@@ -4,7 +4,7 @@
   "icon" : "message",
   "id" : "A5984429-8ABA-418D-ABE1-A33502E45C0A",
   "name" : "Partners",
-  "order" : 4,
+  "order" : 5,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -77,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795784870.561384,
+  "updatedAt" : 795784875.575573,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }

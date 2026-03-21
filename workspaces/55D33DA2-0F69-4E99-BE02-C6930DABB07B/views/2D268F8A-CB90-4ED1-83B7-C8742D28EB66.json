@@ -4,7 +4,7 @@
   "icon" : "envelope",
   "id" : "2D268F8A-CB90-4ED1-83B7-C8742D28EB66",
   "name" : "Mail",
-  "order" : 7,
+  "order" : 8,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -35,6 +35,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795784870.561385,
+  "updatedAt" : 795784875.575574,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
