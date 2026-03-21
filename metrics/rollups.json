@@ -2379,23 +2379,23 @@
       "workspaceStarts" : 0
     },
     "2026-03-21" : {
-      "activeSeconds" : 31657,
+      "activeSeconds" : 31950,
       "agentSessionsResumed" : 1,
       "agentSessionsStarted" : 2,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 3
       },
       "appLaunches" : 0,
-      "backgroundSeconds" : 14164,
+      "backgroundSeconds" : 14171,
       "dayKey" : "2026-03-21",
-      "eventCount" : 179,
+      "eventCount" : 182,
       "focusAdds" : 2,
       "hourlyActivity" : {
         "0" : 32,
         "1" : 10,
         "10" : 8,
         "11" : 58,
-        "12" : 21,
+        "12" : 24,
         "2" : 13,
         "8" : 3,
         "9" : 34
@@ -2409,7 +2409,7 @@
       "pomodoroFocusSessions" : 0,
       "projectEventBreakdown" : {
         "37589B41-B979-43E4-94EE-0431660DBDB9" : 2,
-        "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 3,
+        "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 4,
         "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 3,
         "752CA654-60F1-491E-837D-47766A70D476" : 4,
         "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 1,
@@ -2420,19 +2420,19 @@
       "projectRestarts" : 5,
       "projectStarts" : 4,
       "projectStops" : 0,
-      "quickActions" : 6,
+      "quickActions" : 7,
       "workspaceActiveSecondsBreakdown" : {
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 5601,
+        "00000000-0000-0000-0000-000000000001" : 5608,
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 111,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 8452
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 13,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 1,
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 8
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 9
       },
       "workspaceStarts" : 0
     }
@@ -2443,7 +2443,7 @@
     "1" : 672,
     "10" : 1956,
     "11" : 1506,
-    "12" : 1514,
+    "12" : 1517,
     "13" : 1331,
     "14" : 1081,
     "15" : 1172,
@@ -2463,7 +2463,7 @@
     "8" : 696,
     "9" : 1174
   },
-  "lastEventAt" : "2026-03-21T12:45:07Z",
+  "lastEventAt" : "2026-03-21T12:49:53Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2473,7 +2473,7 @@
     "2D9D140A-5FB1-4C32-BF58-AA1915E06DE7" : 674,
     "34FFF20B-C45F-4DE6-894C-F3906626606F" : 1,
     "37589B41-B979-43E4-94EE-0431660DBDB9" : 1071,
-    "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 177,
+    "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 178,
     "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 333,
     "41ED51C2-D9AA-42F3-AABF-5D2B2403BB87" : 1,
     "51256D55-8371-4690-BD11-46711408CE57" : 414,
@@ -2495,11 +2495,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 606853,
+    "activeSeconds" : 607146,
     "agentSessionsResumed" : 6322,
     "agentSessionsStarted" : 139,
     "appLaunches" : 748,
-    "backgroundSeconds" : 1323391,
+    "backgroundSeconds" : 1323398,
     "focusAdds" : 25,
     "linkOpensExternal" : 22,
     "linkOpensInternal" : 119,
@@ -2511,13 +2511,13 @@
     "projectRestarts" : 139,
     "projectStarts" : 5736,
     "projectStops" : 82,
-    "quickActions" : 133,
-    "totalEvents" : 23763,
+    "quickActions" : 134,
+    "totalEvents" : 23766,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-21T12:45:07Z",
+  "updatedAt" : "2026-03-21T12:50:08Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 469070,
+    "00000000-0000-0000-0000-000000000001" : 469363,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 42942,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 36934,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
@@ -2528,7 +2528,7 @@
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8147,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2605,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 788,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 789,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1174
   }
 }
