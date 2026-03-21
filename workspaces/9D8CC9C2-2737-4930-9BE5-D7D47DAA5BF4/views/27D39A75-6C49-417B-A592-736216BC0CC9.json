@@ -26,35 +26,15 @@
           "previousRatio" : 0.72,
           "ratio" : 1,
           "second" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
-                    "type" : "project"
-                  },
-                  "id" : "43BC1B5F-D0E3-4962-9418-1747AE128F0C",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
+                "type" : "project"
               },
-              "id" : "9325A871-ED38-4E93-810A-EC48716FA319",
-              "isCollapsed" : true,
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
-                    "type" : "project"
-                  },
-                  "id" : "2E69E8CF-C376-4F43-9641-49CB6A6A68A0",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "2E69E8CF-C376-4F43-9641-49CB6A6A68A0",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
@@ -98,6 +78,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795746600.273425,
+  "updatedAt" : 795753560.031052,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
