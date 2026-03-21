@@ -23,6 +23,7 @@
             "type" : "panel"
           },
           "id" : "9102E2F3-9A4D-49B8-A534-4CB23AD7E7E1",
+          "previousRatio" : 1,
           "ratio" : 1,
           "second" : {
             "panel" : {
@@ -77,6 +78,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795790337.815099,
+  "updatedAt" : 795793782.303839,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
