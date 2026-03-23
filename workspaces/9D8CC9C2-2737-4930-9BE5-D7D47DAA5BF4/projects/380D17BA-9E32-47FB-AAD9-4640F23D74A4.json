@@ -48,13 +48,13 @@
       "workingDirectory" : "~"
     },
     {
-      "command" : "osascript -e 'tell application \"System Events\" to tell (first process whose frontmost is true) to set size of front window to {1200, 900}'",
+      "command" : "osascript -e 'tell application \"System Events\" to tell (first process whose frontmost is true) to set size of front window to {1400, 1050}'",
       "icon" : "terminal",
       "id" : "C6F34996-7BA1-4753-B674-8D54784590AA",
       "name" : "Resize to 4:3",
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795983410.314363,
+  "updatedAt" : 795983593.81532,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
