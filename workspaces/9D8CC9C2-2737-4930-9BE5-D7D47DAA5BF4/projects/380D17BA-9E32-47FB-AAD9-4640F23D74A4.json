@@ -46,8 +46,15 @@
       "id" : "A0E9386C-E5B3-4FF1-91D1-43090FAC0E33",
       "name" : "Resize to OG (2:1)",
       "workingDirectory" : "~"
+    },
+    {
+      "command" : "osascript -e 'tell application \"System Events\" to tell (first process whose frontmost is true) to set size of front window to {1200, 900}'",
+      "icon" : "terminal",
+      "id" : "C6F34996-7BA1-4753-B674-8D54784590AA",
+      "name" : "Resize to 4:3",
+      "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 795815152.853849,
+  "updatedAt" : 795983410.314363,
   "workingDirectory" : "\/Users\/mvrsn\/code\/coda\/admin"
 }
