@@ -1,8 +1,8 @@
 {
   "agentTypeBreakdown" : {
-    "Claude Code" : 6015,
-    "Codex" : 238,
-    "Gemini" : 294,
+    "Claude Code" : 6030,
+    "Codex" : 239,
+    "Gemini" : 295,
     "Terminal" : 6
   },
   "createdAt" : "2026-02-13T23:59:19Z",
@@ -2534,22 +2534,22 @@
     },
     "2026-03-23" : {
       "activeSeconds" : 2742,
-      "agentSessionsResumed" : 19,
+      "agentSessionsResumed" : 36,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
-        "Claude Code" : 17,
-        "Codex" : 1,
-        "Gemini" : 1
+        "Claude Code" : 32,
+        "Codex" : 2,
+        "Gemini" : 2
       },
-      "appLaunches" : 1,
-      "backgroundSeconds" : 39393,
+      "appLaunches" : 2,
+      "backgroundSeconds" : 39395,
       "dayKey" : "2026-03-23",
-      "eventCount" : 145,
+      "eventCount" : 166,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "0" : 23,
         "10" : 59,
-        "11" : 61,
+        "11" : 82,
         "9" : 2
       },
       "linkOpensExternal" : 0,
@@ -2560,22 +2560,22 @@
       "pomodoroFocusMinutes" : 0,
       "pomodoroFocusSessions" : 0,
       "projectEventBreakdown" : {
-        "1FD78126-3777-456E-B467-72855D63E3FC" : 1,
-        "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 3,
-        "37589B41-B979-43E4-94EE-0431660DBDB9" : 2,
-        "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 5,
-        "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 1,
-        "5E36E421-0614-40A2-A3F9-D79733F10B69" : 2,
-        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 5,
-        "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 1,
+        "1FD78126-3777-456E-B467-72855D63E3FC" : 2,
+        "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 5,
+        "37589B41-B979-43E4-94EE-0431660DBDB9" : 3,
+        "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 6,
+        "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 2,
+        "5E36E421-0614-40A2-A3F9-D79733F10B69" : 3,
+        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 8,
+        "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 2,
         "752CA654-60F1-491E-837D-47766A70D476" : 1,
-        "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 2,
-        "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 2,
-        "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 1,
-        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 2,
-        "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 1,
+        "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 3,
+        "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 3,
+        "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 2,
+        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 3,
+        "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 2,
         "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 1,
-        "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 1
+        "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 2
       },
       "projectRestarts" : 2,
       "projectStarts" : 10,
@@ -2585,13 +2585,13 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 39393
+        "00000000-0000-0000-0000-000000000001" : 39395
       },
       "workspaceEventBreakdown" : {
-        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 18,
-        "56632FF1-48EF-4498-A190-1DEE0D907C61" : 5,
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 7,
-        "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1
+        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 28,
+        "56632FF1-48EF-4498-A190-1DEE0D907C61" : 9,
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 9,
+        "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 2
       },
       "workspaceStarts" : 0
     }
@@ -2601,7 +2601,7 @@
     "0" : 1579,
     "1" : 673,
     "10" : 2015,
-    "11" : 1567,
+    "11" : 1588,
     "12" : 1520,
     "13" : 1381,
     "14" : 1125,
@@ -2622,43 +2622,43 @@
     "8" : 696,
     "9" : 1176
   },
-  "lastEventAt" : "2026-03-23T11:43:31Z",
+  "lastEventAt" : "2026-03-23T11:43:52Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
-    "1FD78126-3777-456E-B467-72855D63E3FC" : 458,
-    "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 1009,
+    "1FD78126-3777-456E-B467-72855D63E3FC" : 459,
+    "2B4CEB62-B2F2-4E3D-A246-58A96E416D00" : 1011,
     "2C3F1B80-012B-4C26-8F2D-35FA91D6F82F" : 3,
     "2D9D140A-5FB1-4C32-BF58-AA1915E06DE7" : 674,
     "34FFF20B-C45F-4DE6-894C-F3906626606F" : 1,
-    "37589B41-B979-43E4-94EE-0431660DBDB9" : 1081,
-    "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 196,
-    "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 338,
+    "37589B41-B979-43E4-94EE-0431660DBDB9" : 1082,
+    "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 197,
+    "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 339,
     "41ED51C2-D9AA-42F3-AABF-5D2B2403BB87" : 1,
     "51256D55-8371-4690-BD11-46711408CE57" : 414,
-    "5E36E421-0614-40A2-A3F9-D79733F10B69" : 22,
-    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 1927,
-    "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 884,
+    "5E36E421-0614-40A2-A3F9-D79733F10B69" : 23,
+    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 1930,
+    "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 885,
     "752CA654-60F1-491E-837D-47766A70D476" : 591,
     "7C9AD39F-AA08-42F7-9B48-306009080E4E" : 4,
     "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C" : 41,
     "93D03C5C-EE8E-4737-8C49-3CD4D34FA115" : 1,
-    "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 257,
-    "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 317,
-    "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 332,
+    "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 258,
+    "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 318,
+    "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 333,
     "AC63FC8E-B617-4856-9F03-4244632899C0" : 84,
-    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1673,
-    "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 290,
+    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1674,
+    "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 291,
     "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 253,
-    "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 171
+    "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 172
   },
   "schemaVersion" : 1,
   "totals" : {
     "activeSeconds" : 668164,
-    "agentSessionsResumed" : 6410,
+    "agentSessionsResumed" : 6427,
     "agentSessionsStarted" : 143,
-    "appLaunches" : 753,
-    "backgroundSeconds" : 1427316,
+    "appLaunches" : 754,
+    "backgroundSeconds" : 1427318,
     "focusAdds" : 26,
     "linkOpensExternal" : 24,
     "linkOpensInternal" : 123,
@@ -2671,10 +2671,10 @@
     "projectStarts" : 5784,
     "projectStops" : 83,
     "quickActions" : 138,
-    "totalEvents" : 24614,
+    "totalEvents" : 24635,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-23T11:43:31Z",
+  "updatedAt" : "2026-03-23T11:43:52Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 529459,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 42946,
@@ -2684,10 +2684,10 @@
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3136
   },
   "workspaceBreakdown" : {
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8265,
-    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2632,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8275,
+    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2636,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 824,
-    "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1179
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 826,
+    "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1180
   }
 }
