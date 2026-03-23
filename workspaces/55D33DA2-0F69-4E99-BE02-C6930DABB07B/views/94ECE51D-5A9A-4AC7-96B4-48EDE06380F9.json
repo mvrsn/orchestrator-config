@@ -66,26 +66,26 @@
             "panel" : {
               "content" : {
                 "agentType" : "claude",
-                "id" : "C23BE2E1-ED6D-463B-804B-F98A681B2814",
+                "id" : "A7CFE5A1-A641-4C02-929F-83A56E8FE111",
                 "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
                 "type" : "agent"
               },
-              "id" : "458534FE-2AFC-489F-8C6F-4EE8C4B92D1E",
+              "id" : "1664445D-A886-499B-BDCF-889671414247",
               "isMinimized" : false
             },
             "type" : "panel"
           },
-          "id" : "8711AB6F-DB84-4D4D-98AE-640E64D27D08",
+          "id" : "CC21BFF9-02B5-4131-B840-4582D74A4D13",
           "ratio" : 0.5,
           "second" : {
             "panel" : {
               "content" : {
                 "agentType" : "claude",
-                "id" : "A7CFE5A1-A641-4C02-929F-83A56E8FE111",
+                "id" : "C23BE2E1-ED6D-463B-804B-F98A681B2814",
                 "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
                 "type" : "agent"
               },
-              "id" : "7DE1260D-0BD0-49D3-88D5-58386309222A",
+              "id" : "458534FE-2AFC-489F-8C6F-4EE8C4B92D1E",
               "isMinimized" : false
             },
             "type" : "panel"
@@ -96,6 +96,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795983950.913402,
+  "updatedAt" : 795983968.589793,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
