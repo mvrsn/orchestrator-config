@@ -9,14 +9,14 @@
     "completedTips" : [
       "session_restore",
       "agent_screenshot",
+      "zen_mode",
+      "browser_inspector",
+      "voice_input",
       "quick_add_task",
       "focus_drag",
       "browser_fullscreen",
-      "browser_inspector",
-      "workspace_switch",
       "menu_bar_quick_access",
-      "voice_input",
-      "zen_mode"
+      "workspace_switch"
     ],
     "dismissed" : false
   },
@@ -78,17 +78,17 @@
   "onboarding" : {
     "completedSteps" : [
       "projectStarted",
-      "focusSeen",
-      "workspaceCreated",
+      "pomodoroSeen",
       "projectCreated",
-      "agentSeen",
-      "tasksSeen",
+      "focusSeen",
       "browserOpened",
+      "workspaceCreated",
       "linkAdded",
       "sidebarSeen",
-      "pomodoroSeen",
       "viewsSeen",
-      "metricsSeen"
+      "metricsSeen",
+      "agentSeen",
+      "tasksSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
