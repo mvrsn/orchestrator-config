@@ -21,7 +21,7 @@
                     "type" : "browser"
                   },
                   "id" : "77A02412-EE35-46BC-85E9-F8320FAB3EEC",
-                  "isMinimized" : true
+                  "isMinimized" : false
                 },
                 "type" : "panel"
               },
@@ -34,7 +34,7 @@
                     "type" : "project"
                   },
                   "id" : "D0712980-5F41-4AD2-8AFF-4E530E38A1F7",
-                  "isMinimized" : true
+                  "isMinimized" : false
                 },
                 "type" : "panel"
               }
@@ -42,7 +42,6 @@
             "type" : "split"
           },
           "id" : "934F8E89-DD66-4D61-B678-8876C76B541F",
-          "isCollapsed" : true,
           "ratio" : 0.5,
           "second" : {
             "panel" : {
@@ -53,7 +52,7 @@
                 "type" : "agent"
               },
               "id" : "17B7DD3B-C28A-4D0F-A000-435DF4DAD54E",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           }
@@ -61,8 +60,7 @@
         "type" : "split"
       },
       "id" : "A92A5999-3B6B-4667-8B90-B494BFB05B8F",
-      "previousRatio" : 0.3,
-      "ratio" : 0,
+      "ratio" : 0.3,
       "second" : {
         "panel" : {
           "content" : {
@@ -79,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 796203079.146281,
+  "updatedAt" : 796203088.017042,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
