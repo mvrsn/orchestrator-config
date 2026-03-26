@@ -2738,7 +2738,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-26" : {
-      "activeSeconds" : 1088,
+      "activeSeconds" : 1182,
       "agentSessionsResumed" : 106,
       "agentSessionsStarted" : 1,
       "agentTypeEventBreakdown" : {
@@ -2746,15 +2746,15 @@
         "Codex" : 7
       },
       "appLaunches" : 14,
-      "backgroundSeconds" : 1819,
+      "backgroundSeconds" : 1829,
       "dayKey" : "2026-03-26",
-      "eventCount" : 338,
+      "eventCount" : 340,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "0" : 56,
         "1" : 111,
         "6" : 88,
-        "7" : 83
+        "7" : 85
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -2788,7 +2788,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 1819
+        "00000000-0000-0000-0000-000000000001" : 1829
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 158,
@@ -2821,11 +2821,11 @@
     "3" : 130,
     "4" : 1,
     "6" : 111,
-    "7" : 332,
+    "7" : 334,
     "8" : 696,
     "9" : 1184
   },
-  "lastEventAt" : "2026-03-26T07:36:52Z",
+  "lastEventAt" : "2026-03-26T07:38:37Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2857,11 +2857,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 752802,
+    "activeSeconds" : 752896,
     "agentSessionsResumed" : 6607,
     "agentSessionsStarted" : 150,
     "appLaunches" : 789,
-    "backgroundSeconds" : 1517177,
+    "backgroundSeconds" : 1517187,
     "focusAdds" : 26,
     "linkOpensExternal" : 24,
     "linkOpensInternal" : 124,
@@ -2874,12 +2874,12 @@
     "projectStarts" : 6141,
     "projectStops" : 86,
     "quickActions" : 147,
-    "totalEvents" : 26092,
+    "totalEvents" : 26094,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-26T07:36:52Z",
+  "updatedAt" : "2026-03-26T07:38:37Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 614012,
+    "00000000-0000-0000-0000-000000000001" : 614106,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 43008,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 36947,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
