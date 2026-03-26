@@ -1,6 +1,6 @@
 {
   "agentTypeBreakdown" : {
-    "Claude Code" : 6205,
+    "Claude Code" : 6206,
     "Codex" : 248,
     "Gemini" : 298,
     "Terminal" : 7
@@ -2739,22 +2739,22 @@
     },
     "2026-03-26" : {
       "activeSeconds" : 1182,
-      "agentSessionsResumed" : 107,
+      "agentSessionsResumed" : 108,
       "agentSessionsStarted" : 1,
       "agentTypeEventBreakdown" : {
-        "Claude Code" : 101,
+        "Claude Code" : 102,
         "Codex" : 7
       },
       "appLaunches" : 15,
       "backgroundSeconds" : 1829,
       "dayKey" : "2026-03-26",
-      "eventCount" : 353,
+      "eventCount" : 354,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "0" : 56,
         "1" : 111,
         "6" : 88,
-        "7" : 98
+        "7" : 99
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -2769,7 +2769,7 @@
         "37589B41-B979-43E4-94EE-0431660DBDB9" : 21,
         "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 21,
         "41DCEA72-16DE-4ADC-BA47-57E4A3EA8CA3" : 6,
-        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 35,
+        "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 36,
         "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 6,
         "752CA654-60F1-491E-837D-47766A70D476" : 14,
         "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 14,
@@ -2791,7 +2791,7 @@
         "00000000-0000-0000-0000-000000000001" : 1829
       },
       "workspaceEventBreakdown" : {
-        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 166,
+        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 167,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 39,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 41,
         "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 6
@@ -2821,11 +2821,11 @@
     "3" : 130,
     "4" : 1,
     "6" : 111,
-    "7" : 347,
+    "7" : 348,
     "8" : 696,
     "9" : 1184
   },
-  "lastEventAt" : "2026-03-26T07:39:21Z",
+  "lastEventAt" : "2026-03-26T07:39:52Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2840,7 +2840,7 @@
     "41ED51C2-D9AA-42F3-AABF-5D2B2403BB87" : 1,
     "51256D55-8371-4690-BD11-46711408CE57" : 414,
     "5E36E421-0614-40A2-A3F9-D79733F10B69" : 34,
-    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 2039,
+    "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 2040,
     "74867419-6E03-4B3D-B4B8-B3B7252B2D56" : 892,
     "752CA654-60F1-491E-837D-47766A70D476" : 629,
     "7C9AD39F-AA08-42F7-9B48-306009080E4E" : 4,
@@ -2858,7 +2858,7 @@
   "schemaVersion" : 1,
   "totals" : {
     "activeSeconds" : 752896,
-    "agentSessionsResumed" : 6608,
+    "agentSessionsResumed" : 6609,
     "agentSessionsStarted" : 150,
     "appLaunches" : 790,
     "backgroundSeconds" : 1517187,
@@ -2874,10 +2874,10 @@
     "projectStarts" : 6151,
     "projectStops" : 86,
     "quickActions" : 147,
-    "totalEvents" : 26107,
+    "totalEvents" : 26108,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-26T07:39:21Z",
+  "updatedAt" : "2026-03-26T07:39:52Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 614106,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 43008,
@@ -2887,7 +2887,7 @@
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3139
   },
   "workspaceBreakdown" : {
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8685,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8686,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2709,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
     "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 932,
