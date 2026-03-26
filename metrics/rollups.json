@@ -2738,7 +2738,7 @@
       "workspaceStarts" : 0
     },
     "2026-03-26" : {
-      "activeSeconds" : 134,
+      "activeSeconds" : 153,
       "agentSessionsResumed" : 3,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
@@ -2747,10 +2747,10 @@
       "appLaunches" : 3,
       "backgroundSeconds" : 58,
       "dayKey" : "2026-03-26",
-      "eventCount" : 47,
+      "eventCount" : 52,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "0" : 47
+        "0" : 52
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -2765,14 +2765,14 @@
         "380D17BA-9E32-47FB-AAD9-4640F23D74A4" : 3,
         "6A64E0A0-523C-46C3-89DF-74EADF396F58" : 6,
         "752CA654-60F1-491E-837D-47766A70D476" : 3,
-        "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 2,
+        "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 3,
         "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 3,
-        "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 2,
-        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 2,
-        "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 2
+        "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 3,
+        "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 3,
+        "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 3
       },
       "projectRestarts" : 0,
-      "projectStarts" : 26,
+      "projectStarts" : 30,
       "projectStops" : 0,
       "quickActions" : 0,
       "workspaceActiveSecondsBreakdown" : {
@@ -2782,16 +2782,16 @@
         "00000000-0000-0000-0000-000000000001" : 58
       },
       "workspaceEventBreakdown" : {
-        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 21,
+        "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 24,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 3,
-        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 5
+        "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 6
       },
       "workspaceStarts" : 0
     }
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
-    "0" : 1687,
+    "0" : 1692,
     "1" : 683,
     "10" : 2035,
     "11" : 1663,
@@ -2815,7 +2815,7 @@
     "8" : 696,
     "9" : 1184
   },
-  "lastEventAt" : "2026-03-26T00:54:46Z",
+  "lastEventAt" : "2026-03-26T00:55:02Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -2836,18 +2836,18 @@
     "7C9AD39F-AA08-42F7-9B48-306009080E4E" : 4,
     "83D83F2B-A983-428D-B3F1-C98EEEC3DD7C" : 41,
     "93D03C5C-EE8E-4737-8C49-3CD4D34FA115" : 1,
-    "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 285,
+    "9553F516-2211-46D7-B7F1-9151EEBC86B9" : 286,
     "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 358,
-    "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 352,
+    "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 353,
     "AC63FC8E-B617-4856-9F03-4244632899C0" : 84,
-    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1705,
+    "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1706,
     "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 292,
-    "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 277,
+    "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 278,
     "FFAEE3E8-5655-488D-9CE3-63EE6AEB7E5C" : 173
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 751848,
+    "activeSeconds" : 751867,
     "agentSessionsResumed" : 6504,
     "agentSessionsStarted" : 149,
     "appLaunches" : 778,
@@ -2861,15 +2861,15 @@
     "pomodoroFocusMinutes" : 0,
     "pomodoroFocusSessions" : 0,
     "projectRestarts" : 200,
-    "projectStarts" : 6033,
+    "projectStarts" : 6037,
     "projectStops" : 86,
     "quickActions" : 147,
-    "totalEvents" : 25801,
+    "totalEvents" : 25806,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-03-26T00:54:46Z",
+  "updatedAt" : "2026-03-26T00:55:02Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 613059,
+    "00000000-0000-0000-0000-000000000001" : 613078,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 43008,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 36947,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
@@ -2877,10 +2877,10 @@
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3139
   },
   "workspaceBreakdown" : {
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8540,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 8543,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2673,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 896,
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 897,
     "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 1181
   }
 }
