@@ -31,7 +31,7 @@
                 "type" : "project"
               },
               "id" : "41119082-5889-40DB-BDBE-0EA992F71EA6",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           }
@@ -77,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 796318689.68004,
+  "updatedAt" : 796319492.15538,
   "workspaceId" : "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4"
 }
