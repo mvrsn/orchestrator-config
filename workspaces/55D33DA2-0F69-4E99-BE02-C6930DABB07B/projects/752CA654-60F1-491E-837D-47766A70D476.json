@@ -8,7 +8,8 @@
     "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/updateOnboarding",
     "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/updateAgeCategory",
     "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/getUserData",
-    "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/getFreemiumStatus"
+    "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/getFreemiumStatus",
+    "http:\/\/127.0.0.1:5001\/simply-fluent-dev\/europe-west2\/allowAnalyticsTracking"
   ],
   "environment" : {
 
@@ -63,6 +64,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
     }
   ],
-  "updatedAt" : 796088280.96357,
+  "updatedAt" : 796565110.270056,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/api\/functions"
 }
