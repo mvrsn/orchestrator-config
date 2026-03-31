@@ -38,6 +38,10 @@
         "showMemoryUsage" : {
           "boolValue" : true,
           "type" : "bool"
+        },
+        "telemetryEnabled" : {
+          "boolValue" : true,
+          "type" : "bool"
         }
       }
     }
