@@ -11,6 +11,10 @@
         "permissionMode" : {
           "stringValue" : "auto",
           "type" : "string"
+        },
+        "remoteControl" : {
+          "boolValue" : true,
+          "type" : "bool"
         }
       }
     },
