@@ -4,7 +4,10 @@
     "claude" : {
       "advancedOverride" : "",
       "values" : {
-
+        "model" : {
+          "stringValue" : "",
+          "type" : "string"
+        }
       }
     },
     "codex" : {
