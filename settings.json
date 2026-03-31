@@ -21,7 +21,10 @@
     "codex" : {
       "advancedOverride" : "",
       "values" : {
-
+        "reasoningEffort" : {
+          "stringValue" : "medium",
+          "type" : "string"
+        }
       }
     },
     "gemini" : {
