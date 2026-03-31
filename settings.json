@@ -1,5 +1,25 @@
 {
   "agentIdleBadgesEnabled" : true,
+  "agentLaunchDefaults" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
   "agentNotificationsEnabled" : true,
   "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
@@ -7,16 +27,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "voice_input",
-      "focus_drag",
-      "browser_inspector",
-      "menu_bar_quick_access",
-      "agent_screenshot",
       "quick_add_task",
+      "voice_input",
+      "menu_bar_quick_access",
       "zen_mode",
+      "browser_fullscreen",
+      "browser_inspector",
+      "agent_screenshot",
+      "focus_drag",
       "session_restore",
-      "workspace_switch",
-      "browser_fullscreen"
+      "workspace_switch"
     ],
     "dismissed" : false
   },
@@ -76,17 +96,17 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "agentSeen",
-      "metricsSeen",
+      "projectCreated",
       "pomodoroSeen",
-      "browserOpened",
+      "focusSeen",
+      "metricsSeen",
+      "viewsSeen",
+      "agentSeen",
       "projectStarted",
       "sidebarSeen",
-      "projectCreated",
+      "browserOpened",
       "linkAdded",
       "tasksSeen",
-      "focusSeen",
-      "viewsSeen",
       "workspaceCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
