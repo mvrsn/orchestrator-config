@@ -7,6 +7,10 @@
         "model" : {
           "stringValue" : "",
           "type" : "string"
+        },
+        "permissionMode" : {
+          "stringValue" : "auto",
+          "type" : "string"
         }
       }
     },
