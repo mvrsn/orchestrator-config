@@ -35,7 +35,7 @@
                     "type" : "project"
                   },
                   "id" : "85429F2C-1F73-4D2E-8835-7C1E8B916FF9",
-                  "isMinimized" : false
+                  "isMinimized" : true
                 },
                 "type" : "panel"
               },
@@ -49,7 +49,7 @@
                     "type" : "project"
                   },
                   "id" : "D7E7E46D-5E7E-4ADE-90D4-A1890B9B0472",
-                  "isMinimized" : false
+                  "isMinimized" : true
                 },
                 "type" : "panel"
               }
@@ -77,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 796809512.64065,
+  "updatedAt" : 796820989.395317,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
