@@ -65,15 +65,15 @@
   "discovery" : {
     "completedTips" : [
       "voice_input",
-      "browser_inspector",
       "browser_fullscreen",
-      "quick_add_task",
-      "agent_screenshot",
+      "menu_bar_quick_access",
+      "browser_inspector",
       "focus_drag",
       "session_restore",
-      "menu_bar_quick_access",
       "zen_mode",
-      "workspace_switch"
+      "workspace_switch",
+      "quick_add_task",
+      "agent_screenshot"
     ],
     "dismissed" : false
   },
@@ -135,10 +135,10 @@
     "completedSteps" : [
       "pomodoroSeen",
       "workspaceCreated",
-      "tasksSeen",
       "sidebarSeen",
-      "metricsSeen",
+      "tasksSeen",
       "agentSeen",
+      "metricsSeen",
       "browserOpened",
       "focusSeen",
       "projectCreated",
