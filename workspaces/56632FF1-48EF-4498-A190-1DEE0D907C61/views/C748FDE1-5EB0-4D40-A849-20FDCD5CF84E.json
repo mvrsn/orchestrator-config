@@ -14,10 +14,10 @@
           "first" : {
             "panel" : {
               "content" : {
-                "id" : "0F786FE3-0BDA-4275-8216-AEC6D010D5E2",
+                "id" : "3535A874-2FC7-4868-A452-9E2369574B17",
                 "type" : "browser"
               },
-              "id" : "29A46905-23D2-4938-9F09-1D09A710495A",
+              "id" : "20BE274B-8DD5-4321-8080-7065B29FCE7C",
               "isMinimized" : false
             },
             "type" : "panel"
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 796909731.381669,
+  "updatedAt" : 796929107.461584,
   "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
