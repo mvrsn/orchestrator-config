@@ -1,0 +1,97 @@
+{
+  "color" : "667eea",
+  "createdAt" : 796931215.526324,
+  "icon" : "square.grid.2x2",
+  "id" : "8E6432F9-7544-4D6E-BD18-AEE6AAC0B2B1",
+  "name" : "Browser Main",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "02B4F50D-A503-40C1-A6D4-8C8DD2AB3F11",
+                "type" : "browser"
+              },
+              "id" : "7F5BEF20-6FF0-40E4-BE6E-893EC054EB1A",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "D6F1B0DE-B4E8-4396-B6AB-342237EA5F95",
+          "ratio" : 0.64,
+          "second" : {
+            "split" : {
+              "axis" : "horizontal",
+              "first" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "48768270-ED6D-4AB3-8380-87B967083F34",
+                    "type" : "project"
+                  },
+                  "id" : "BD49BAD5-E9BB-4163-8634-C334068B521D",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              },
+              "id" : "89ADDA82-62A2-4721-BC12-C92D63FBD1EA",
+              "ratio" : 0.5,
+              "second" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "0BB04019-5365-44EE-AF4C-2D8654D69AAC",
+                    "type" : "project"
+                  },
+                  "id" : "64276E31-53E8-41B0-A03D-2A8C8D857237",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              }
+            },
+            "type" : "split"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "C735B7C4-2019-4139-B064-0D093C6A1D84",
+      "ratio" : 0.72,
+      "second" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "C2430822-62BC-4F2D-A4BD-1741334A962C",
+                "type" : "project"
+              },
+              "id" : "AE0C79E1-1BEF-437E-A3F7-8F7CA1CC9E92",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "CDDCB630-D24A-4FF1-9002-766C8E9086C5",
+          "ratio" : 0.55,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "94AF6D8C-AA6F-4EA9-872A-C921C30731BF",
+                "type" : "project"
+              },
+              "id" : "92FAF1AF-9105-4F40-9386-DCFE6C2A9DF4",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 796931215.52638,
+  "workspaceId" : "53F6CBF0-8AD1-48FC-80FC-2B13A764B384"
+}

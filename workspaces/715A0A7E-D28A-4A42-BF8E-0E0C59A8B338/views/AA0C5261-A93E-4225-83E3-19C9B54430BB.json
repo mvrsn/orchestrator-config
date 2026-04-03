@@ -1,0 +1,78 @@
+{
+  "color" : "667eea",
+  "createdAt" : 796931381.805507,
+  "icon" : "square.grid.2x2",
+  "id" : "AA0C5261-A93E-4225-83E3-19C9B54430BB",
+  "name" : "Browser Main",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "split" : {
+              "axis" : "horizontal",
+              "first" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "D38D3E74-C619-40A2-82D5-167EC03547AB",
+                    "type" : "browser"
+                  },
+                  "id" : "ECC8A145-0E61-4A7C-8BCA-F85DBDB3CAE6",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              },
+              "id" : "B42412A8-E7C8-4FB0-9D09-F3512A74B39B",
+              "ratio" : 0.5,
+              "second" : {
+                "panel" : {
+                  "content" : {
+                    "id" : "0A0BF4D2-079E-4F3F-B726-624D6002C931",
+                    "type" : "browser"
+                  },
+                  "id" : "69C42681-43E8-4746-AAFA-CDCADDDAD060",
+                  "isMinimized" : false
+                },
+                "type" : "panel"
+              }
+            },
+            "type" : "split"
+          },
+          "id" : "FBF92D7D-F1A2-4AC0-BD00-DD082168CFBF",
+          "ratio" : 0.65,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "CF48971F-6B62-491E-A35E-0A1E2185B605",
+                "type" : "project"
+              },
+              "id" : "789F55C1-5A29-46DB-B121-1025AB3AD9F4",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "DD3FFA94-4885-422A-8135-04D70C632AF3",
+      "ratio" : 0.7,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "2E4EBECB-56A1-4C03-A3B2-E41614CF81BA",
+            "type" : "project"
+          },
+          "id" : "0E025619-DBBB-4DA1-A497-23C4AE11EAF6",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 796931381.805982,
+  "workspaceId" : "715A0A7E-D28A-4A42-BF8E-0E0C59A8B338"
+}

@@ -1,0 +1,40 @@
+{
+  "color" : "667eea",
+  "createdAt" : 796931327.661369,
+  "icon" : "square.grid.2x2",
+  "id" : "179D01C4-074D-49C5-B4F7-239919AC3C93",
+  "name" : "Degenerate",
+  "order" : 0,
+  "root" : {
+    "split" : {
+      "axis" : "vertical",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "1319BAA6-2C1B-4964-9B00-2E78371BD009",
+            "type" : "project"
+          },
+          "id" : "1B6EF49B-C565-4B1D-9AB3-BBFA1D98A7D4",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "09421B98-4916-461D-BB41-D57BB3D60648",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "D208533E-6310-4F1C-A1C8-16E498FC5503",
+            "type" : "project"
+          },
+          "id" : "FDC5621B-DFE9-40B3-A21A-AAD7CCF7AAA8",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 796931327.661414,
+  "workspaceId" : "0B56B311-124F-4CAD-A29F-1344BF0541A5"
+}
