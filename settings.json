@@ -1,34 +1,5 @@
 {
   "agentIdleBadgesEnabled" : true,
-  "agentLaunchDefaults" : {
-    "claude" : {
-      "advancedOverride" : "",
-      "values" : {
-        "model" : {
-          "stringValue" : "",
-          "type" : "string"
-        },
-        "toolAllowlist" : {
-          "stringListValue" : [
-
-          ],
-          "type" : "stringList"
-        }
-      }
-    },
-    "codex" : {
-      "advancedOverride" : "",
-      "values" : {
-
-      }
-    },
-    "gemini" : {
-      "advancedOverride" : "",
-      "values" : {
-
-      }
-    }
-  },
   "agentNotificationsEnabled" : true,
   "analyticsEnabled" : true,
   "autoFocusAgentInputOnLayoutShortcutSwitch" : true,
@@ -36,16 +7,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "workspace_switch",
-      "browser_fullscreen",
-      "voice_input",
-      "zen_mode",
-      "session_restore",
-      "quick_add_task",
       "menu_bar_quick_access",
-      "browser_inspector",
       "agent_screenshot",
-      "focus_drag"
+      "quick_add_task",
+      "browser_inspector",
+      "zen_mode",
+      "focus_drag",
+      "voice_input",
+      "session_restore",
+      "browser_fullscreen",
+      "workspace_switch"
     ],
     "dismissed" : false
   },
@@ -63,7 +34,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 796906807.269242,
+    "lastSyncDate" : 796989104.011387,
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
@@ -105,18 +76,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
+      "metricsSeen",
+      "viewsSeen",
       "projectCreated",
-      "linkAdded",
-      "projectStarted",
+      "pomodoroSeen",
       "sidebarSeen",
+      "tasksSeen",
+      "projectStarted",
       "workspaceCreated",
       "browserOpened",
-      "metricsSeen",
-      "tasksSeen",
-      "viewsSeen",
       "focusSeen",
       "agentSeen",
-      "pomodoroSeen"
+      "linkAdded"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
