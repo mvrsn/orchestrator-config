@@ -61,8 +61,15 @@
       "id" : "A1FA4E35-34BE-4643-9BF1-7109582B802A",
       "name" : "og-image",
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
+    },
+    {
+      "command" : "npm run preview",
+      "icon" : "play.circle",
+      "id" : "B94A8D1D-FA29-4D24-B326-CF90A3AE69E7",
+      "name" : "preview",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 796989863.519799,
+  "updatedAt" : 797017836.932345,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
