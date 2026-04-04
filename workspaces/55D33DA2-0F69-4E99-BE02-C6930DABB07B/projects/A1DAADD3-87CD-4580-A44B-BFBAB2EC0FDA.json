@@ -21,7 +21,7 @@
   },
   "autoRestart" : false,
   "color" : "4ECDC4",
-  "command" : "yarn dev",
+  "command" : "SHOW_DRAFTS=true npm run dev",
   "createdAt" : 792961004.021648,
   "dismissedLocalhostURLs" : [
     "http:\/\/localhost:3100"
@@ -63,6 +63,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 796681609.3103,
+  "updatedAt" : 796989824.717082,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
