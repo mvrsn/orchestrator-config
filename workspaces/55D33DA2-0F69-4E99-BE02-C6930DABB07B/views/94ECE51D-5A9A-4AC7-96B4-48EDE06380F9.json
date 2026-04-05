@@ -76,40 +76,19 @@
             "type" : "panel"
           },
           "id" : "D7F2DABA-8156-4704-994C-4899A1EE2AC4",
-          "ratio" : 0.3333333333333333,
+          "ratio" : 0.5,
           "second" : {
-            "split" : {
-              "axis" : "vertical",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "claude",
-                    "id" : "BCAAAA6F-8ACE-4964-BC3E-82EB6AE18AA6",
-                    "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
-                    "type" : "agent"
-                  },
-                  "id" : "882B4E2A-3A35-4535-9F9B-F50A0B721FD8",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "agentType" : "codex",
+                "id" : "B7DAA7D3-312D-42E4-8CA0-4E908B1319EC",
+                "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
+                "type" : "agent"
               },
-              "id" : "2EC1F235-D163-431E-9A38-C98609356511",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "agentType" : "codex",
-                    "id" : "B7DAA7D3-312D-42E4-8CA0-4E908B1319EC",
-                    "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
-                    "type" : "agent"
-                  },
-                  "id" : "203E0AC5-D847-4B1A-BCF0-80589A805400",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "203E0AC5-D847-4B1A-BCF0-80589A805400",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
@@ -117,6 +96,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797112419.351052,
+  "updatedAt" : 797112429.505519,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
