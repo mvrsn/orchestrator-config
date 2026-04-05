@@ -58,7 +58,7 @@
         "type" : "split"
       },
       "id" : "0D873789-BC22-4A22-A2A4-2D1C2EA799F8",
-      "ratio" : 0.75,
+      "ratio" : 0.7401261239681604,
       "second" : {
         "split" : {
           "axis" : "vertical",
@@ -117,6 +117,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797111375.328286,
+  "updatedAt" : 797112419.351052,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
