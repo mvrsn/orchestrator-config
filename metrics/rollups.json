@@ -3343,19 +3343,20 @@
       "workspaceStarts" : 0
     },
     "2026-04-05" : {
-      "activeSeconds" : 340,
+      "activeSeconds" : 2328,
       "agentSessionsResumed" : 2,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 2
       },
       "appLaunches" : 2,
-      "backgroundSeconds" : 430,
+      "backgroundSeconds" : 1024,
       "dayKey" : "2026-04-05",
-      "eventCount" : 54,
+      "eventCount" : 62,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "0" : 54
+        "0" : 61,
+        "1" : 1
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -3381,7 +3382,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 430
+        "00000000-0000-0000-0000-000000000001" : 1024
       },
       "workspaceEventBreakdown" : {
         "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 14,
@@ -3392,8 +3393,8 @@
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
-    "0" : 1941,
-    "1" : 849,
+    "0" : 1948,
+    "1" : 850,
     "10" : 2190,
     "11" : 1805,
     "12" : 1884,
@@ -3416,7 +3417,7 @@
     "8" : 747,
     "9" : 1400
   },
-  "lastEventAt" : "2026-04-04T23:19:22Z",
+  "lastEventAt" : "2026-04-05T00:02:13Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1196,
@@ -3448,11 +3449,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1052413,
+    "activeSeconds" : 1054401,
     "agentSessionsResumed" : 6791,
     "agentSessionsStarted" : 162,
     "appLaunches" : 843,
-    "backgroundSeconds" : 1980464,
+    "backgroundSeconds" : 1981058,
     "focusAdds" : 26,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 127,
@@ -3465,12 +3466,12 @@
     "projectStarts" : 6644,
     "projectStops" : 92,
     "quickActions" : 172,
-    "totalEvents" : 29384,
+    "totalEvents" : 29392,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-04-04T23:19:22Z",
+  "updatedAt" : "2026-04-05T00:02:13Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 910367,
+    "00000000-0000-0000-0000-000000000001" : 912355,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 44040,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37572,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
