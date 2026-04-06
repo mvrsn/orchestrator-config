@@ -47,18 +47,17 @@
             "panel" : {
               "content" : {
                 "agentType" : "claude",
-                "id" : "6534882C-27E4-464A-AE15-65D9ABD06F9E",
+                "id" : "46F77619-D7AF-4F92-9341-CA6CC1208AA0",
                 "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
                 "type" : "agent"
               },
               "id" : "9102563C-CCCD-4BE9-B665-72DAD66411A1",
-              "isMinimized" : true
+              "isMinimized" : false
             },
             "type" : "panel"
           },
           "id" : "C4009203-F7D1-4E11-A872-0B0BC7B741EF",
-          "previousRatio" : 0.5,
-          "ratio" : 0,
+          "ratio" : 0.5,
           "second" : {
             "panel" : {
               "content" : {
@@ -78,6 +77,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797207903.136574,
+  "updatedAt" : 797208095.145952,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
