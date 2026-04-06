@@ -21,7 +21,7 @@
   },
   "autoRestart" : false,
   "color" : "4ECDC4",
-  "command" : "NODE_ENV=development npm run dev",
+  "command" : "NODE_ENV=development yarn dev",
   "createdAt" : 792961004.021648,
   "dismissedLocalhostURLs" : [
     "http:\/\/localhost:3100"
@@ -70,6 +70,6 @@
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
     }
   ],
-  "updatedAt" : 797017836.932345,
+  "updatedAt" : 797156334.656395,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/web"
 }
