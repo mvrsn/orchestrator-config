@@ -27,29 +27,29 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "quick_add_task",
-      "zen_mode",
       "browser_fullscreen",
+      "voice_input",
       "focus_drag",
-      "agent_screenshot",
+      "quick_add_task",
       "session_restore",
-      "menu_bar_quick_access",
       "browser_inspector",
+      "menu_bar_quick_access",
+      "zen_mode",
       "workspace_switch",
-      "voice_input"
+      "agent_screenshot"
     ],
     "dismissed" : false
   },
   "focusLayoutIds" : [
     "095364F9-EDF4-4327-867F-BA9C9C4D17FE",
     "94ECE51D-5A9A-4AC7-96B4-48EDE06380F9",
+    "59FE2EC9-A364-44E3-B9EF-5C92B9054DC3",
     "B762A2E6-380C-4146-9D78-6BD95DD0CD53",
     "C748FDE1-5EB0-4D40-A849-20FDCD5CF84E",
     "5F156370-3DE9-4157-AF00-4B2B22691EE8",
     "2336A831-1819-4239-AD2D-126C594F1E47",
     "27D39A75-6C49-417B-A592-736216BC0CC9",
-    "FD2040AC-629E-4349-98C0-60840D0C0446",
-    "59FE2EC9-A364-44E3-B9EF-5C92B9054DC3"
+    "FD2040AC-629E-4349-98C0-60840D0C0446"
   ],
   "gitSync" : {
     "commitCount" : 0,
@@ -96,18 +96,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "linkAdded",
+      "metricsSeen",
       "sidebarSeen",
       "tasksSeen",
       "agentSeen",
       "browserOpened",
+      "pomodoroSeen",
       "focusSeen",
       "workspaceCreated",
       "projectStarted",
-      "projectCreated",
-      "pomodoroSeen",
-      "metricsSeen",
-      "viewsSeen"
+      "viewsSeen",
+      "linkAdded",
+      "projectCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
