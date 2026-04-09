@@ -61,8 +61,15 @@
       "id" : "D3B004C7-3CB8-421F-8989-77D7DB20CDC6",
       "name" : "Translate Classics",
       "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
+    },
+    {
+      "command" : ".\/scripts\/auto-translate-claude.sh",
+      "icon" : "translate",
+      "id" : "2C745721-1A2D-4665-A72D-599E2852D822",
+      "name" : "Auto-Translate (Claude Sonnet)",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
     }
   ],
-  "updatedAt" : 794931956.876041,
+  "updatedAt" : 797425828.085622,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/content"
 }
