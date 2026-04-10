@@ -80,12 +80,12 @@
                 "panel" : {
                   "content" : {
                     "agentType" : "claude",
-                    "id" : "9DC3B21B-65CB-4F85-8BAF-97D7F5B9CF80",
+                    "id" : "FDAAE0BB-89CB-45E8-AC8C-D08C616E8125",
                     "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
                     "type" : "agent"
                   },
                   "id" : "4592D102-96C3-4B0F-80A5-28C48074D191",
-                  "isMinimized" : true
+                  "isMinimized" : false
                 },
                 "type" : "panel"
               }
@@ -98,6 +98,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797528460.963155,
+  "updatedAt" : 797528487.496898,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
