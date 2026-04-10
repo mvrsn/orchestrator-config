@@ -3,7 +3,7 @@
     "events.jsonl",
     "rollups.json"
   ],
-  "generatedAt" : "2026-04-10T15:55:03Z",
+  "generatedAt" : "2026-04-10T16:11:48Z",
   "notes" : "events.jsonl is append-only raw events; rollups.json includes unlimited historical daily rollups with dimensional breakdowns and active\/background durations",
   "schemaVersion" : 5
 }
