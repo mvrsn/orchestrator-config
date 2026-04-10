@@ -129,11 +129,26 @@
       "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
       "title" : "Convert concept pipeline to use promptWithUsage instead of ai.prompt()",
       "updatedAt" : 796307672.986313
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 797506693.936901,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "700E043F-D0A9-4719-A9C6-C4A0947C7439",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
+      "title" : "Implement story version handling in Simply Fluent to allow users to update major versions",
+      "updatedAt" : 797506693.936901
     }
   ],
   "columns" : [
     {
       "cardIds" : [
+        "700E043F-D0A9-4719-A9C6-C4A0947C7439",
         "DB9217E6-D8D0-426C-8CE7-DC02000636B0",
         "1AA7140F-DDCD-446C-A3F4-C31489C12CF1",
         "6BE9FA6C-81A3-4E8A-8F11-4ECDBE0AC89D",
@@ -203,5 +218,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 797075074.5197
+  "updatedAt" : 797506693.936949
 }
