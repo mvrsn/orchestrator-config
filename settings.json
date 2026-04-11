@@ -30,16 +30,16 @@
   "confirmBeforeStopAll" : true,
   "discovery" : {
     "completedTips" : [
-      "focus_drag",
-      "session_restore",
       "agent_screenshot",
-      "menu_bar_quick_access",
-      "browser_inspector",
-      "zen_mode",
-      "voice_input",
       "quick_add_task",
+      "menu_bar_quick_access",
+      "focus_drag",
       "workspace_switch",
-      "browser_fullscreen"
+      "browser_inspector",
+      "browser_fullscreen",
+      "voice_input",
+      "zen_mode",
+      "session_restore"
     ],
     "dismissed" : false
   },
@@ -57,7 +57,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 797511620.683132,
+    "lastSyncDate" : 797554806.314583,
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
@@ -99,18 +99,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "focusSeen",
-      "metricsSeen",
-      "linkAdded",
-      "agentSeen",
       "projectCreated",
-      "workspaceCreated",
       "projectStarted",
-      "tasksSeen",
       "viewsSeen",
       "browserOpened",
       "pomodoroSeen",
-      "sidebarSeen"
+      "metricsSeen",
+      "agentSeen",
+      "linkAdded",
+      "sidebarSeen",
+      "tasksSeen",
+      "focusSeen",
+      "workspaceCreated"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
