@@ -1,0 +1,43 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "F38181",
+  "command" : "",
+  "createdAt" : 797776688.061861,
+  "environment" : {
+
+  },
+  "icon" : "tree",
+  "id" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "directory",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 797776688.061861,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
+}

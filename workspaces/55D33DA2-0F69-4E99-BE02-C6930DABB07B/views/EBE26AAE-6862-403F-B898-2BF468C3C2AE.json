@@ -8,7 +8,7 @@
   "root" : {
     "panel" : {
       "content" : {
-        "id" : "49ACD972-4E77-4311-9FD5-E283FAE5F7E2",
+        "id" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
         "type" : "project"
       },
       "id" : "F3717E8C-17E8-4BB0-8A65-5AEED4D012CF",
@@ -16,6 +16,6 @@
     },
     "type" : "panel"
   },
-  "updatedAt" : 797776593.549141,
+  "updatedAt" : 797776688.091789,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
