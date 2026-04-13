@@ -35,7 +35,7 @@
     {
       "id" : "6FF6D3F3-56C4-4639-971E-D17CA94055BC",
       "label" : "dev",
-      "url" : "http:\/\/localhost:3100"
+      "url" : "http:\/\/localhost:3100\/en\/browse"
     }
   ],
   "logPatterns" : [
@@ -45,6 +45,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 797777571.050688,
+  "updatedAt" : 797807400.739773,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
 }
