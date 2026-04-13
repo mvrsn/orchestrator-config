@@ -3,19 +3,40 @@
   "createdAt" : 797776593.549067,
   "icon" : "terminal",
   "id" : "EBE26AAE-6862-403F-B898-2BF468C3C2AE",
-  "name" : "New View",
+  "name" : "Directory",
   "order" : 12,
   "root" : {
-    "panel" : {
-      "content" : {
-        "id" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
-        "type" : "project"
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
+            "type" : "project"
+          },
+          "id" : "F3717E8C-17E8-4BB0-8A65-5AEED4D012CF",
+          "isMinimized" : false
+        },
+        "type" : "panel"
       },
-      "id" : "F3717E8C-17E8-4BB0-8A65-5AEED4D012CF",
-      "isMinimized" : false
+      "id" : "CAB79659-1B12-43FF-8D1D-4AD94FBBB5C4",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "9616CB2B-DE2B-4C3E-8EE1-58C687A2F4CF",
+            "projectId" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
+            "type" : "agent"
+          },
+          "id" : "819A461A-FA3E-4DD5-88F1-B38E6C83B5B3",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
     },
-    "type" : "panel"
+    "type" : "split"
   },
-  "updatedAt" : 797776688.091789,
+  "updatedAt" : 797776706.807225,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
