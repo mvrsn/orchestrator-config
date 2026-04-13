@@ -21,7 +21,7 @@
   },
   "autoRestart" : false,
   "color" : "F38181",
-  "command" : "",
+  "command" : "yarn dev",
   "createdAt" : 797776688.061861,
   "environment" : {
 
@@ -38,6 +38,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 797776688.061861,
+  "updatedAt" : 797777491.554075,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
 }
