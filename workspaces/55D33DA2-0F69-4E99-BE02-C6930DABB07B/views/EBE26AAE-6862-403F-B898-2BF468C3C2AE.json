@@ -59,7 +59,7 @@
           },
           "id" : "4DFE258A-E1CF-46E3-B414-A385F4E8F223",
           "previousRatio" : 0.3333333333333333,
-          "ratio" : 0.5,
+          "ratio" : 1,
           "second" : {
             "split" : {
               "axis" : "vertical",
@@ -72,7 +72,7 @@
                     "type" : "agent"
                   },
                   "id" : "717698D7-8764-4366-9327-3AD46196C9D5",
-                  "isMinimized" : false
+                  "isMinimized" : true
                 },
                 "type" : "panel"
               },
@@ -101,6 +101,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797803636.362641,
+  "updatedAt" : 797803887.827256,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
