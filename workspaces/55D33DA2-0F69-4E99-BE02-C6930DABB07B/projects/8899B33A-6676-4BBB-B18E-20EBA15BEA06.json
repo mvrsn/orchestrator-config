@@ -32,7 +32,11 @@
   "icon" : "tree",
   "id" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
   "links" : [
-
+    {
+      "id" : "6FF6D3F3-56C4-4639-971E-D17CA94055BC",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3100"
+    }
   ],
   "logPatterns" : [
 
@@ -41,6 +45,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 797777560.996433,
+  "updatedAt" : 797777571.050688,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
 }
