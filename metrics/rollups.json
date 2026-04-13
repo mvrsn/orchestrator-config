@@ -3775,7 +3775,7 @@
       "workspaceStarts" : 0
     },
     "2026-04-13" : {
-      "activeSeconds" : 6513,
+      "activeSeconds" : 6527,
       "agentSessionsResumed" : 1,
       "agentSessionsStarted" : 3,
       "agentTypeEventBreakdown" : {
@@ -3784,7 +3784,7 @@
       "appLaunches" : 0,
       "backgroundSeconds" : 11537,
       "dayKey" : "2026-04-13",
-      "eventCount" : 78,
+      "eventCount" : 81,
       "focusAdds" : 1,
       "hourlyActivity" : {
         "11" : 2,
@@ -3792,7 +3792,7 @@
         "13" : 15,
         "14" : 15,
         "15" : 36,
-        "16" : 8
+        "16" : 11
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 1,
@@ -3832,7 +3832,7 @@
     "13" : 1719,
     "14" : 1427,
     "15" : 1553,
-    "16" : 1442,
+    "16" : 1445,
     "17" : 1498,
     "18" : 1401,
     "19" : 1796,
@@ -3848,7 +3848,7 @@
     "8" : 820,
     "9" : 1493
   },
-  "lastEventAt" : "2026-04-13T15:29:31Z",
+  "lastEventAt" : "2026-04-13T15:29:47Z",
   "projectBreakdown" : {
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
     "195B25E0-7E32-455F-BFE3-38A8E3497886" : 1205,
@@ -3881,7 +3881,7 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1236285,
+    "activeSeconds" : 1236299,
     "agentSessionsResumed" : 6824,
     "agentSessionsStarted" : 182,
     "appLaunches" : 848,
@@ -3898,12 +3898,12 @@
     "projectStarts" : 6693,
     "projectStops" : 98,
     "quickActions" : 190,
-    "totalEvents" : 31388,
+    "totalEvents" : 31391,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-04-13T15:29:32Z",
+  "updatedAt" : "2026-04-13T15:29:47Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 1088126,
+    "00000000-0000-0000-0000-000000000001" : 1088140,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 50153,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37572,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
