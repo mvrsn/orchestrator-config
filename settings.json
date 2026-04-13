@@ -57,8 +57,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 797683329.958746,
-    "lastSyncError" : "Git command failed: git fetch origin\nssh: connect to host github.com port 22: Undefined error: 0\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+    "lastSyncDate" : 797730362.724653,
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
