@@ -23,6 +23,9 @@
   "color" : "F38181",
   "command" : "yarn dev",
   "createdAt" : 797776688.061861,
+  "dismissedLocalhostURLs" : [
+    "localhost:3000"
+  ],
   "environment" : {
 
   },
@@ -38,6 +41,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 797777491.554075,
+  "updatedAt" : 797777560.996433,
   "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
 }
