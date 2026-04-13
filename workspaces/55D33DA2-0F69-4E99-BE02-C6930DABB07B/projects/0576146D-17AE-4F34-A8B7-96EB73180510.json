@@ -1,0 +1,44 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "#C4654A",
+  "command" : "npm run dev",
+  "createdAt" : 797778072.208546,
+  "environment" : {
+
+  },
+  "icon" : "globe",
+  "id" : "0576146D-17AE-4F34-A8B7-96EB73180510",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Directory",
+  "port" : 3100,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 797778072.208546,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/simplyfluent\/directory"
+}
