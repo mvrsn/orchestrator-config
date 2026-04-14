@@ -29,7 +29,11 @@
   "icon" : "paintbrush",
   "id" : "79EE3BEF-5591-48DE-A8D1-2B7789F2343A",
   "links" : [
-
+    {
+      "id" : "6F03672E-82A5-4160-A73B-E57F7B5C91B8",
+      "label" : "Screens",
+      "url" : "http:\/\/localhost:3400\/breeze-screens.html"
+    }
   ],
   "logPatterns" : [
 
@@ -39,6 +43,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 797817793.909781,
+  "updatedAt" : 797817802.56406,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze"
 }
