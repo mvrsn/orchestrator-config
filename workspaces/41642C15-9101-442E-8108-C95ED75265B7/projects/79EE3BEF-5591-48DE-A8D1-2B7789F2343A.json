@@ -1,0 +1,44 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "6C9CFF",
+  "command" : "python3 -m http.server 3400",
+  "createdAt" : 797817793.909781,
+  "environment" : {
+
+  },
+  "icon" : "paintbrush",
+  "id" : "79EE3BEF-5591-48DE-A8D1-2B7789F2343A",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Screen Inventory",
+  "port" : 3400,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 797817793.909781,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze"
+}

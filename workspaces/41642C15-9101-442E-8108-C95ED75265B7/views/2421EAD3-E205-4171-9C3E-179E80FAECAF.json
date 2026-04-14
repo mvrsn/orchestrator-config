@@ -1,0 +1,21 @@
+{
+  "color" : "667eea",
+  "createdAt" : 797817793.913374,
+  "icon" : "square.grid.2x2",
+  "id" : "2421EAD3-E205-4171-9C3E-179E80FAECAF",
+  "name" : "Screen Inventory",
+  "order" : 0,
+  "root" : {
+    "panel" : {
+      "content" : {
+        "id" : "79EE3BEF-5591-48DE-A8D1-2B7789F2343A",
+        "type" : "project"
+      },
+      "id" : "5247CFCB-55A0-416D-B1C1-872F07804145",
+      "isMinimized" : false
+    },
+    "type" : "panel"
+  },
+  "updatedAt" : 797817793.913417,
+  "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
+}
