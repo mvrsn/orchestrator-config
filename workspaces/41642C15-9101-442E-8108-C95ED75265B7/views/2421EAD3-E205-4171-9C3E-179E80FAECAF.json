@@ -6,16 +6,35 @@
   "name" : "Screen Inventory",
   "order" : 0,
   "root" : {
-    "panel" : {
-      "content" : {
-        "id" : "79EE3BEF-5591-48DE-A8D1-2B7789F2343A",
-        "type" : "project"
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "609C6044-7D69-4B25-8943-51215C57AFF0",
+            "type" : "browser"
+          },
+          "id" : "54BDB4AF-D797-4812-A433-C263B2D3F1F6",
+          "isMinimized" : false
+        },
+        "type" : "panel"
       },
-      "id" : "5247CFCB-55A0-416D-B1C1-872F07804145",
-      "isMinimized" : false
+      "id" : "CF87A9B5-EEDA-463C-859B-7932D2255AD5",
+      "ratio" : 0.75,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "79EE3BEF-5591-48DE-A8D1-2B7789F2343A",
+            "type" : "project"
+          },
+          "id" : "BC2E7E87-43B2-4CD2-AC17-AEAC33D432D1",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
     },
-    "type" : "panel"
+    "type" : "split"
   },
-  "updatedAt" : 797817793.913417,
+  "updatedAt" : 797818099.170384,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
