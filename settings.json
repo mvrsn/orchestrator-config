@@ -31,15 +31,15 @@
   "discovery" : {
     "completedTips" : [
       "agent_screenshot",
-      "quick_add_task",
-      "menu_bar_quick_access",
-      "focus_drag",
-      "workspace_switch",
-      "browser_inspector",
       "browser_fullscreen",
+      "workspace_switch",
+      "session_restore",
       "voice_input",
-      "zen_mode",
-      "session_restore"
+      "menu_bar_quick_access",
+      "quick_add_task",
+      "focus_drag",
+      "browser_inspector",
+      "zen_mode"
     ],
     "dismissed" : false
   },
@@ -53,7 +53,8 @@
     "2336A831-1819-4239-AD2D-126C594F1E47",
     "27D39A75-6C49-417B-A592-736216BC0CC9",
     "FD2040AC-629E-4349-98C0-60840D0C0446",
-    "59FE2EC9-A364-44E3-B9EF-5C92B9054DC3"
+    "59FE2EC9-A364-44E3-B9EF-5C92B9054DC3",
+    "2421EAD3-E205-4171-9C3E-179E80FAECAF"
   ],
   "gitSync" : {
     "commitCount" : 0,
@@ -100,18 +101,18 @@
   },
   "onboarding" : {
     "completedSteps" : [
-      "projectCreated",
+      "tasksSeen",
       "projectStarted",
-      "viewsSeen",
-      "browserOpened",
       "pomodoroSeen",
       "metricsSeen",
-      "agentSeen",
       "linkAdded",
       "sidebarSeen",
-      "tasksSeen",
       "focusSeen",
-      "workspaceCreated"
+      "viewsSeen",
+      "browserOpened",
+      "projectCreated",
+      "workspaceCreated",
+      "agentSeen"
     ],
     "guidedState" : "awaitingProjectChoice",
     "guidedUsedDemo" : false,
