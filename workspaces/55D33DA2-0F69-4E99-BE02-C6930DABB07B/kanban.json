@@ -143,11 +143,41 @@
       "projectId" : "6A64E0A0-523C-46C3-89DF-74EADF396F58",
       "title" : "Implement story version handling in Simply Fluent to allow users to update major versions",
       "updatedAt" : 797506693.936901
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 797980804.228204,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "AFD99D6C-1B51-4F7B-8FB4-2273E554CAE3",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
+      "title" : "Fluent Collective educators can post offers but they will go through an approval process before being listed, and they can link to their courses and programs but they can't change the name of the offer after posting",
+      "updatedAt" : 797980804.228204
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 797980822.264286,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "5A5E52EC-7DFD-456B-97E0-78F94F434FB3",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
+      "title" : "Recommend new people to follow (in weekly newsletter)?",
+      "updatedAt" : 797980822.264286
     }
   ],
   "columns" : [
     {
       "cardIds" : [
+        "5A5E52EC-7DFD-456B-97E0-78F94F434FB3",
+        "AFD99D6C-1B51-4F7B-8FB4-2273E554CAE3",
         "700E043F-D0A9-4719-A9C6-C4A0947C7439",
         "DB9217E6-D8D0-426C-8CE7-DC02000636B0",
         "1AA7140F-DDCD-446C-A3F4-C31489C12CF1",
@@ -218,5 +248,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 797506693.936949
+  "updatedAt" : 797980825.342736
 }
