@@ -58,12 +58,26 @@
       "projectId" : "CFE6F9AA-81C5-430B-ACBA-5C213A46895B",
       "title" : "Submit to BetaList",
       "updatedAt" : 795985840.947092
+    },
+    {
+      "columnId" : "A14FC2EF-8195-4DB4-A961-64E723ED3303",
+      "createdAt" : 797980730.131067,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "DFAC54B7-0E62-4442-80B5-246CCFD9A437",
+      "isArchived" : false,
+      "labelIds" : [
+
+      ],
+      "projectId" : "380D17BA-9E32-47FB-AAD9-4640F23D74A4",
+      "title" : "Fluent Collective educators can post offers but they will go through an approval process before being listed, and they can link to their courses and programs but they can't change the name of the offer after posting",
+      "updatedAt" : 797980744.472101
     }
   ],
   "columns" : [
     {
       "cardIds" : [
-
+        "DFAC54B7-0E62-4442-80B5-246CCFD9A437"
       ],
       "color" : "6B7280",
       "icon" : "tray.fill",
@@ -128,5 +142,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 795985859.255529
+  "updatedAt" : 797980750.55043
 }

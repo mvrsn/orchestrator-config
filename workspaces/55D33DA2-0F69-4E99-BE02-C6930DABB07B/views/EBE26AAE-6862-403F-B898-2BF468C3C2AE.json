@@ -3,7 +3,7 @@
   "createdAt" : 797776593.549067,
   "icon" : "terminal",
   "id" : "EBE26AAE-6862-403F-B898-2BF468C3C2AE",
-  "name" : "Directory",
+  "name" : "Fluent Collective",
   "order" : 12,
   "root" : {
     "split" : {
@@ -98,6 +98,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797962508.559568,
+  "updatedAt" : 797980758.123099,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
