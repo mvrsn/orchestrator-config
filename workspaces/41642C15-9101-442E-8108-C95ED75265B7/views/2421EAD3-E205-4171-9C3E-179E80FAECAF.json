@@ -3,7 +3,7 @@
   "createdAt" : 797817793.913374,
   "icon" : "square.grid.2x2",
   "id" : "2421EAD3-E205-4171-9C3E-179E80FAECAF",
-  "name" : "Screen Inventory",
+  "name" : "Breeze",
   "order" : 0,
   "root" : {
     "split" : {
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 797949399.026162,
+  "updatedAt" : 797980947.358487,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
