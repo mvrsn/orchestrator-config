@@ -29,15 +29,44 @@
   "icon" : "globe",
   "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
   "links" : [
-
+    {
+      "id" : "AF57361C-5EA0-47B5-8A64-E6D9B97AA6CA",
+      "label" : "Preview",
+      "url" : "https:\/\/preview.breeze-website-5ak.pages.dev"
+    },
+    {
+      "id" : "E62A8E98-02AD-4523-AE2C-61BCCA5A97F9",
+      "label" : "Dev",
+      "url" : "http:\/\/localhost:8788"
+    }
   ],
   "logPatterns" : [
 
   ],
   "name" : "Website",
   "quickCommands" : [
-
+    {
+      "command" : "CLOUDFLARE_ACCOUNT_ID=0236fab2494f13b9bf95c7daf090da91 npx wrangler pages deploy public --project-name breeze-website --branch preview",
+      "icon" : "arrow.up.circle",
+      "id" : "96DF5D09-60EF-407B-8538-7F3F8D89FBC4",
+      "name" : "Deploy Preview",
+      "workingDirectory" : "~"
+    },
+    {
+      "command" : "CLOUDFLARE_ACCOUNT_ID=0236fab2494f13b9bf95c7daf090da91 npx wrangler pages deploy public --project-name breeze-website --branch main",
+      "icon" : "rocket",
+      "id" : "C1C19199-66D5-4164-9A31-DF6ACEC2BFC6",
+      "name" : "Deploy Production",
+      "workingDirectory" : "~"
+    },
+    {
+      "command" : "npm install",
+      "icon" : "arrow.down.circle",
+      "id" : "6227700C-3DD0-423C-9D19-A504CAC3F865",
+      "name" : "Install",
+      "workingDirectory" : "~"
+    }
   ],
-  "updatedAt" : 798033358.721957,
+  "updatedAt" : 798033374.774676,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/website"
 }
