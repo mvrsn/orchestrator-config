@@ -71,3 +71,4 @@
 {"agent_session_id":"23C938A2-F8AE-4387-AC1D-AB9D6B1F6E02","agent_type":"Claude Code","event":"resume_validation","result":"nil","resume_id":"nil","timestamp":"2026-04-16T12:07:11.001Z"}
 {"agent_session_id":"23C938A2-F8AE-4387-AC1D-AB9D6B1F6E02","agent_type":"Claude Code","command":"claude --permission-mode default --settings \/var\/folders\/dd\/5s0j4bb579n6wvrlm8ht8kfh0000gn\/T\/coda-agent-launch\/23C938A2-F8AE-4387-AC1D-AB9D6B1F6E02\/.coda-generated\/claude-settings.json","event":"terminal_launch","resume_session_id":"nil","timestamp":"2026-04-16T12:07:11.001Z"}
 {"agent_session_id":"23C938A2-F8AE-4387-AC1D-AB9D6B1F6E02","event":"session_id_rejected","reason":"unsolicited","session_id":"05c2db5b-232e-44cf-8187-40f7654e97b2","timestamp":"2026-04-16T12:13:39.568Z"}
+{"agent_session_id":"09A504DB-AA5D-41BB-A24E-87A6AF5993DD","agent_type":"Terminal","event":"session_close","timestamp":"2026-04-16T17:04:38.607Z"}
