@@ -1,0 +1,43 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "E8743B",
+  "command" : "npx wrangler pages dev public --port 8788",
+  "createdAt" : 798033358.721957,
+  "environment" : {
+
+  },
+  "icon" : "globe",
+  "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Website",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 798033358.721957,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/website"
+}
