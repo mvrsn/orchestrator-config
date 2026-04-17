@@ -7,55 +7,34 @@
   "order" : 4,
   "root" : {
     "split" : {
-      "axis" : "horizontal",
+      "axis" : "vertical",
       "first" : {
-        "split" : {
-          "axis" : "vertical",
-          "first" : {
-            "panel" : {
-              "content" : {
-                "id" : "942CFE31-61C3-41AB-A46B-1DC0E81823A5",
-                "type" : "browser"
-              },
-              "id" : "3D66E1F8-1F73-44F5-8DB3-4E6F751B4603",
-              "isMinimized" : false
-            },
-            "type" : "panel"
+        "panel" : {
+          "content" : {
+            "id" : "942CFE31-61C3-41AB-A46B-1DC0E81823A5",
+            "type" : "browser"
           },
-          "id" : "F638AE07-D865-473F-80BE-1A4F08661B58",
-          "ratio" : 1,
-          "second" : {
-            "panel" : {
-              "content" : {
-                "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
-                "type" : "project"
-              },
-              "id" : "C911093E-86E7-46B6-9B99-A87417966525",
-              "isMinimized" : true
-            },
-            "type" : "panel"
-          }
+          "id" : "3D66E1F8-1F73-44F5-8DB3-4E6F751B4603",
+          "isMinimized" : false
         },
-        "type" : "split"
+        "type" : "panel"
       },
-      "id" : "1A655B48-5DA3-4AA0-A9EC-5E8F1A51028C",
-      "ratio" : 0.75,
+      "id" : "F638AE07-D865-473F-80BE-1A4F08661B58",
+      "ratio" : 1,
       "second" : {
         "panel" : {
           "content" : {
-            "agentType" : "claude",
-            "id" : "D3343245-4857-487A-9EB1-F80E58D9BDBE",
-            "projectId" : "37589B41-B979-43E4-94EE-0431660DBDB9",
-            "type" : "agent"
+            "id" : "37589B41-B979-43E4-94EE-0431660DBDB9",
+            "type" : "project"
           },
-          "id" : "3CFBB968-91CC-4633-8BED-DBF8C4F0CFD4",
-          "isMinimized" : false
+          "id" : "C911093E-86E7-46B6-9B99-A87417966525",
+          "isMinimized" : true
         },
         "type" : "panel"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 796846394.045124,
+  "updatedAt" : 798109048.882569,
   "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
 }
