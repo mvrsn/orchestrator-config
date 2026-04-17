@@ -55,6 +55,7 @@
     "commitCount" : 0,
     "enabled" : true,
     "lastSyncDate" : 798073207.658001,
+    "lastSyncError" : "Git command failed: git push -u origin main\nTo github.com:mvrsn\/coda-config.git\n ! [remote rejected]   main -> main (cannot lock ref 'refs\/heads\/main': is at 6f3227e18f6c4677738510c55dbd3047b289ce9b but expected e52960a345e334d18dabe8e98f5eb999884ceaab)\nerror: failed to push some refs to 'github.com:mvrsn\/coda-config.git'\n",
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
