@@ -4,7 +4,7 @@
   "icon" : "square.grid.2x2",
   "id" : "2421EAD3-E205-4171-9C3E-179E80FAECAF",
   "name" : "Breeze",
-  "order" : 0,
+  "order" : 1,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -56,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 798033348.188299,
+  "updatedAt" : 798299492.320044,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
