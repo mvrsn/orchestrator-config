@@ -23,6 +23,9 @@
   "color" : "E8743B",
   "command" : "yarn dev",
   "createdAt" : 798033358.721957,
+  "dismissedLocalhostURLs" : [
+    "localhost:3000"
+  ],
   "environment" : {
 
   },
@@ -67,6 +70,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 798474579.243982,
+  "updatedAt" : 798474769.436902,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/web"
 }
