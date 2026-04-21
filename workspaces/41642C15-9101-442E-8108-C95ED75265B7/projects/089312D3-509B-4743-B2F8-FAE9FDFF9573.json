@@ -41,6 +41,11 @@
       "id" : "E62A8E98-02AD-4523-AE2C-61BCCA5A97F9",
       "label" : "Dev",
       "url" : "http:\/\/localhost:8788"
+    },
+    {
+      "id" : "DC33543E-ADE3-4777-B0DD-A6BDC781EA39",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5510"
     }
   ],
   "logPatterns" : [
@@ -71,6 +76,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 798474817.092851,
+  "updatedAt" : 798474896.491561,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/web"
 }
