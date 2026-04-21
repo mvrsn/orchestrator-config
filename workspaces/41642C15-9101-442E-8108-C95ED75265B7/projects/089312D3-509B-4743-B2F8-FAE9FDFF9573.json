@@ -21,7 +21,7 @@
   },
   "autoRestart" : false,
   "color" : "E8743B",
-  "command" : "npx wrangler pages dev public --port 8788",
+  "command" : "yarn dev",
   "createdAt" : 798033358.721957,
   "environment" : {
 
@@ -67,6 +67,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 798033374.774676,
-  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/website"
+  "updatedAt" : 798474579.243982,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/web"
 }
