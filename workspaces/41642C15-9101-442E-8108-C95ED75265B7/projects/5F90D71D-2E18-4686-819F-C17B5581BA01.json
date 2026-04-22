@@ -1,0 +1,44 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "#8050C8",
+  "command" : "yarn dev",
+  "createdAt" : 798563230.603863,
+  "environment" : {
+
+  },
+  "icon" : "sparkles",
+  "id" : "5F90D71D-2E18-4686-819F-C17B5581BA01",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Screenshots (skill)",
+  "port" : 5512,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 798563230.603863,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/screenshots\/generator-skill"
+}
