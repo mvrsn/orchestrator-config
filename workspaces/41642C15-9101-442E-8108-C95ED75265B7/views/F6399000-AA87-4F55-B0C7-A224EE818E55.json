@@ -1,0 +1,42 @@
+{
+  "color" : "667eea",
+  "createdAt" : 798560709.118261,
+  "icon" : "square.grid.2x2",
+  "id" : "F6399000-AA87-4F55-B0C7-A224EE818E55",
+  "name" : "Screenshots",
+  "order" : 2,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F",
+            "type" : "project"
+          },
+          "id" : "2B9620B4-3332-4019-9ECB-C3AA3AD4EB32",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "52E12444-FB4B-4C56-A678-B018C0456988",
+      "ratio" : 0.5,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "034C1133-5AC6-417E-BA4A-42252DFCA936",
+            "projectId" : "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F",
+            "type" : "agent"
+          },
+          "id" : "5FC32F1F-1B47-483F-9EB9-E3C7175B5BA1",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 798560709.118272,
+  "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
+}

@@ -29,7 +29,11 @@
   "icon" : "camera.viewfinder",
   "id" : "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F",
   "links" : [
-
+    {
+      "id" : "81347051-7B76-4B71-95FC-B88970E75DE9",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5511"
+    }
   ],
   "logPatterns" : [
 
@@ -39,6 +43,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 798560339.320346,
+  "updatedAt" : 798560714.310834,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/screenshots\/generator"
 }
