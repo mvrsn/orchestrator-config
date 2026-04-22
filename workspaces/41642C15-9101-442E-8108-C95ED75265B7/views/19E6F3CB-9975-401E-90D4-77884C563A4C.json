@@ -1,0 +1,62 @@
+{
+  "color" : "667eea",
+  "createdAt" : 798563572.157827,
+  "icon" : "square.grid.2x2",
+  "id" : "19E6F3CB-9975-401E-90D4-77884C563A4C",
+  "name" : "Screenshots (skill)",
+  "order" : 3,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "6335B193-EC30-4F03-B926-18BEBF69BBBA",
+                "type" : "browser"
+              },
+              "id" : "88426163-94DB-4D98-9178-EBE31D51DC95",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          },
+          "id" : "F5F8B382-5F00-491B-ABD0-4232EC7826D1",
+          "previousRatio" : 0.72,
+          "ratio" : 1,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "5F90D71D-2E18-4686-819F-C17B5581BA01",
+                "type" : "project"
+              },
+              "id" : "1D2C12F5-79A7-41E6-A3BA-5F1B6E428BF4",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
+        },
+        "type" : "split"
+      },
+      "id" : "CDD2DDDC-B972-495F-ADD0-D3209347AA94",
+      "ratio" : 0.75,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "agentType" : "claude",
+            "id" : "3206786F-E742-49C3-8DF5-B173FB3D927E",
+            "projectId" : "5F90D71D-2E18-4686-819F-C17B5581BA01",
+            "type" : "agent"
+          },
+          "id" : "122B712F-ECC7-4D0E-9F14-214DFA49B81F",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 798563578.70132,
+  "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
+}

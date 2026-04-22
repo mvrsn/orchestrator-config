@@ -29,7 +29,11 @@
   "icon" : "sparkles",
   "id" : "5F90D71D-2E18-4686-819F-C17B5581BA01",
   "links" : [
-
+    {
+      "id" : "17E3725B-93CB-424A-927D-2AA12EEF3913",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:5512"
+    }
   ],
   "logPatterns" : [
 
@@ -39,6 +43,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 798563230.603863,
+  "updatedAt" : 798563571.438343,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/screenshots\/generator-skill"
 }
