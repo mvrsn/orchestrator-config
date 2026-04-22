@@ -1,0 +1,44 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "#D4622B",
+  "command" : "yarn dev",
+  "createdAt" : 798560339.320346,
+  "environment" : {
+
+  },
+  "icon" : "camera.viewfinder",
+  "id" : "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "Screenshots",
+  "port" : 5511,
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 798560339.320346,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/screenshots\/generator"
+}
