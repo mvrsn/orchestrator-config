@@ -55,8 +55,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 798721209.829744,
-    "lastSyncError" : "Git command failed: git pull --rebase --autostash origin main\nFrom github.com:mvrsn\/coda-config\n * branch              main       -> FETCH_HEAD\nfatal: Cannot rebase onto multiple branches.\n",
+    "lastSyncDate" : 798801074.805682,
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
