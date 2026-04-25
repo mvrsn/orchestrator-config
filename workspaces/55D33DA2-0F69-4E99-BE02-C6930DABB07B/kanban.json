@@ -171,11 +171,26 @@
       "projectId" : "8899B33A-6676-4BBB-B18E-20EBA15BEA06",
       "title" : "Recommend new people to follow (in weekly newsletter)?",
       "updatedAt" : 797980822.264286
+    },
+    {
+      "columnId" : "894AC4DA-5E1A-4C57-8C2E-1CEF35581299",
+      "createdAt" : 798847924.993674,
+      "description" : "",
+      "hasScreenshot" : false,
+      "id" : "9DCE4339-E9BE-4E38-9F82-C20FC5D3B784",
+      "isArchived" : false,
+      "labelIds" : [
+        "06BE6FC8-0AC4-47C5-A394-7341E7331DE3"
+      ],
+      "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
+      "title" : "Add to the meta image that half the image is a zoomed in version of the screenshot so its easier to read the actual text and see how translations work from the thumbnail, with space used differently for the rest of the space and with font\/color matching the new website",
+      "updatedAt" : 798847924.993674
     }
   ],
   "columns" : [
     {
       "cardIds" : [
+        "9DCE4339-E9BE-4E38-9F82-C20FC5D3B784",
         "5A5E52EC-7DFD-456B-97E0-78F94F434FB3",
         "AFD99D6C-1B51-4F7B-8FB4-2273E554CAE3",
         "700E043F-D0A9-4719-A9C6-C4A0947C7439",
@@ -248,5 +263,5 @@
       "name" : "Urgent"
     }
   ],
-  "updatedAt" : 797980825.342736
+  "updatedAt" : 798847924.993713
 }
