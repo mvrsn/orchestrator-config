@@ -7,35 +7,55 @@
   "order" : 0,
   "root" : {
     "split" : {
-      "axis" : "vertical",
+      "axis" : "horizontal",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "DAEF52F4-AF5F-404B-AD13-5D687395D38E",
-            "type" : "browser"
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "DAEF52F4-AF5F-404B-AD13-5D687395D38E",
+                "type" : "browser"
+              },
+              "id" : "AC761F13-566E-45CE-BD8E-BF5B54BEC502",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "BA711726-9236-4958-9268-5ADB3611207B",
-          "isMinimized" : false
+          "id" : "7E7762E0-E5A6-4C6D-AD48-EDB0751F8B1E",
+          "ratio" : 1,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
+                "type" : "project"
+              },
+              "id" : "DA6E7ED1-8953-4896-B9B7-221BA2E8F6F5",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "1BA44447-07E1-4174-A84E-143676C12EEE",
-      "previousRatio" : 0.72,
-      "ratio" : 1,
+      "id" : "CC92711A-A506-455F-BAE0-8AD190BD1590",
+      "ratio" : 0.75,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
-            "type" : "project"
+            "agentType" : "claude",
+            "id" : "63835B21-653E-4E13-8DDE-1F02A5B358F5",
+            "projectId" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
+            "type" : "agent"
           },
-          "id" : "C51E199F-46CC-4253-A3C8-DC4D77F16C2F",
-          "isMinimized" : true
+          "id" : "9A9561D4-E863-40BC-B942-FDE6986B131C",
+          "isMinimized" : false
         },
         "type" : "panel"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 799029451.023221,
+  "updatedAt" : 799029458.096663,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
