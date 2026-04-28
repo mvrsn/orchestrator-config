@@ -7,56 +7,35 @@
   "order" : 0,
   "root" : {
     "split" : {
-      "axis" : "horizontal",
+      "axis" : "vertical",
       "first" : {
-        "split" : {
-          "axis" : "vertical",
-          "first" : {
-            "panel" : {
-              "content" : {
-                "id" : "DAEF52F4-AF5F-404B-AD13-5D687395D38E",
-                "type" : "browser"
-              },
-              "id" : "BA711726-9236-4958-9268-5ADB3611207B",
-              "isMinimized" : false
-            },
-            "type" : "panel"
+        "panel" : {
+          "content" : {
+            "id" : "DAEF52F4-AF5F-404B-AD13-5D687395D38E",
+            "type" : "browser"
           },
-          "id" : "1BA44447-07E1-4174-A84E-143676C12EEE",
-          "previousRatio" : 0.72,
-          "ratio" : 1,
-          "second" : {
-            "panel" : {
-              "content" : {
-                "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
-                "type" : "project"
-              },
-              "id" : "C51E199F-46CC-4253-A3C8-DC4D77F16C2F",
-              "isMinimized" : true
-            },
-            "type" : "panel"
-          }
+          "id" : "BA711726-9236-4958-9268-5ADB3611207B",
+          "isMinimized" : false
         },
-        "type" : "split"
+        "type" : "panel"
       },
-      "id" : "7B1283BF-7C8B-427E-B0A7-E86DCCE7E742",
-      "ratio" : 0.75,
+      "id" : "1BA44447-07E1-4174-A84E-143676C12EEE",
+      "previousRatio" : 0.72,
+      "ratio" : 1,
       "second" : {
         "panel" : {
           "content" : {
-            "agentType" : "claude",
-            "id" : "DEC50693-3DAC-463C-815B-B6B309E2DD4E",
-            "projectId" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
-            "type" : "agent"
+            "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
+            "type" : "project"
           },
-          "id" : "51D453E4-C8F3-49F9-8F42-B23D884FE25A",
-          "isMinimized" : false
+          "id" : "C51E199F-46CC-4253-A3C8-DC4D77F16C2F",
+          "isMinimized" : true
         },
         "type" : "panel"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 798895751.782407,
+  "updatedAt" : 799029451.023221,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }

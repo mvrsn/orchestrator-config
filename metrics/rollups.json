@@ -4490,7 +4490,7 @@
         "Claude Code" : 4
       },
       "appLaunches" : 3,
-      "backgroundSeconds" : 67334,
+      "backgroundSeconds" : 83504,
       "dayKey" : "2026-04-26",
       "eventCount" : 138,
       "focusAdds" : 0,
@@ -4528,7 +4528,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 67075,
+        "00000000-0000-0000-0000-000000000001" : 83245,
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 259
       },
       "workspaceEventBreakdown" : {
@@ -4537,12 +4537,92 @@
         "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 5
       },
       "workspaceStarts" : 0
+    },
+    "2026-04-27" : {
+      "activeSeconds" : 0,
+      "agentSessionsResumed" : 0,
+      "agentSessionsStarted" : 0,
+      "agentTypeEventBreakdown" : {
+
+      },
+      "appLaunches" : 0,
+      "backgroundSeconds" : 86400,
+      "dayKey" : "2026-04-27",
+      "eventCount" : 0,
+      "focusAdds" : 0,
+      "hourlyActivity" : {
+
+      },
+      "linkOpensExternal" : 0,
+      "linkOpensInternal" : 0,
+      "pomodoroBreakMinutes" : 0,
+      "pomodoroBreaksSkipped" : 0,
+      "pomodoroBreaksTaken" : 0,
+      "pomodoroFocusMinutes" : 0,
+      "pomodoroFocusSessions" : 0,
+      "projectEventBreakdown" : {
+
+      },
+      "projectRestarts" : 0,
+      "projectStarts" : 0,
+      "projectStops" : 0,
+      "quickActions" : 0,
+      "workspaceActiveSecondsBreakdown" : {
+
+      },
+      "workspaceBackgroundSecondsBreakdown" : {
+        "00000000-0000-0000-0000-000000000001" : 86400
+      },
+      "workspaceEventBreakdown" : {
+
+      },
+      "workspaceStarts" : 0
+    },
+    "2026-04-28" : {
+      "activeSeconds" : 0,
+      "agentSessionsResumed" : 0,
+      "agentSessionsStarted" : 0,
+      "agentTypeEventBreakdown" : {
+
+      },
+      "appLaunches" : 0,
+      "backgroundSeconds" : 5841,
+      "dayKey" : "2026-04-28",
+      "eventCount" : 1,
+      "focusAdds" : 0,
+      "hourlyActivity" : {
+        "1" : 1
+      },
+      "linkOpensExternal" : 0,
+      "linkOpensInternal" : 0,
+      "pomodoroBreakMinutes" : 0,
+      "pomodoroBreaksSkipped" : 0,
+      "pomodoroBreaksTaken" : 0,
+      "pomodoroFocusMinutes" : 0,
+      "pomodoroFocusSessions" : 0,
+      "projectEventBreakdown" : {
+
+      },
+      "projectRestarts" : 0,
+      "projectStarts" : 0,
+      "projectStops" : 0,
+      "quickActions" : 0,
+      "workspaceActiveSecondsBreakdown" : {
+
+      },
+      "workspaceBackgroundSecondsBreakdown" : {
+        "00000000-0000-0000-0000-000000000001" : 5841
+      },
+      "workspaceEventBreakdown" : {
+
+      },
+      "workspaceStarts" : 0
     }
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
     "0" : 2113,
-    "1" : 1002,
+    "1" : 1003,
     "10" : 2305,
     "11" : 1958,
     "12" : 2236,
@@ -4565,7 +4645,7 @@
     "8" : 820,
     "9" : 1519
   },
-  "lastEventAt" : "2026-04-26T18:30:29Z",
+  "lastEventAt" : "2026-04-28T00:37:21Z",
   "projectBreakdown" : {
     "089312D3-509B-4743-B2F8-FAE9FDFF9573" : 46,
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
@@ -4606,7 +4686,7 @@
     "agentSessionsResumed" : 6899,
     "agentSessionsStarted" : 193,
     "appLaunches" : 882,
-    "backgroundSeconds" : 3021166,
+    "backgroundSeconds" : 3129577,
     "focusAdds" : 31,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 136,
@@ -4619,10 +4699,10 @@
     "projectStarts" : 6958,
     "projectStops" : 107,
     "quickActions" : 199,
-    "totalEvents" : 33092,
+    "totalEvents" : 33093,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-04-26T18:30:29Z",
+  "updatedAt" : "2026-04-28T00:37:21Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 1129887,
     "41642C15-9101-442E-8108-C95ED75265B7" : 10334,
