@@ -4,7 +4,7 @@
   "icon" : "square.grid.2x2",
   "id" : "FD2040AC-629E-4349-98C0-60840D0C0446",
   "name" : "Remotion",
-  "order" : 9,
+  "order" : 5,
   "root" : {
     "split" : {
       "axis" : "horizontal",
@@ -57,6 +57,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 795784887.786035,
-  "workspaceId" : "55D33DA2-0F69-4E99-BE02-C6930DABB07B"
+  "updatedAt" : 799178447.847002,
+  "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
