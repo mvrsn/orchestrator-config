@@ -4714,19 +4714,19 @@
       "workspaceStarts" : 0
     },
     "2026-05-01" : {
-      "activeSeconds" : 53,
+      "activeSeconds" : 98,
       "agentSessionsResumed" : 0,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
 
       },
       "appLaunches" : 0,
-      "backgroundSeconds" : 2087,
+      "backgroundSeconds" : 2247,
       "dayKey" : "2026-05-01",
-      "eventCount" : 10,
+      "eventCount" : 12,
       "focusAdds" : 0,
       "hourlyActivity" : {
-        "0" : 10
+        "0" : 12
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -4746,7 +4746,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 2087
+        "00000000-0000-0000-0000-000000000001" : 2247
       },
       "workspaceEventBreakdown" : {
         "41642C15-9101-442E-8108-C95ED75265B7" : 1
@@ -4756,7 +4756,7 @@
   },
   "firstEventAt" : "2026-02-13T23:59:22Z",
   "hourlyActivity" : {
-    "0" : 2123,
+    "0" : 2125,
     "1" : 1021,
     "10" : 2312,
     "11" : 1958,
@@ -4780,7 +4780,7 @@
     "8" : 820,
     "9" : 1523
   },
-  "lastEventAt" : "2026-04-30T23:35:44Z",
+  "lastEventAt" : "2026-04-30T23:39:09Z",
   "projectBreakdown" : {
     "089312D3-509B-4743-B2F8-FAE9FDFF9573" : 57,
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
@@ -4817,11 +4817,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1293392,
+    "activeSeconds" : 1293437,
     "agentSessionsResumed" : 6899,
     "agentSessionsStarted" : 194,
     "appLaunches" : 882,
-    "backgroundSeconds" : 3342629,
+    "backgroundSeconds" : 3342789,
     "focusAdds" : 31,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 137,
@@ -4834,12 +4834,12 @@
     "projectStarts" : 6960,
     "projectStops" : 108,
     "quickActions" : 200,
-    "totalEvents" : 33292,
+    "totalEvents" : 33294,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-04-30T23:35:44Z",
+  "updatedAt" : "2026-04-30T23:39:09Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 1131846,
+    "00000000-0000-0000-0000-000000000001" : 1131891,
     "41642C15-9101-442E-8108-C95ED75265B7" : 10336,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 51055,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37797,
