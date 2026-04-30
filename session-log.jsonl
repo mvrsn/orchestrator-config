@@ -506,3 +506,5 @@
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T22:00:02.730Z"}
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"a1a2ff6f-a39a-4518-a3a4-0181fa3c97e3","timestamp":"2026-04-30T22:02:55.124Z"}
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T22:04:24.665Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"a1a2ff6f-a39a-4518-a3a4-0181fa3c97e3","timestamp":"2026-04-30T23:29:39.053Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"279565ec-80b4-418f-a650-d571c682800a","timestamp":"2026-04-30T23:32:46.294Z"}
