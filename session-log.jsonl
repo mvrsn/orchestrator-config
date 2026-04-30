@@ -362,3 +362,15 @@
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T10:57:12.881Z"}
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T10:59:01.043Z"}
 {"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T10:59:12.512Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:02:08.626Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:02:37.581Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:08:42.231Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:11:17.415Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:11:20.565Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:11:22.008Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:11:24.897Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:11:50.918Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:11:57.279Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:14:53.555Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unsolicited","session_id":"6b16b4a6-e8ba-4085-bfd7-9e768c083080","timestamp":"2026-04-30T11:15:54.231Z"}
+{"agent_session_id":"DFA5DDDF-DCA5-477D-A48B-C625AF5C93FD","event":"session_id_rejected","reason":"unchanged","session_id":"c5fbce63-1307-441a-acbc-920bf32332d6","timestamp":"2026-04-30T11:17:15.768Z"}
