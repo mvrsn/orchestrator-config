@@ -50,7 +50,7 @@
   "port" : 8788,
   "quickCommands" : [
     {
-      "command" : "CLOUDFLARE_ACCOUNT_ID=0236fab2494f13b9bf95c7daf090da91 npx wrangler pages deploy public --project-name breeze-website --branch preview",
+      "command" : "yarn preview:web",
       "icon" : "arrow.up.circle",
       "id" : "96DF5D09-60EF-407B-8538-7F3F8D89FBC4",
       "name" : "Deploy Preview",
@@ -71,6 +71,6 @@
       "workingDirectory" : "~"
     }
   ],
-  "updatedAt" : 798475545.275654,
+  "updatedAt" : 799299179.025444,
   "workingDirectory" : "\/Users\/mvrsn\/code\/breeze\/web"
 }
