@@ -4773,20 +4773,20 @@
       "workspaceStarts" : 0
     },
     "2026-05-02" : {
-      "activeSeconds" : 401,
+      "activeSeconds" : 432,
       "agentSessionsResumed" : 2,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 2
       },
       "appLaunches" : 1,
-      "backgroundSeconds" : 34309,
+      "backgroundSeconds" : 38883,
       "dayKey" : "2026-05-02",
-      "eventCount" : 103,
+      "eventCount" : 107,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "1" : 29,
-        "10" : 16,
+        "10" : 20,
         "2" : 17,
         "9" : 41
       },
@@ -4817,7 +4817,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "41642C15-9101-442E-8108-C95ED75265B7" : 30252,
+        "41642C15-9101-442E-8108-C95ED75265B7" : 34826,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 4057
       },
       "workspaceEventBreakdown" : {
@@ -4833,7 +4833,7 @@
   "hourlyActivity" : {
     "0" : 2128,
     "1" : 1050,
-    "10" : 2328,
+    "10" : 2332,
     "11" : 1958,
     "12" : 2236,
     "13" : 1957,
@@ -4855,7 +4855,7 @@
     "8" : 820,
     "9" : 1564
   },
-  "lastEventAt" : "2026-05-02T09:10:26Z",
+  "lastEventAt" : "2026-05-02T09:15:59Z",
   "projectBreakdown" : {
     "089312D3-509B-4743-B2F8-FAE9FDFF9573" : 69,
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
@@ -4892,11 +4892,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1294046,
+    "activeSeconds" : 1294077,
     "agentSessionsResumed" : 6904,
     "agentSessionsStarted" : 194,
     "appLaunches" : 885,
-    "backgroundSeconds" : 3460735,
+    "backgroundSeconds" : 3465309,
     "focusAdds" : 31,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 138,
@@ -4909,13 +4909,13 @@
     "projectStarts" : 6990,
     "projectStops" : 108,
     "quickActions" : 202,
-    "totalEvents" : 33456,
+    "totalEvents" : 33460,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-05-02T09:10:26Z",
+  "updatedAt" : "2026-05-02T10:47:15Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 1132022,
-    "41642C15-9101-442E-8108-C95ED75265B7" : 10731,
+    "41642C15-9101-442E-8108-C95ED75265B7" : 10762,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 51055,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37880,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
