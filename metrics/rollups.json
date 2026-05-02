@@ -4780,7 +4780,7 @@
         "Claude Code" : 2
       },
       "appLaunches" : 1,
-      "backgroundSeconds" : 38883,
+      "backgroundSeconds" : 38924,
       "dayKey" : "2026-05-02",
       "eventCount" : 107,
       "focusAdds" : 0,
@@ -4817,7 +4817,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "41642C15-9101-442E-8108-C95ED75265B7" : 34826,
+        "41642C15-9101-442E-8108-C95ED75265B7" : 34867,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 4057
       },
       "workspaceEventBreakdown" : {
@@ -4896,7 +4896,7 @@
     "agentSessionsResumed" : 6904,
     "agentSessionsStarted" : 194,
     "appLaunches" : 885,
-    "backgroundSeconds" : 3465309,
+    "backgroundSeconds" : 3465350,
     "focusAdds" : 31,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 138,
@@ -4912,7 +4912,7 @@
     "totalEvents" : 33460,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-05-02T10:47:15Z",
+  "updatedAt" : "2026-05-02T13:24:48Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 1132022,
     "41642C15-9101-442E-8108-C95ED75265B7" : 10762,
