@@ -4773,21 +4773,21 @@
       "workspaceStarts" : 0
     },
     "2026-05-02" : {
-      "activeSeconds" : 253,
+      "activeSeconds" : 258,
       "agentSessionsResumed" : 1,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
         "Claude Code" : 1
       },
       "appLaunches" : 0,
-      "backgroundSeconds" : 33329,
+      "backgroundSeconds" : 33416,
       "dayKey" : "2026-05-02",
-      "eventCount" : 49,
+      "eventCount" : 58,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "1" : 29,
         "2" : 17,
-        "9" : 3
+        "9" : 12
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -4807,7 +4807,7 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "41642C15-9101-442E-8108-C95ED75265B7" : 29272,
+        "41642C15-9101-442E-8108-C95ED75265B7" : 29359,
         "56632FF1-48EF-4498-A190-1DEE0D907C61" : 4057
       },
       "workspaceEventBreakdown" : {
@@ -4840,9 +4840,9 @@
     "6" : 121,
     "7" : 432,
     "8" : 820,
-    "9" : 1526
+    "9" : 1535
   },
-  "lastEventAt" : "2026-05-02T08:23:56Z",
+  "lastEventAt" : "2026-05-02T08:25:32Z",
   "projectBreakdown" : {
     "089312D3-509B-4743-B2F8-FAE9FDFF9573" : 67,
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
@@ -4879,11 +4879,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1293898,
+    "activeSeconds" : 1293903,
     "agentSessionsResumed" : 6903,
     "agentSessionsStarted" : 194,
     "appLaunches" : 884,
-    "backgroundSeconds" : 3459755,
+    "backgroundSeconds" : 3459842,
     "focusAdds" : 31,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 138,
@@ -4896,13 +4896,13 @@
     "projectStarts" : 6980,
     "projectStops" : 108,
     "quickActions" : 202,
-    "totalEvents" : 33402,
+    "totalEvents" : 33411,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-05-02T08:23:56Z",
+  "updatedAt" : "2026-05-02T08:25:32Z",
   "workspaceActiveSecondsBreakdown" : {
     "00000000-0000-0000-0000-000000000001" : 1132022,
-    "41642C15-9101-442E-8108-C95ED75265B7" : 10583,
+    "41642C15-9101-442E-8108-C95ED75265B7" : 10588,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 51055,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 37880,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
