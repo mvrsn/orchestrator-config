@@ -7,95 +7,74 @@
   "order" : 0,
   "root" : {
     "split" : {
-      "axis" : "horizontal",
+      "axis" : "vertical",
       "first" : {
         "split" : {
-          "axis" : "vertical",
+          "axis" : "horizontal",
           "first" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "0E030FA5-4162-4735-8627-CB45F4CF9BE8",
-                    "type" : "browser"
-                  },
-                  "id" : "3F4267C1-B08B-4B4E-800A-EF3420805F61",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "id" : "0E030FA5-4162-4735-8627-CB45F4CF9BE8",
+                "type" : "browser"
               },
-              "id" : "97F687BC-6885-4DDD-BADE-AE4A72ADF697",
-              "ratio" : 0.5,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "0E95497F-4811-4103-B053-23880F2D61E3",
-                    "type" : "browser"
-                  },
-                  "id" : "CC1AC8B1-2C64-40EE-9781-DEB354DDC9D3",
-                  "isMinimized" : false
-                },
-                "type" : "panel"
-              }
+              "id" : "3F4267C1-B08B-4B4E-800A-EF3420805F61",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           },
-          "id" : "5346569F-2680-466B-AB4D-1225882CD15A",
-          "previousRatio" : 0.72,
-          "ratio" : 1,
+          "id" : "97F687BC-6885-4DDD-BADE-AE4A72ADF697",
+          "ratio" : 0.5,
           "second" : {
-            "split" : {
-              "axis" : "horizontal",
-              "first" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
-                    "type" : "project"
-                  },
-                  "id" : "FC3DBC92-9E0E-4936-9189-493C38C9F361",
-                  "isMinimized" : true
-                },
-                "type" : "panel"
+            "panel" : {
+              "content" : {
+                "id" : "0E95497F-4811-4103-B053-23880F2D61E3",
+                "type" : "browser"
               },
-              "id" : "C2D3D1CD-9A3E-496B-9653-8D8D3D85830B",
-              "isCollapsed" : true,
-              "ratio" : 0.3333333333333333,
-              "second" : {
-                "panel" : {
-                  "content" : {
-                    "id" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
-                    "type" : "project"
-                  },
-                  "id" : "50ED8A3D-54A3-41A0-B8B3-CB07B8D29B7B",
-                  "isMinimized" : true
-                },
-                "type" : "panel"
-              }
+              "id" : "CC1AC8B1-2C64-40EE-9781-DEB354DDC9D3",
+              "isMinimized" : false
             },
-            "type" : "split"
+            "type" : "panel"
           }
         },
         "type" : "split"
       },
-      "id" : "FC8848A4-D33B-47C3-96DA-1B867560BA94",
-      "ratio" : 0.75,
+      "id" : "5346569F-2680-466B-AB4D-1225882CD15A",
+      "previousRatio" : 0.72,
+      "ratio" : 1,
       "second" : {
-        "panel" : {
-          "content" : {
-            "agentType" : "claude",
-            "id" : "5BB54BA4-55CA-4639-A073-978698A791CB",
-            "projectId" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
-            "type" : "agent"
+        "split" : {
+          "axis" : "horizontal",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "089312D3-509B-4743-B2F8-FAE9FDFF9573",
+                "type" : "project"
+              },
+              "id" : "FC3DBC92-9E0E-4936-9189-493C38C9F361",
+              "isMinimized" : true
+            },
+            "type" : "panel"
           },
-          "id" : "026299B2-3806-4210-9A87-978A4C43FAB5",
-          "isMinimized" : false
+          "id" : "C2D3D1CD-9A3E-496B-9653-8D8D3D85830B",
+          "isCollapsed" : true,
+          "ratio" : 0.3333333333333333,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA",
+                "type" : "project"
+              },
+              "id" : "50ED8A3D-54A3-41A0-B8B3-CB07B8D29B7B",
+              "isMinimized" : true
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       }
     },
     "type" : "split"
   },
-  "updatedAt" : 799537148.721191,
+  "updatedAt" : 799537161.408872,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
