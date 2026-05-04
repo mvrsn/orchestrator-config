@@ -55,7 +55,7 @@
   "gitSync" : {
     "commitCount" : 0,
     "enabled" : true,
-    "lastSyncDate" : 799547729.03709,
+    "lastSyncDate" : 799586045.000477,
     "remoteUrl" : "git@github.com:mvrsn\/coda-config.git"
   },
   "keyBindings" : {
