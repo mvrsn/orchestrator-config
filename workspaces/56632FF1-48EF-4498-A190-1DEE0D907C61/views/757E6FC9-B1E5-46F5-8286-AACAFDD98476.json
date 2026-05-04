@@ -9,25 +9,46 @@
     "split" : {
       "axis" : "horizontal",
       "first" : {
-        "panel" : {
-          "content" : {
-            "id" : "7D59346E-18EF-475C-B0C3-9512186B7586",
-            "type" : "browser"
+        "split" : {
+          "axis" : "vertical",
+          "first" : {
+            "panel" : {
+              "content" : {
+                "id" : "7D59346E-18EF-475C-B0C3-9512186B7586",
+                "type" : "browser"
+              },
+              "id" : "7F704F16-2B7B-47C4-8716-A634680D2B92",
+              "isMinimized" : false
+            },
+            "type" : "panel"
           },
-          "id" : "1CC9FA44-5EEF-4E3D-AB12-44F250BBBE60",
-          "isMinimized" : false
+          "id" : "42537561-FEDF-43E0-8462-900D74ACA725",
+          "ratio" : 0.72,
+          "second" : {
+            "panel" : {
+              "content" : {
+                "id" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
+                "type" : "project"
+              },
+              "id" : "011F2851-2328-479A-82E8-BCA74CB87C20",
+              "isMinimized" : false
+            },
+            "type" : "panel"
+          }
         },
-        "type" : "panel"
+        "type" : "split"
       },
-      "id" : "6A2C6001-8470-4B19-8A5E-3B6432403542",
-      "ratio" : 0.7,
+      "id" : "BCE36A5D-DD8F-4002-8219-8CD070E34D22",
+      "ratio" : 0.75,
       "second" : {
         "panel" : {
           "content" : {
-            "id" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
-            "type" : "project"
+            "agentType" : "claude",
+            "id" : "A8B5F677-C1FE-4E2C-8199-85296BD807E9",
+            "projectId" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
+            "type" : "agent"
           },
-          "id" : "5AB44AEF-1E2C-469C-982E-D5DBDB9C30B8",
+          "id" : "65E26CAA-1ECC-4F46-B679-FE0DC2A197F1",
           "isMinimized" : false
         },
         "type" : "panel"
@@ -35,6 +56,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 799590902.027874,
+  "updatedAt" : 799590911.296978,
   "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
 }
