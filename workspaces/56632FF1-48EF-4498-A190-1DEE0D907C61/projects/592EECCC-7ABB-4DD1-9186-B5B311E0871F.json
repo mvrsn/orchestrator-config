@@ -29,7 +29,11 @@
   "icon" : "terminal",
   "id" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
   "links" : [
-
+    {
+      "id" : "6EF3F765-0164-4798-88B1-B3E910EDB84D",
+      "label" : "dev",
+      "url" : "http:\/\/localhost:3000\/"
+    }
   ],
   "logPatterns" : [
 
@@ -38,6 +42,6 @@
   "quickCommands" : [
 
   ],
-  "updatedAt" : 799590886.451612,
+  "updatedAt" : 799590900.230781,
   "workingDirectory" : "\/Users\/mvrsn\/code\/compendium"
 }

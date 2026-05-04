@@ -1,0 +1,40 @@
+{
+  "color" : "667eea",
+  "createdAt" : 799590902.027842,
+  "icon" : "square.grid.2x2",
+  "id" : "757E6FC9-B1E5-46F5-8286-AACAFDD98476",
+  "name" : "compendium",
+  "order" : 7,
+  "root" : {
+    "split" : {
+      "axis" : "horizontal",
+      "first" : {
+        "panel" : {
+          "content" : {
+            "id" : "7D59346E-18EF-475C-B0C3-9512186B7586",
+            "type" : "browser"
+          },
+          "id" : "1CC9FA44-5EEF-4E3D-AB12-44F250BBBE60",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      },
+      "id" : "6A2C6001-8470-4B19-8A5E-3B6432403542",
+      "ratio" : 0.7,
+      "second" : {
+        "panel" : {
+          "content" : {
+            "id" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
+            "type" : "project"
+          },
+          "id" : "5AB44AEF-1E2C-469C-982E-D5DBDB9C30B8",
+          "isMinimized" : false
+        },
+        "type" : "panel"
+      }
+    },
+    "type" : "split"
+  },
+  "updatedAt" : 799590902.027874,
+  "workspaceId" : "56632FF1-48EF-4498-A190-1DEE0D907C61"
+}
