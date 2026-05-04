@@ -40,8 +40,14 @@
   ],
   "name" : "compendium",
   "quickCommands" : [
-
+    {
+      "command" : "npm run deploy",
+      "icon" : "play.circle",
+      "id" : "C0D20B5E-99F3-4D25-BBAA-BB1A2E2FDF9B",
+      "name" : "deploy",
+      "workingDirectory" : "\/Users\/mvrsn\/code\/compendium"
+    }
   ],
-  "updatedAt" : 799590900.230781,
+  "updatedAt" : 799591239.012885,
   "workingDirectory" : "\/Users\/mvrsn\/code\/compendium"
 }
