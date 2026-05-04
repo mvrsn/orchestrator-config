@@ -1,0 +1,43 @@
+{
+  "agentLaunchOverrides" : {
+    "claude" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "codex" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    },
+    "gemini" : {
+      "advancedOverride" : "",
+      "values" : {
+
+      }
+    }
+  },
+  "autoRestart" : false,
+  "color" : "4ECDC4",
+  "command" : "yarn dev",
+  "createdAt" : 799590886.451612,
+  "environment" : {
+
+  },
+  "icon" : "terminal",
+  "id" : "592EECCC-7ABB-4DD1-9186-B5B311E0871F",
+  "links" : [
+
+  ],
+  "logPatterns" : [
+
+  ],
+  "name" : "compendium",
+  "quickCommands" : [
+
+  ],
+  "updatedAt" : 799590886.451612,
+  "workingDirectory" : "\/Users\/mvrsn\/code\/compendium"
+}
