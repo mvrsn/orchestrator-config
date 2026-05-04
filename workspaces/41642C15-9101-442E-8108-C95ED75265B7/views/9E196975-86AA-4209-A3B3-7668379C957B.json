@@ -3,7 +3,7 @@
   "createdAt" : 798033389.864242,
   "icon" : "square.grid.2x2",
   "id" : "9E196975-86AA-4209-A3B3-7668379C957B",
-  "name" : "Website",
+  "name" : "Breeze Web",
   "order" : 0,
   "root" : {
     "split" : {
@@ -75,6 +75,6 @@
     },
     "type" : "split"
   },
-  "updatedAt" : 799537161.408872,
+  "updatedAt" : 799591450.900696,
   "workspaceId" : "41642C15-9101-442E-8108-C95ED75265B7"
 }
