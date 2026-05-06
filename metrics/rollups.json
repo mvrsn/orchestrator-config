@@ -1,6 +1,6 @@
 {
   "agentTypeBreakdown" : {
-    "Claude Code" : 6515,
+    "Claude Code" : 6516,
     "Codex" : 273,
     "Gemini" : 299,
     "Terminal" : 16
@@ -4973,20 +4973,22 @@
       "workspaceStarts" : 0
     },
     "2026-05-06" : {
-      "activeSeconds" : 81,
-      "agentSessionsResumed" : 0,
+      "activeSeconds" : 161,
+      "agentSessionsResumed" : 1,
       "agentSessionsStarted" : 0,
       "agentTypeEventBreakdown" : {
-
+        "Claude Code" : 1
       },
-      "appLaunches" : 0,
-      "backgroundSeconds" : 22287,
+      "appLaunches" : 1,
+      "backgroundSeconds" : 43854,
       "dayKey" : "2026-05-06",
-      "eventCount" : 20,
+      "eventCount" : 25,
       "focusAdds" : 0,
       "hourlyActivity" : {
         "11" : 12,
-        "12" : 8
+        "12" : 8,
+        "18" : 3,
+        "19" : 2
       },
       "linkOpensExternal" : 0,
       "linkOpensInternal" : 0,
@@ -4996,7 +4998,7 @@
       "pomodoroFocusMinutes" : 0,
       "pomodoroFocusSessions" : 0,
       "projectEventBreakdown" : {
-
+        "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F" : 1
       },
       "projectRestarts" : 0,
       "projectStarts" : 0,
@@ -5006,10 +5008,10 @@
 
       },
       "workspaceBackgroundSecondsBreakdown" : {
-        "00000000-0000-0000-0000-000000000001" : 22287
+        "00000000-0000-0000-0000-000000000001" : 43854
       },
       "workspaceEventBreakdown" : {
-
+        "41642C15-9101-442E-8108-C95ED75265B7" : 1
       },
       "workspaceStarts" : 0
     }
@@ -5026,8 +5028,8 @@
     "15" : 1762,
     "16" : 1654,
     "17" : 1660,
-    "18" : 1570,
-    "19" : 1945,
+    "18" : 1573,
+    "19" : 1947,
     "2" : 347,
     "20" : 1996,
     "21" : 2202,
@@ -5040,7 +5042,7 @@
     "8" : 820,
     "9" : 1566
   },
-  "lastEventAt" : "2026-05-06T11:03:40Z",
+  "lastEventAt" : "2026-05-06T18:48:39Z",
   "projectBreakdown" : {
     "089312D3-509B-4743-B2F8-FAE9FDFF9573" : 76,
     "12D29467-00D6-4B82-8805-940D0AFC9A3D" : 658,
@@ -5070,7 +5072,7 @@
     "A1DAADD3-87CD-4580-A44B-BFBAB2EC0FDA" : 606,
     "A30FDD50-DE7E-4E12-A706-9F84D6C6FCDA" : 431,
     "AC63FC8E-B617-4856-9F03-4244632899C0" : 84,
-    "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F" : 14,
+    "BF140956-25B5-44C1-B2A7-BFFD93DDCB0F" : 15,
     "CFE6F9AA-81C5-430B-ACBA-5C213A46895B" : 1842,
     "E335E0DB-72EE-41A8-8B14-CA7C76C16B6F" : 300,
     "EDBC6C51-EF51-4856-BFA2-304B3940FEEE" : 380,
@@ -5078,11 +5080,11 @@
   },
   "schemaVersion" : 1,
   "totals" : {
-    "activeSeconds" : 1299505,
-    "agentSessionsResumed" : 6906,
+    "activeSeconds" : 1299585,
+    "agentSessionsResumed" : 6907,
     "agentSessionsStarted" : 197,
-    "appLaunches" : 886,
-    "backgroundSeconds" : 3606694,
+    "appLaunches" : 887,
+    "backgroundSeconds" : 3628261,
     "focusAdds" : 32,
     "linkOpensExternal" : 26,
     "linkOpensInternal" : 142,
@@ -5095,21 +5097,21 @@
     "projectStarts" : 7001,
     "projectStops" : 108,
     "quickActions" : 203,
-    "totalEvents" : 33689,
+    "totalEvents" : 33694,
     "workspaceStarts" : 0
   },
-  "updatedAt" : "2026-05-06T11:03:40Z",
+  "updatedAt" : "2026-05-06T18:48:39Z",
   "workspaceActiveSecondsBreakdown" : {
-    "00000000-0000-0000-0000-000000000001" : 1135598,
-    "41642C15-9101-442E-8108-C95ED75265B7" : 12046,
-    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 51055,
-    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 38448,
+    "00000000-0000-0000-0000-000000000001" : 1135664,
+    "41642C15-9101-442E-8108-C95ED75265B7" : 12048,
+    "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 51061,
+    "56632FF1-48EF-4498-A190-1DEE0D907C61" : 38451,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 327,
-    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 57525,
-    "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3139
+    "9D8CC9C2-2737-4930-9BE5-D7D47DAA5BF4" : 57526,
+    "AE4A0EA7-6FFE-4E71-B3D8-C0E5F06BBE84" : 3141
   },
   "workspaceBreakdown" : {
-    "41642C15-9101-442E-8108-C95ED75265B7" : 157,
+    "41642C15-9101-442E-8108-C95ED75265B7" : 158,
     "55D33DA2-0F69-4E99-BE02-C6930DABB07B" : 9673,
     "56632FF1-48EF-4498-A190-1DEE0D907C61" : 2861,
     "5971012A-213C-4F68-98DB-193C75ABB640" : 2,
